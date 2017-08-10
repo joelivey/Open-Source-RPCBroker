@@ -1,0 +1,5450 @@
+KIDS Distribution saved on Feb 25, 2017@14:59:52
+Server-side support for Open Source RPCBroker
+**KIDS**:KBBP*1.0*0^
+
+**INSTALL NAME**
+KBBP*1.0*0
+"BLD",9541,0)
+KBBP*1.0*0^KBBPTOOLS^0^3170225^n
+"BLD",9541,1,0)
+^^1^1^3170217^
+"BLD",9541,1,1,0)
+Support for OSRPCBroker
+"BLD",9541,4,0)
+^9.64PA^^
+"BLD",9541,6.3)
+6
+"BLD",9541,"KRN",0)
+^9.67PA^779.2^20
+"BLD",9541,"KRN",.4,0)
+.4
+"BLD",9541,"KRN",.401,0)
+.401
+"BLD",9541,"KRN",.402,0)
+.402
+"BLD",9541,"KRN",.403,0)
+.403
+"BLD",9541,"KRN",.5,0)
+.5
+"BLD",9541,"KRN",.84,0)
+.84
+"BLD",9541,"KRN",3.6,0)
+3.6
+"BLD",9541,"KRN",3.8,0)
+3.8
+"BLD",9541,"KRN",9.2,0)
+9.2
+"BLD",9541,"KRN",9.8,0)
+9.8
+"BLD",9541,"KRN",9.8,"NM",0)
+^9.68A^19^19
+"BLD",9541,"KRN",9.8,"NM",1,0)
+KBBPXWB1^^0^B103441228
+"BLD",9541,"KRN",9.8,"NM",2,0)
+KBBPXWB2^^0^B15465092
+"BLD",9541,"KRN",9.8,"NM",3,0)
+KBBPXWBE^^0^B7255298
+"BLD",9541,"KRN",9.8,"NM",4,0)
+KBBPXWBP^^0^B121309641
+"BLD",9541,"KRN",9.8,"NM",5,0)
+KBBPXWBR^^0^B25314239
+"BLD",9541,"KRN",9.8,"NM",6,0)
+KBBPXWBS^^0^B8150647
+"BLD",9541,"KRN",9.8,"NM",7,0)
+KBBPXWBT^^0^B7053054
+"BLD",9541,"KRN",9.8,"NM",8,0)
+KBBPXWBX^^0^B1161375
+"BLD",9541,"KRN",9.8,"NM",9,0)
+KBBPUXWB^^0^B7381287
+"BLD",9541,"KRN",9.8,"NM",10,0)
+KBBPUXWE^^0^B14138550
+"BLD",9541,"KRN",9.8,"NM",11,0)
+KBBPUXWP^^0^B94767380
+"BLD",9541,"KRN",9.8,"NM",12,0)
+KBBPUXWR^^0^B3825855
+"BLD",9541,"KRN",9.8,"NM",13,0)
+KBBPUXWT^^0^B25083846
+"BLD",9541,"KRN",9.8,"NM",14,0)
+KBBPUXWX^^0^B3737643
+"BLD",9541,"KRN",9.8,"NM",15,0)
+KBBPXUS4^^0^B36549242
+"BLD",9541,"KRN",9.8,"NM",16,0)
+KBBPXUS5^^0^B35537571
+"BLD",9541,"KRN",9.8,"NM",17,0)
+KBBPXUSR^^0^B34387069
+"BLD",9541,"KRN",9.8,"NM",18,0)
+KBBPUXU4^^0^B30647
+"BLD",9541,"KRN",9.8,"NM",19,0)
+KBBPXWBD^^0^B9199970
+"BLD",9541,"KRN",9.8,"NM","B","KBBPUXU4",18)
+
+"BLD",9541,"KRN",9.8,"NM","B","KBBPUXWB",9)
+
+"BLD",9541,"KRN",9.8,"NM","B","KBBPUXWE",10)
+
+"BLD",9541,"KRN",9.8,"NM","B","KBBPUXWP",11)
+
+"BLD",9541,"KRN",9.8,"NM","B","KBBPUXWR",12)
+
+"BLD",9541,"KRN",9.8,"NM","B","KBBPUXWT",13)
+
+"BLD",9541,"KRN",9.8,"NM","B","KBBPUXWX",14)
+
+"BLD",9541,"KRN",9.8,"NM","B","KBBPXUS4",15)
+
+"BLD",9541,"KRN",9.8,"NM","B","KBBPXUS5",16)
+
+"BLD",9541,"KRN",9.8,"NM","B","KBBPXUSR",17)
+
+"BLD",9541,"KRN",9.8,"NM","B","KBBPXWB1",1)
+
+"BLD",9541,"KRN",9.8,"NM","B","KBBPXWB2",2)
+
+"BLD",9541,"KRN",9.8,"NM","B","KBBPXWBD",19)
+
+"BLD",9541,"KRN",9.8,"NM","B","KBBPXWBE",3)
+
+"BLD",9541,"KRN",9.8,"NM","B","KBBPXWBP",4)
+
+"BLD",9541,"KRN",9.8,"NM","B","KBBPXWBR",5)
+
+"BLD",9541,"KRN",9.8,"NM","B","KBBPXWBS",6)
+
+"BLD",9541,"KRN",9.8,"NM","B","KBBPXWBT",7)
+
+"BLD",9541,"KRN",9.8,"NM","B","KBBPXWBX",8)
+
+"BLD",9541,"KRN",19,0)
+19
+"BLD",9541,"KRN",19,"NM",0)
+^9.68A^1^1
+"BLD",9541,"KRN",19,"NM",1,0)
+KBBP OSRPCBROKER EXAMPLE^^0
+"BLD",9541,"KRN",19,"NM","B","KBBP OSRPCBROKER EXAMPLE",1)
+
+"BLD",9541,"KRN",19.1,0)
+19.1
+"BLD",9541,"KRN",101,0)
+101
+"BLD",9541,"KRN",409.61,0)
+409.61
+"BLD",9541,"KRN",771,0)
+771
+"BLD",9541,"KRN",779.2,0)
+779.2
+"BLD",9541,"KRN",870,0)
+870
+"BLD",9541,"KRN",8989.51,0)
+8989.51
+"BLD",9541,"KRN",8989.52,0)
+8989.52
+"BLD",9541,"KRN",8994,0)
+8994
+"BLD",9541,"KRN",8994,"NM",0)
+^9.68A^10^10
+"BLD",9541,"KRN",8994,"NM",1,0)
+KBBPXWB AV CODE^^0
+"BLD",9541,"KRN",8994,"NM",2,0)
+KBBPXWB GET TOKEN^^0
+"BLD",9541,"KRN",8994,"NM",3,0)
+KBBPXWB RESET ENCODING^^0
+"BLD",9541,"KRN",8994,"NM",4,0)
+KBBPXWB SET ENCODING^^0
+"BLD",9541,"KRN",8994,"NM",5,0)
+KBBPXWBE CONCATENATE KBBPVALU^^0
+"BLD",9541,"KRN",8994,"NM",6,0)
+KBBPXWBE KILL KBBPVALU^^0
+"BLD",9541,"KRN",8994,"NM",7,0)
+KBBPXWBE SET KBBPVALU^^0
+"BLD",9541,"KRN",8994,"NM",8,0)
+KBBPXWB CREATE CONTEXT^^0
+"BLD",9541,"KRN",8994,"NM",9,0)
+KBBPXWBE GET KBBPVALU^^0
+"BLD",9541,"KRN",8994,"NM",10,0)
+KBBPXWB CHANGE VERIFY^^0
+"BLD",9541,"KRN",8994,"NM","B","KBBPXWB AV CODE",1)
+
+"BLD",9541,"KRN",8994,"NM","B","KBBPXWB CHANGE VERIFY",10)
+
+"BLD",9541,"KRN",8994,"NM","B","KBBPXWB CREATE CONTEXT",8)
+
+"BLD",9541,"KRN",8994,"NM","B","KBBPXWB GET TOKEN",2)
+
+"BLD",9541,"KRN",8994,"NM","B","KBBPXWB RESET ENCODING",3)
+
+"BLD",9541,"KRN",8994,"NM","B","KBBPXWB SET ENCODING",4)
+
+"BLD",9541,"KRN",8994,"NM","B","KBBPXWBE CONCATENATE KBBPVALU",5)
+
+"BLD",9541,"KRN",8994,"NM","B","KBBPXWBE GET KBBPVALU",9)
+
+"BLD",9541,"KRN",8994,"NM","B","KBBPXWBE KILL KBBPVALU",6)
+
+"BLD",9541,"KRN",8994,"NM","B","KBBPXWBE SET KBBPVALU",7)
+
+"BLD",9541,"KRN","B",.4,.4)
+
+"BLD",9541,"KRN","B",.401,.401)
+
+"BLD",9541,"KRN","B",.402,.402)
+
+"BLD",9541,"KRN","B",.403,.403)
+
+"BLD",9541,"KRN","B",.5,.5)
+
+"BLD",9541,"KRN","B",.84,.84)
+
+"BLD",9541,"KRN","B",3.6,3.6)
+
+"BLD",9541,"KRN","B",3.8,3.8)
+
+"BLD",9541,"KRN","B",9.2,9.2)
+
+"BLD",9541,"KRN","B",9.8,9.8)
+
+"BLD",9541,"KRN","B",19,19)
+
+"BLD",9541,"KRN","B",19.1,19.1)
+
+"BLD",9541,"KRN","B",101,101)
+
+"BLD",9541,"KRN","B",409.61,409.61)
+
+"BLD",9541,"KRN","B",771,771)
+
+"BLD",9541,"KRN","B",779.2,779.2)
+
+"BLD",9541,"KRN","B",870,870)
+
+"BLD",9541,"KRN","B",8989.51,8989.51)
+
+"BLD",9541,"KRN","B",8989.52,8989.52)
+
+"BLD",9541,"KRN","B",8994,8994)
+
+"BLD",9541,"QDEF")
+^^^^NO^^^^NO^^NO
+"BLD",9541,"QUES",0)
+^9.62^^
+"BLD",9541,"REQB",0)
+^9.611^^
+"KRN",19,11571,-1)
+0^1
+"KRN",19,11571,0)
+KBBP OSRPCBROKER EXAMPLE^OPEN SOURCE RPCBROKER EXAMPLE^^B^^^^^^^^
+"KRN",19,11571,1,0)
+^^2^2^3170218^
+"KRN",19,11571,1,1,0)
+This option is used by the OSBrokerExample application to demonstrate 
+"KRN",19,11571,1,2,0)
+the capabilities of the Open Source RPCBroker
+"KRN",19,11571,"RPC",0)
+^19.05P^15^15
+"KRN",19,11571,"RPC",1,0)
+KBBPXWB AV CODE
+"KRN",19,11571,"RPC",2,0)
+KBBPXWB GET TOKEN
+"KRN",19,11571,"RPC",3,0)
+KBBPXWB RESET ENCODING
+"KRN",19,11571,"RPC",4,0)
+KBBPXWB SET ENCODING
+"KRN",19,11571,"RPC",5,0)
+KBBPXWBE CONCATENATE KBBPVALU
+"KRN",19,11571,"RPC",6,0)
+KBBPXWBE KILL KBBPVALU
+"KRN",19,11571,"RPC",7,0)
+KBBPXWBE SET KBBPVALU
+"KRN",19,11571,"RPC",8,0)
+XWB EXAMPLE ECHO STRING
+"KRN",19,11571,"RPC",9,0)
+XWB EXAMPLE GET LIST
+"KRN",19,11571,"RPC",10,0)
+XWB EXAMPLE GLOBAL SORT
+"KRN",19,11571,"RPC",11,0)
+XWB GET VARIABLE VALUE
+"KRN",19,11571,"RPC",12,0)
+XWB EXAMPLE TRAP PARAMS
+"KRN",19,11571,"RPC",13,0)
+XWB EXAMPLE BIG TEXT
+"KRN",19,11571,"RPC",14,0)
+XWB EXAMPLE SORT NUMBERS
+"KRN",19,11571,"RPC",15,0)
+XWB EXAMPLE WPTEXT
+"KRN",19,11571,"U")
+OPEN SOURCE RPCBROKER EXAMPLE
+"KRN",8994,3265,-1)
+0^4
+"KRN",8994,3265,0)
+KBBPXWB SET ENCODING^SETENCOD^KBBPXWBE^2^R
+"KRN",8994,3265,1,0)
+^8994.01^1^1^3160419^
+"KRN",8994,3265,1,1,0)
+Updates encoding array for client to match new one created for job.
+"KRN",8994,3265,3,0)
+^^1^1^3160419^
+"KRN",8994,3265,3,1,0)
+Encoding array
+"KRN",8994,3266,-1)
+0^3
+"KRN",8994,3266,0)
+KBBPXWB RESET ENCODING^RESET^KBBPXWBE^2^R
+"KRN",8994,3267,-1)
+0^1
+"KRN",8994,3267,0)
+KBBPXWB AV CODE^VALIDAV^KBBPXUSR^2^R
+"KRN",8994,3267,1,0)
+^8994.01^11^11^3160507^^
+"KRN",8994,3267,1,1,0)
+Based on XUS AV CODE - modified to not use separate encrypting (encoding)
+"KRN",8994,3267,1,2,0)
+ This API checks if a ACCESS/VERIFY code pair is valid.
+"KRN",8994,3267,1,3,0)
+ It returns an array of values
+"KRN",8994,3267,1,4,0)
+ 
+"KRN",8994,3267,1,5,0)
+ R(0)=DUZ if sign-on was OK, zero if not OK.
+"KRN",8994,3267,1,6,0)
+ R(1)=(0=OK, 1,2...=Can't sign-on for some reason).
+"KRN",8994,3267,1,7,0)
+ R(2)=verify needs changing.
+"KRN",8994,3267,1,8,0)
+ R(3)=Message.
+"KRN",8994,3267,1,9,0)
+ R(4)=0
+"KRN",8994,3267,1,10,0)
+ R(5)=count of the number of lines of text, zero if none.
+"KRN",8994,3267,1,11,0)
+ R(5+n)=message text.
+"KRN",8994,3267,2,0)
+^8994.02A^1^1
+"KRN",8994,3267,2,1,0)
+AVCODE^1^60^1
+"KRN",8994,3267,2,1,1,0)
+^^1^1^3160507^
+"KRN",8994,3267,2,1,1,1,0)
+accessCode_";"_verifyCode in unencrypted form.
+"KRN",8994,3267,2,"B","AVCODE",1)
+
+"KRN",8994,3268,-1)
+0^2
+"KRN",8994,3268,0)
+KBBPXWB GET TOKEN^ASH^KBBPXUS4^1^R^^^^1
+"KRN",8994,3268,1,0)
+^^2^2^3160508^
+"KRN",8994,3268,1,1,0)
+Returns a token which identifies the current process for reconnection
+"KRN",8994,3268,1,2,0)
+for a period of time.
+"KRN",8994,3268,3,0)
+^^1^1^3160508^
+"KRN",8994,3268,3,1,0)
+Returned token identifying the current process.
+"KRN",8994,3269,-1)
+0^7
+"KRN",8994,3269,0)
+KBBPXWBE SET KBBPVALU^SETVALU^KBBPXWBX^1^P
+"KRN",8994,3269,1,0)
+^^4^4^3160519^
+"KRN",8994,3269,1,1,0)
+Sets the value of the variable KBBPVALU to an input value (the second
+"KRN",8994,3269,1,2,0)
+argument).  This is intended primarily for demonstration of the ability
+"KRN",8994,3269,1,3,0)
+of the enhanced RPCBroker to reconnect after timing out with all values
+"KRN",8994,3269,1,4,0)
+restored.
+"KRN",8994,3269,2,0)
+^8994.02A^1^1
+"KRN",8994,3269,2,1,0)
+VALUE FOR KBBPVALU^1^^1
+"KRN",8994,3269,2,1,1,0)
+^^1^1^3160519^
+"KRN",8994,3269,2,1,1,1,0)
+This is the value that will be used for setting the KBBPVALU value.
+"KRN",8994,3269,2,"B","VALUE FOR KBBPVALU",1)
+
+"KRN",8994,3269,3,0)
+^^2^2^3160519^
+"KRN",8994,3269,3,1,0)
+This is the value of the variable KBBPVALU after the RPC has been 
+"KRN",8994,3269,3,2,0)
+performed.
+"KRN",8994,3270,-1)
+0^5
+"KRN",8994,3270,0)
+KBBPXWBE CONCATENATE KBBPVALU^CONVALU^KBBPXWBX^1^P
+"KRN",8994,3270,1,0)
+^^2^2^3160519^
+"KRN",8994,3270,1,1,0)
+For demonstration purposes, concatenates the input value to the current
+"KRN",8994,3270,1,2,0)
+value of the variable KBBPVALU (creating it if it doesn't exist).
+"KRN",8994,3270,2,0)
+^8994.02A^1^1
+"KRN",8994,3270,2,1,0)
+VALUE TO CONCATENATE^1^^1
+"KRN",8994,3270,2,1,1,0)
+^^1^1^3160519^
+"KRN",8994,3270,2,1,1,1,0)
+Value to be concatenated to any current value of the variable KBBPVALU.
+"KRN",8994,3270,2,"B","VALUE TO CONCATENATE",1)
+
+"KRN",8994,3270,3,0)
+^^1^1^3160519^
+"KRN",8994,3270,3,1,0)
+The value of the variable KBBPVALU after completion of the concatenation.
+"KRN",8994,3271,-1)
+0^6
+"KRN",8994,3271,0)
+KBBPXWBE KILL KBBPVALU^KILLVALU^KBBPXWBX^1^P
+"KRN",8994,3271,1,0)
+^^1^1^3160519^
+"KRN",8994,3271,1,1,0)
+RPC provided to kill the value of the variable KBBPVALU.
+"KRN",8994,3271,3,0)
+^^1^1^3160519^
+"KRN",8994,3271,3,1,0)
+Text indicating that the variable KBBPVALU does not exist.
+"KRN",8994,3272,-1)
+0^9
+"KRN",8994,3272,0)
+KBBPXWBE GET KBBPVALU^GETVALU^KBBPXWBX^1^P
+"KRN",8994,3272,1,0)
+^^1^1^3160519^
+"KRN",8994,3272,1,1,0)
+Returns the current value of the variable KBBPVALU.
+"KRN",8994,3272,3,0)
+^^2^2^3160519^
+"KRN",8994,3272,3,1,0)
+A string of text showing the current value of KBBPVALU, this may be
+"KRN",8994,3272,3,2,0)
+a string of text indicating a null value or nonexistent value.
+"KRN",8994,3273,-1)
+0^8
+"KRN",8994,3273,0)
+KBBPXWB CREATE CONTEXT^CRCONTXT^KBBPXWBS^1
+"KRN",8994,3273,2,0)
+^8994.02A^1^1
+"KRN",8994,3273,2,1,0)
+CONTEXT OPTION^1^^^1
+"KRN",8994,3273,2,"B","CONTEXT OPTION",1)
+
+"KRN",8994,3273,2,"PARAMSEQ",1,1)
+
+"KRN",8994,3274,-1)
+0^10
+"KRN",8994,3274,0)
+KBBPXWB CHANGE VERIFY^CVC^KBBPXUSR^2^R
+"KRN",8994,3274,1,0)
+^^2^2^3170222^
+"KRN",8994,3274,1,1,0)
+This RPC is used as part of Kernel to allow the user to change 
+"KRN",8994,3274,1,2,0)
+their verify code
+"MBREQ")
+0
+"ORD",16,8994)
+8994;16;1;;;;;;;RPCDEL^XPDIA1
+"ORD",16,8994,0)
+REMOTE PROCEDURE
+"ORD",18,19)
+19;18;;;OPT^XPDTA;OPTF1^XPDIA;OPTE1^XPDIA;OPTF2^XPDIA;;OPTDEL^XPDIA
+"ORD",18,19,0)
+OPTION
+"PKG",225,-1)
+1^1
+"PKG",225,0)
+KBBPTOOLS^KBBP^Development Tools
+"PKG",225,22,0)
+^9.49I^1^1
+"PKG",225,22,1,0)
+1.0^3170217^3170217^2802
+"PKG",225,22,1,"PAH",1,0)
+0^3170225
+"PKG",225,22,1,"PAH",1,1,0)
+^^1^1^3170225
+"PKG",225,22,1,"PAH",1,1,1,0)
+Support for OSRPCBroker
+"QUES","XPF1",0)
+Y
+"QUES","XPF1","??")
+^D REP^XPDH
+"QUES","XPF1","A")
+Shall I write over your |FLAG| File
+"QUES","XPF1","B")
+YES
+"QUES","XPF1","M")
+D XPF1^XPDIQ
+"QUES","XPF2",0)
+Y
+"QUES","XPF2","??")
+^D DTA^XPDH
+"QUES","XPF2","A")
+Want my data |FLAG| yours
+"QUES","XPF2","B")
+YES
+"QUES","XPF2","M")
+D XPF2^XPDIQ
+"QUES","XPI1",0)
+YO
+"QUES","XPI1","??")
+^D INHIBIT^XPDH
+"QUES","XPI1","A")
+Want KIDS to INHIBIT LOGONs during the install
+"QUES","XPI1","B")
+NO
+"QUES","XPI1","M")
+D XPI1^XPDIQ
+"QUES","XPM1",0)
+PO^VA(200,:EM
+"QUES","XPM1","??")
+^D MG^XPDH
+"QUES","XPM1","A")
+Enter the Coordinator for Mail Group '|FLAG|'
+"QUES","XPM1","B")
+
+"QUES","XPM1","M")
+D XPM1^XPDIQ
+"QUES","XPO1",0)
+Y
+"QUES","XPO1","??")
+^D MENU^XPDH
+"QUES","XPO1","A")
+Want KIDS to Rebuild Menu Trees Upon Completion of Install
+"QUES","XPO1","B")
+NO
+"QUES","XPO1","M")
+D XPO1^XPDIQ
+"QUES","XPZ1",0)
+Y
+"QUES","XPZ1","??")
+^D OPT^XPDH
+"QUES","XPZ1","A")
+Want to DISABLE Scheduled Options, Menu Options, and Protocols
+"QUES","XPZ1","B")
+NO
+"QUES","XPZ1","M")
+D XPZ1^XPDIQ
+"QUES","XPZ2",0)
+Y
+"QUES","XPZ2","??")
+^D RTN^XPDH
+"QUES","XPZ2","A")
+Want to MOVE routines to other CPUs
+"QUES","XPZ2","B")
+NO
+"QUES","XPZ2","M")
+D XPZ2^XPDIQ
+"RTN")
+19
+"RTN","KBBPUXU4")
+0^18^B30647
+"RTN","KBBPUXU4",1,0)
+KBBPUXU4 ;JLI/JIVEY@JIVEYSOFT.COM - Unit test routine ;05/08/16  11:28
+"RTN","KBBPUXU4",2,0)
+ ;;0.0;KBBPTOOLS;;;Build 6
+"RTN","KBBPUXU4",3,0)
+ I $T(^ut) D EN^ut($T(+0))
+"RTN","KBBPUXU4",4,0)
+ Q
+"RTN","KBBPUXU4",5,0)
+ ;
+"RTN","KBBPUXWB")
+0^9^B7381287
+"RTN","KBBPUXWB",1,0)
+KBBPUXWB ;JIVEYSOFT.COM/JOEL IVEY - Unit test routine for new broker-related code ;11/13/16  21:26
+"RTN","KBBPUXWB",2,0)
+ ;;0.0;JLITOOLS;;;Build 6
+"RTN","KBBPUXWB",3,0)
+ N DUZ1 S DUZ1=DUZ
+"RTN","KBBPUXWB",4,0)
+ N DUZ S DUZ=DUZ1
+"RTN","KBBPUXWB",5,0)
+ D EN^%ut("KBBPUXWB")
+"RTN","KBBPUXWB",6,0)
+ Q
+"RTN","KBBPUXWB",7,0)
+ ;; TAGS IN KBBPXWB1
+"RTN","KBBPUXWB",8,0)
+START ;
+"RTN","KBBPUXWB",9,0)
+ZISTCP ;
+"RTN","KBBPUXWB",10,0)
+DSM ;
+"RTN","KBBPUXWB",11,0)
+CACHEVMS ;
+"RTN","KBBPUXWB",12,0)
+NT ;
+"RTN","KBBPUXWB",13,0)
+GTMUCX ;
+"RTN","KBBPUXWB",14,0)
+GTMLNX ;
+"RTN","KBBPUXWB",15,0)
+ESET ;
+"RTN","KBBPUXWB",16,0)
+CONNTYPE ;
+"RTN","KBBPUXWB",17,0)
+NEWJOB ;
+"RTN","KBBPUXWB",18,0)
+M2M ;
+"RTN","KBBPUXWB",19,0)
+RESTART ;
+"RTN","KBBPUXWB",20,0)
+MAIN ;
+"RTN","KBBPUXWB",21,0)
+ETRAP ;
+"RTN","KBBPUXWB",22,0)
+CLEANP ;
+"RTN","KBBPUXWB",23,0)
+STYPE ;
+"RTN","KBBPUXWB",24,0)
+BREAD ;
+"RTN","KBBPUXWB",25,0)
+CHPRN ;
+"RTN","KBBPUXWB",26,0)
+SETTIME ;
+"RTN","KBBPUXWB",27,0)
+TIMEOUT ;
+"RTN","KBBPUXWB",28,0)
+OS ;
+"RTN","KBBPUXWB",29,0)
+INIT ;
+"RTN","KBBPUXWB",30,0)
+DEBUG ;
+"RTN","KBBPUXWB",31,0)
+SERV ;
+"RTN","KBBPUXWB",32,0)
+EXIT ;
+"RTN","KBBPUXWB",33,0)
+LOG ;
+"RTN","KBBPUXWB",34,0)
+ ;
+"RTN","KBBPUXWB",35,0)
+COVERAGE ; run coverage analysis
+"RTN","KBBPUXWB",36,0)
+ S TESTROUS(1)="KBBPUXWB,^KBBPXWB1,^KBBPXWBE,^KBBPXWBP,^KBBPXWBR,^KBBPXWBT,^KBBPXWBX"
+"RTN","KBBPUXWB",37,0)
+ R !!,"Enter desired output level (1:Routine, 2:Tags, or 3:LinesMissed): 1// ",LEVEL:DTIME Q:'$T  I LEVEL[U Q
+"RTN","KBBPUXWB",38,0)
+ I $E(LEVEL)="?" D LISTLEVL G COVERAGE
+"RTN","KBBPUXWB",39,0)
+ S LEVEL=$S(LEVEL=+LEVEL:LEVEL,1:1) S LEVEL=$S(LEVEL<1:1,LEVEL>3:3,1:LEVEL)
+"RTN","KBBPUXWB",40,0)
+ D COVERAGE^%ut("KBBPXWB*",.TESTROUS,.XCLUDROU,LEVEL)
+"RTN","KBBPUXWB",41,0)
+ Q
+"RTN","KBBPUXWB",42,0)
+ ;
+"RTN","KBBPUXWB",43,0)
+LISTLEVL ; list description for possible input values to COVERAGE prompt
+"RTN","KBBPUXWB",44,0)
+ W !,"1: Coverage is listed for total and by routine only"
+"RTN","KBBPUXWB",45,0)
+ W !,"2: Coverage is listed for total, by routine only and by tag within ",!,"     each routine"
+"RTN","KBBPUXWB",46,0)
+ W !,"3: Coverage is listed for total, by routine only and by tag within ",!,"     each routine with listing of lines by routine which were not ",!,"     covered."
+"RTN","KBBPUXWB",47,0)
+ Q
+"RTN","KBBPUXWB",48,0)
+ ;
+"RTN","KBBPUXWB",49,0)
+CHKEQ(EXPECTED,ACTUAL,MESSAGE) ;
+"RTN","KBBPUXWB",50,0)
+ D CHKEQ^%ut(EXPECTED,ACTUAL,$G(MESSAGE))
+"RTN","KBBPUXWB",51,0)
+ Q
+"RTN","KBBPUXWB",52,0)
+ ;
+"RTN","KBBPUXWB",53,0)
+CHKTF(VALUE,MESSAGE) ;
+"RTN","KBBPUXWB",54,0)
+ D CHKTF^%ut(VALUE,$G(MESSAGE))
+"RTN","KBBPUXWB",55,0)
+ Q
+"RTN","KBBPUXWB",56,0)
+ ;
+"RTN","KBBPUXWB",57,0)
+ISUTEST() ;
+"RTN","KBBPUXWB",58,0)
+ N VAL S VAL=0
+"RTN","KBBPUXWB",59,0)
+ I $T(ISUTEST^%ut)'="" S VAL=$$ISUTEST^%ut()
+"RTN","KBBPUXWB",60,0)
+ Q VAL
+"RTN","KBBPUXWB",61,0)
+ ;
+"RTN","KBBPUXWB",62,0)
+XTROU ;
+"RTN","KBBPUXWB",63,0)
+ ;;KBBPUXWE;unit tests for KBBPXWBE
+"RTN","KBBPUXWB",64,0)
+ ;;KBBPUXWT;unit tests for KBBPXWBT
+"RTN","KBBPUXWB",65,0)
+ ;;KBBPUXWP;unit tests for KBBPXWBP
+"RTN","KBBPUXWB",66,0)
+ ;;KBBPUXWR;unit tests for KBBPXWBR
+"RTN","KBBPUXWB",67,0)
+ ;;KBBPUXWX;unit tests for KBBPXWBX
+"RTN","KBBPUXWE")
+0^10^B14138550
+"RTN","KBBPUXWE",1,0)
+KBBPUXWE ;JLI/JIVEYSOFT.COM - Unit tests ;06/02/16  17:17
+"RTN","KBBPUXWE",2,0)
+ ;;0.0;KBBP;;;Build 6
+"RTN","KBBPUXWE",3,0)
+ I $T(EN^%ut)'="" D EN^%ut("KBBPUXWE")
+"RTN","KBBPUXWE",4,0)
+ Q
+"RTN","KBBPUXWE",5,0)
+ ;; TAGS IN KBBPXWBE
+"RTN","KBBPUXWE",6,0)
+CODEACTV ; @TEST
+"RTN","KBBPUXWE",7,0)
+ N KBBPGLOB,RESULT
+"RTN","KBBPUXWE",8,0)
+ S KBBPGLOB=$NA(^XTMP("KBBPVAL","A",$J))
+"RTN","KBBPUXWE",9,0)
+ K @KBBPGLOB ;
+"RTN","KBBPUXWE",10,0)
+ D CHKTF('$$CODEACTV^KBBPXWBE(),"CODEACTV was true when the global was NOT present")
+"RTN","KBBPUXWE",11,0)
+ D RESET^KBBPXWBE(.RESULT)
+"RTN","KBBPUXWE",12,0)
+ D UPDATCOD
+"RTN","KBBPUXWE",13,0)
+ D CHKTF($$CODEACTV^KBBPXWBE(),"CODEACTV was false when the global WAS present")
+"RTN","KBBPUXWE",14,0)
+ K @KBBPGLOB
+"RTN","KBBPUXWE",15,0)
+ Q
+"RTN","KBBPUXWE",16,0)
+ ;
+"RTN","KBBPUXWE",17,0)
+DECODE ; @TEST
+"RTN","KBBPUXWE",18,0)
+ENCODE ; @TEST
+"RTN","KBBPUXWE",19,0)
+ N DECODED,INPUT,OUTPUT,RESULT
+"RTN","KBBPUXWE",20,0)
+ D RESET^KBBPXWBE(.RESULT)
+"RTN","KBBPUXWE",21,0)
+ D UPDATCOD
+"RTN","KBBPUXWE",22,0)
+ S INPUT="This is the input line before encoding"
+"RTN","KBBPUXWE",23,0)
+ S OUTPUT=$$ENCODE^KBBPXWBE(INPUT)
+"RTN","KBBPUXWE",24,0)
+ D CHKTF^%ut(INPUT'=OUTPUT,"OUTPUT was not encoded")
+"RTN","KBBPUXWE",25,0)
+ S DECODED=$$DECODE^KBBPXWBE(OUTPUT)
+"RTN","KBBPUXWE",26,0)
+ D CHKEQ^%ut(INPUT,DECODED,"Decoded value was not the same as the input value")
+"RTN","KBBPUXWE",27,0)
+ Q
+"RTN","KBBPUXWE",28,0)
+ ;
+"RTN","KBBPUXWE",29,0)
+SENDKEYS ;
+"RTN","KBBPUXWE",30,0)
+RESET ; @TEST - get initial encoding array
+"RTN","KBBPUXWE",31,0)
+ N KBBPGLOB,RESULT
+"RTN","KBBPUXWE",32,0)
+ S KBBPGLOB=$NA(^XTMP("KBBPVAL","A",$J))
+"RTN","KBBPUXWE",33,0)
+ D RESET^KBBPXWBE(.RESULT)
+"RTN","KBBPUXWE",34,0)
+ D UPDATCOD
+"RTN","KBBPUXWE",35,0)
+ D CHKEQ(20,$O(RESULT(""),-1),"Incorrect number of lines in return value")
+"RTN","KBBPUXWE",36,0)
+ D CHKEQ($G(RESULT(1)),$G(@KBBPGLOB@(1)),"First entry in result does not match stored value")
+"RTN","KBBPUXWE",37,0)
+ D CHKEQ($G(RESULT(20)),$G(@KBBPGLOB@(20)),"Last (20th) entry in result does not match stored value")
+"RTN","KBBPUXWE",38,0)
+ K @KBBPGLOB
+"RTN","KBBPUXWE",39,0)
+ Q
+"RTN","KBBPUXWE",40,0)
+ ;
+"RTN","KBBPUXWE",41,0)
+SETENCOD ; @TEST - get encoding array as encoded data (encoded with previous array)
+"RTN","KBBPUXWE",42,0)
+ N GETENC1,I,KBBPGLOB,RESULT
+"RTN","KBBPUXWE",43,0)
+ S KBBPGLOB=$NA(^XTMP("KBBPVAL","A",$J))
+"RTN","KBBPUXWE",44,0)
+ S GETENC1=$NA(^XTMP("KBBPVAL","Z",$J))
+"RTN","KBBPUXWE",45,0)
+ D RESET^KBBPXWBE(.RESULT) ; set up initial encoding array - RESULT is not encoded
+"RTN","KBBPUXWE",46,0)
+ D UPDATCOD
+"RTN","KBBPUXWE",47,0)
+ M @GETENC1=@KBBPGLOB ; save off a copy of the current encoding array
+"RTN","KBBPUXWE",48,0)
+ D SETENCOD^KBBPXWBE(.RESULT) ; result contains new encoding array for client
+"RTN","KBBPUXWE",49,0)
+ F I=1:1:20 S RESULT(I)=$$ENCODE^KBBPXWBE(RESULT(I)) ; and encode it as it would be sent
+"RTN","KBBPUXWE",50,0)
+ D UPDATCOD ; update encoding array if has been reset
+"RTN","KBBPUXWE",51,0)
+ ;
+"RTN","KBBPUXWE",52,0)
+ D CHKEQ(20,$O(RESULT(""),-1),"Incorrect number of lines in return value")
+"RTN","KBBPUXWE",53,0)
+ D CHKEQ($$DECRYP($G(RESULT(1)),GETENC1),@KBBPGLOB@(1),"Result value for first entry not correct")
+"RTN","KBBPUXWE",54,0)
+ D CHKEQ($$DECRYP($G(RESULT(20)),GETENC1),@KBBPGLOB@(20),"Result value for last entry not correct")
+"RTN","KBBPUXWE",55,0)
+ K @KBBPGLOB,@GETENC1
+"RTN","KBBPUXWE",56,0)
+ Q
+"RTN","KBBPUXWE",57,0)
+ ;
+"RTN","KBBPUXWE",58,0)
+DECRYP(STR,VALARRAY) ;decrypt passed string
+"RTN","KBBPUXWE",59,0)
+ ; STR - input - encoded data to decode
+"RTN","KBBPUXWE",60,0)
+ ; VALARRAY - input - full
+"RTN","KBBPUXWE",61,0)
+ ;VYD 5/19/95
+"RTN","KBBPUXWE",62,0)
+ N ASSOCIX,IDIX,ASSOCSTR,IDSTR
+"RTN","KBBPUXWE",63,0)
+ Q:$L(STR)'>2 "" ;Bad call
+"RTN","KBBPUXWE",64,0)
+ S ASSOCIX=$A($E(STR,$L(STR)))-31           ;get associator string index
+"RTN","KBBPUXWE",65,0)
+ S IDIX=$A($E(STR))-31                    ;get identifier string index
+"RTN","KBBPUXWE",66,0)
+ S ASSOCSTR=@VALARRAY@(ASSOCIX)   ;get associator string
+"RTN","KBBPUXWE",67,0)
+ S IDSTR=@VALARRAY@(IDIX)         ;get identifier string
+"RTN","KBBPUXWE",68,0)
+ Q $TR($E(STR,2,$L(STR)-1),ASSOCSTR,IDSTR)  ;translated result
+"RTN","KBBPUXWE",69,0)
+ ;
+"RTN","KBBPUXWE",70,0)
+UPDATCOD ;
+"RTN","KBBPUXWE",71,0)
+ ; updated data is set into "B" until it has been sent, so it needs to be updated
+"RTN","KBBPUXWE",72,0)
+ I $D(^XTMP("KBBPVAL","B",$J)) D
+"RTN","KBBPUXWE",73,0)
+ . K ^XTMP("KBBPVAL","A",$J)
+"RTN","KBBPUXWE",74,0)
+ . M ^XTMP("KBBPVAL","A",$J)=^XTMP("KBBPVAL","B",$J)
+"RTN","KBBPUXWE",75,0)
+ . K ^XTMP("KBBPVAL","B",$J)
+"RTN","KBBPUXWE",76,0)
+ Q
+"RTN","KBBPUXWE",77,0)
+ ;
+"RTN","KBBPUXWE",78,0)
+CHKEQ(EXPECTED,ACTUAL,MESSAGE) ;
+"RTN","KBBPUXWE",79,0)
+ D CHKEQ^%ut(EXPECTED,ACTUAL,$G(MESSAGE))
+"RTN","KBBPUXWE",80,0)
+ Q
+"RTN","KBBPUXWE",81,0)
+ ;
+"RTN","KBBPUXWE",82,0)
+CHKTF(VALUE,MESSAGE) ;
+"RTN","KBBPUXWE",83,0)
+ D CHKTF^%ut(VALUE,$G(MESSAGE))
+"RTN","KBBPUXWE",84,0)
+ Q
+"RTN","KBBPUXWP")
+0^11^B94767380
+"RTN","KBBPUXWP",1,0)
+KBBPUXWP ;JIVEY@JIVEYSOFT.COM - Unit tests for KBBPXWBP - VISTA BROKER MSG PARSER ;11/14/16  14:10
+"RTN","KBBPUXWP",2,0)
+ ;;0.0;KBBP;;;Build 6
+"RTN","KBBPUXWP",3,0)
+ ;XWBPRS ;ISF/STAFF - VISTA BROKER MSG PARSER ;11/15/11  12:39
+"RTN","KBBPUXWP",4,0)
+ ;;1.1;RPC BROKER;**35,43,46,57**;Mar 28, 1997;Build 13
+"RTN","KBBPUXWP",5,0)
+ ;XWB holds info from the message used by the RPC
+"RTN","KBBPUXWP",6,0)
+ ;
+"RTN","KBBPUXWP",7,0)
+ I $T(EN^%ut) D EN^%ut("KBBPUXWB")
+"RTN","KBBPUXWP",8,0)
+ Q
+"RTN","KBBPUXWP",9,0)
+ ;
+"RTN","KBBPUXWP",10,0)
+CALLP1 ; @TEST make API call using Protocol string XUS SIGNON SETUP message
+"RTN","KBBPUXWP",11,0)
+ N XWBP,XWBDEBUG
+"RTN","KBBPUXWP",12,0)
+ ; protect against DUZ being set to a value of zero on return
+"RTN","KBBPUXWP",13,0)
+ N KBBPDUZ S KBBPDUZ=DUZ N DUZ S DUZ=KBBPDUZ
+"RTN","KBBPUXWP",14,0)
+ S XWBDEBUG=3
+"RTN","KBBPUXWP",15,0)
+ K ^XTMP("KBBPVAL","A",$J) ; turn off encoding/decoding
+"RTN","KBBPUXWP",16,0)
+ S XWBRBUF="",SUMINPUT="",XWBOS=$$OS^KBBPXWB1(),XWBTDEV=IO,XR="[XWB]",XWBNULL=IO
+"RTN","KBBPUXWP",17,0)
+ S ISUVALUE="11302"_$C(01)_"0"_$C(16)_"XUS SIGNON SETUP50030+??????????????????????(??? ?(f"_$C(4)
+"RTN","KBBPUXWP",18,0)
+ D CALLP^KBBPXWBP(.XWBP,XWBDEBUG)
+"RTN","KBBPUXWP",19,0)
+ D CHKEQ(3,XWB(0,"LENV"),"Incorrect value for XWB(0,""LENV"")")
+"RTN","KBBPUXWP",20,0)
+ D CHKEQ(0,XWB(0,"RT"),"Incorrect value for XWB(0,""RT"")")
+"RTN","KBBPUXWP",21,0)
+ D CHKEQ(1,XWB(0,"TYPE"),"Incorrect value for XWB(0,""TYPE"")")
+"RTN","KBBPUXWP",22,0)
+ D CHKEQ(1,XWB(0,"VER"),"Incorrect value for XWB(0,""VER"")")
+"RTN","KBBPUXWP",23,0)
+ D CHKEQ("XUSRB",XWB(2,"RNAM"),"Incorrect value for XWB(2,""RNAM"")")
+"RTN","KBBPUXWP",24,0)
+ D CHKEQ("XUS SIGNON SETUP",XWB(2,"RPC"),"Incorrect value for XWB(2,""RPC"")")
+"RTN","KBBPUXWP",25,0)
+ D CHKEQ("SETUP",XWB(2,"RTAG"),"Incorrect value for XWB(2,""RTAG"")")
+"RTN","KBBPUXWP",26,0)
+ D CHKEQ(0,XWB(2,"VER"),"Incorrect value for XWB(2,""VER"")")
+"RTN","KBBPUXWP",27,0)
+ D CHKEQ("+??????????????????????(??? ?(",XWB(5,"P",0),"Incorrect value for XWB(5,""P"",0)")
+"RTN","KBBPUXWP",28,0)
+ D CHKEQ("XWB(5,""P"",0)",XWB("PARAM"),"Incorrect value for XWB(""PARAM"")")
+"RTN","KBBPUXWP",29,0)
+ Q
+"RTN","KBBPUXWP",30,0)
+ ;
+"RTN","KBBPUXWP",31,0)
+CALLP2 ; @TEST make API call using Protocol string XWB EXAMPLE ECHO STRING message
+"RTN","KBBPUXWP",32,0)
+ N XWBP,XWBDEBUG
+"RTN","KBBPUXWP",33,0)
+ S XWBDEBUG=3
+"RTN","KBBPUXWP",34,0)
+ K ^XTMP("KBBPVAL","A",$J) ; turn off encoding/decoding
+"RTN","KBBPUXWP",35,0)
+ S XWBRBUF="",SUMINPUT="",XWBOS=$$OS^KBBPXWB1(),XWBTDEV=IO,XR="[XWB]",XWBNULL=IO
+"RTN","KBBPUXWP",36,0)
+ S ISUVALUE="11302"_$C(1)_"0"_$C(23)_"XWB EXAMPLE ECHO STRING50012Hello World!f"_$C(4)
+"RTN","KBBPUXWP",37,0)
+ D CALLP^KBBPXWBP(.XWBP,XWBDEBUG)
+"RTN","KBBPUXWP",38,0)
+ D CHKEQ(1,XWB(0,"TYPE"),"Incorrect value for XWB(0,""TYPE"")")
+"RTN","KBBPUXWP",39,0)
+ D CHKEQ(1,XWB(0,"VER"),"Incorrect value for XWB(0,""VER"")")
+"RTN","KBBPUXWP",40,0)
+ D CHKEQ("XWBEXMPL",XWB(2,"RNAM"),"Incorrect value for XWB(2,""RNAM"")")
+"RTN","KBBPUXWP",41,0)
+ D CHKEQ("XWB EXAMPLE ECHO STRING",XWB(2,"RPC"),"Incorrect value for XWB(2,""RPC"")")
+"RTN","KBBPUXWP",42,0)
+ D CHKEQ("ECHOSTR",XWB(2,"RTAG"),"Incorrect value for XWB(2,""RTAG"")")
+"RTN","KBBPUXWP",43,0)
+ D CHKEQ(0,XWB(2,"VER"),"Incorrect value for XWB(2,""VER"")")
+"RTN","KBBPUXWP",44,0)
+ D CHKEQ("Hello World!",XWB(5,"P",0),"Incorrect value for XWB(5,""P"",0)")
+"RTN","KBBPUXWP",45,0)
+ D CHKEQ("XWB(5,""P"",0)",XWB("PARAM"),"Incorrect value for XWB(""PARAM"")")
+"RTN","KBBPUXWP",46,0)
+ Q
+"RTN","KBBPUXWP",47,0)
+ ;
+"RTN","KBBPUXWP",48,0)
+CALLP3 ; @TEST make API call using Protocol string XWB GET VARIABLE VALUE message
+"RTN","KBBPUXWP",49,0)
+ N DOLHVALU,XWBP,XWBDEBUG
+"RTN","KBBPUXWP",50,0)
+ S XWBDEBUG=3
+"RTN","KBBPUXWP",51,0)
+ K ^XTMP("KBBPVAL","A",$J) ; turn off encoding/decoding
+"RTN","KBBPUXWP",52,0)
+ S XWBRBUF="",SUMINPUT="",XWBOS=$$OS^KBBPXWB1(),XWBTDEV=IO,XR="[XWB]",XWBNULL=IO
+"RTN","KBBPUXWP",53,0)
+ S ISUVALUE="11302"_$C(1)_"0"_$C(22)_"XWB GET VARIABLE VALUE51008$HOROLOGf"_$C(4)
+"RTN","KBBPUXWP",54,0)
+ S DOLHVALU=$H
+"RTN","KBBPUXWP",55,0)
+ D CALLP^KBBPXWBP(.XWBP,XWBDEBUG)
+"RTN","KBBPUXWP",56,0)
+ D CHKEQ(1,XWB(0,"TYPE"),"Incorrect value for XWB(0,""TYPE"")")
+"RTN","KBBPUXWP",57,0)
+ D CHKEQ(1,XWB(0,"VER"),"Incorrect value for XWB(0,""VER"")")
+"RTN","KBBPUXWP",58,0)
+ D CHKEQ("XWBLIB",XWB(2,"RNAM"),"Incorrect value for XWB(2,""RNAM"")")
+"RTN","KBBPUXWP",59,0)
+ D CHKEQ("XWB GET VARIABLE VALUE",XWB(2,"RPC"),"Incorrect value for XWB(2,""RPC"")")
+"RTN","KBBPUXWP",60,0)
+ D CHKEQ("VARVAL",XWB(2,"RTAG"),"Incorrect value for XWB(2,""RTAG"")")
+"RTN","KBBPUXWP",61,0)
+ D CHKEQ(0,XWB(2,"VER"),"Incorrect value for XWB(2,""VER"")")
+"RTN","KBBPUXWP",62,0)
+ D CHKEQ(DOLHVALU,XWB(5,"P",0),"Incorrect value for XWB(5,""P"",0)")
+"RTN","KBBPUXWP",63,0)
+ D CHKEQ("XWB(5,""P"",0)",XWB("PARAM"),"Incorrect value for XWB(""PARAM"")")
+"RTN","KBBPUXWP",64,0)
+ Q
+"RTN","KBBPUXWP",65,0)
+ ;
+"RTN","KBBPUXWP",66,0)
+CALLP4 ; @TEST make API call using Protocol string XWB EXAMPLE GET LIST - LINES message
+"RTN","KBBPUXWP",67,0)
+ N XWBP,XWBDEBUG
+"RTN","KBBPUXWP",68,0)
+ S XWBDEBUG=3
+"RTN","KBBPUXWP",69,0)
+ K ^XTMP("KBBPVAL","A",$J) ; turn off encoding/decoding
+"RTN","KBBPUXWP",70,0)
+ S XWBRBUF="",SUMINPUT="",XWBOS=$$OS^KBBPXWB1(),XWBTDEV=IO,XR="[XWB]",XWBNULL=IO
+"RTN","KBBPUXWP",71,0)
+ S ISUVALUE="11302"_$C(1)_"0"_$C(20)_"XWB EXAMPLE GET LIST50005LINESf000210f"_$C(4)
+"RTN","KBBPUXWP",72,0)
+ D CALLP^KBBPXWBP(.XWBP,XWBDEBUG)
+"RTN","KBBPUXWP",73,0)
+ D CHKEQ(1,XWB(0,"TYPE"),"Incorrect value for XWB(0,""TYPE"")")
+"RTN","KBBPUXWP",74,0)
+ D CHKEQ(1,XWB(0,"VER"),"Incorrect value for XWB(0,""VER"")")
+"RTN","KBBPUXWP",75,0)
+ D CHKEQ("XWBEXMPL",XWB(2,"RNAM"),"Incorrect value for XWB(2,""RNAM"")")
+"RTN","KBBPUXWP",76,0)
+ D CHKEQ("XWB EXAMPLE GET LIST",XWB(2,"RPC"),"Incorrect value for XWB(2,""RPC"")")
+"RTN","KBBPUXWP",77,0)
+ D CHKEQ("GETLIST",XWB(2,"RTAG"),"Incorrect value for XWB(2,""RTAG"")")
+"RTN","KBBPUXWP",78,0)
+ D CHKEQ(0,XWB(2,"VER"),"Incorrect value for XWB(2,""VER"")")
+"RTN","KBBPUXWP",79,0)
+ D CHKEQ("LINES",XWB(5,"P",0),"Incorrect value for XWB(5,""P"",0)")
+"RTN","KBBPUXWP",80,0)
+ D CHKEQ(10,XWB(5,"P",1),"Incorrect value for XWB(5,""P"",1)")
+"RTN","KBBPUXWP",81,0)
+ D CHKEQ("XWB(5,""P"",0),XWB(5,""P"",1)",XWB("PARAM"),"Incorrect value for XWB(""PARAM"")")
+"RTN","KBBPUXWP",82,0)
+ Q
+"RTN","KBBPUXWP",83,0)
+ ;
+"RTN","KBBPUXWP",84,0)
+CALLP5 ; @TEST make API call using Protocol string XWB EXAMPLE GET LIST - KILOBYTES message
+"RTN","KBBPUXWP",85,0)
+ N XWBP,XWBDEBUG
+"RTN","KBBPUXWP",86,0)
+ S XWBDEBUG=3
+"RTN","KBBPUXWP",87,0)
+ K ^XTMP("KBBPVAL","A",$J) ; turn off encoding/decoding
+"RTN","KBBPUXWP",88,0)
+ S XWBRBUF="",SUMINPUT="",XWBOS=$$OS^KBBPXWB1(),XWBTDEV=IO,XR="[XWB]",XWBNULL=IO
+"RTN","KBBPUXWP",89,0)
+ S ISUVALUE="11302"_$C(1)_"0"_$C(20)_"XWB EXAMPLE GET LIST50009KILOBYTESf00011f"_$C(04)
+"RTN","KBBPUXWP",90,0)
+ D CALLP^KBBPXWBP(.XWBP,XWBDEBUG)
+"RTN","KBBPUXWP",91,0)
+ D CHKEQ(1,XWB(0,"TYPE"),"Incorrect value for XWB(0,""TYPE"")")
+"RTN","KBBPUXWP",92,0)
+ D CHKEQ(1,XWB(0,"VER"),"Incorrect value for XWB(0,""VER"")")
+"RTN","KBBPUXWP",93,0)
+ D CHKEQ("XWBEXMPL",XWB(2,"RNAM"),"Incorrect value for XWB(2,""RNAM"")")
+"RTN","KBBPUXWP",94,0)
+ D CHKEQ("XWB EXAMPLE GET LIST",XWB(2,"RPC"),"Incorrect value for XWB(2,""RPC"")")
+"RTN","KBBPUXWP",95,0)
+ D CHKEQ("GETLIST",XWB(2,"RTAG"),"Incorrect value for XWB(2,""RTAG"")")
+"RTN","KBBPUXWP",96,0)
+ D CHKEQ(0,XWB(2,"VER"),"Incorrect value for XWB(2,""VER"")")
+"RTN","KBBPUXWP",97,0)
+ D CHKEQ("KILOBYTES",XWB(5,"P",0),"Incorrect value for XWB(5,""P"",0)")
+"RTN","KBBPUXWP",98,0)
+ D CHKEQ(1,XWB(5,"P",1),"Incorrect value for XWB(5,""P"",1)")
+"RTN","KBBPUXWP",99,0)
+ D CHKEQ("XWB(5,""P"",0),XWB(5,""P"",1)",XWB("PARAM"),"Incorrect value for XWB(""PARAM"")")
+"RTN","KBBPUXWP",100,0)
+ Q
+"RTN","KBBPUXWP",101,0)
+ ;
+"RTN","KBBPUXWP",102,0)
+CALLP6 ; @TEST make API call using Protocol string XWB EXAMPLE WPTEXT message
+"RTN","KBBPUXWP",103,0)
+ N XWB,XWBP,XWBDEBUG
+"RTN","KBBPUXWP",104,0)
+ S XWBDEBUG=3
+"RTN","KBBPUXWP",105,0)
+ K ^XTMP("KBBPVAL","A",$J) ; turn off encoding/decoding
+"RTN","KBBPUXWP",106,0)
+ S XWBRBUF="",SUMINPUT="",XWBOS=$$OS^KBBPXWB1(),XWBTDEV=IO,XR="[XWB]",XWBNULL=IO
+"RTN","KBBPUXWP",107,0)
+ S ISUVALUE="11302"_$C(01)_"0"_$C(18)_"XWB EXAMPLE WPTEXT54f"_$C(04)
+"RTN","KBBPUXWP",108,0)
+ D CALLP^KBBPXWBP(.XWBP,XWBDEBUG)
+"RTN","KBBPUXWP",109,0)
+ D CHKEQ(1,XWB(0,"TYPE"),"Incorrect value for XWB(0,""TYPE"")")
+"RTN","KBBPUXWP",110,0)
+ D CHKEQ(1,XWB(0,"VER"),"Incorrect value for XWB(0,""VER"")")
+"RTN","KBBPUXWP",111,0)
+ D CHKEQ("XWBEXMPL",XWB(2,"RNAM"),"Incorrect value for XWB(2,""RNAM"")")
+"RTN","KBBPUXWP",112,0)
+ D CHKEQ("XWB EXAMPLE WPTEXT",XWB(2,"RPC"),"Incorrect value for XWB(2,""RPC"")")
+"RTN","KBBPUXWP",113,0)
+ D CHKEQ("WPTEXT",XWB(2,"RTAG"),"Incorrect value for XWB(2,""RTAG"")")
+"RTN","KBBPUXWP",114,0)
+ D CHKEQ(0,XWB(2,"VER"),"Incorrect value for XWB(2,""VER"")")
+"RTN","KBBPUXWP",115,0)
+ D CHKEQ("",XWB(5,"XWB",0),"Incorrect value for XWB(5,""P"",0)")
+"RTN","KBBPUXWP",116,0)
+ D CHKEQ("",XWB("PARAM"),"Incorrect value for XWB(""PARAM"")")
+"RTN","KBBPUXWP",117,0)
+ Q
+"RTN","KBBPUXWP",118,0)
+ ;
+"RTN","KBBPUXWP",119,0)
+CALLP7 ; @TEST make API call using Protocol string XWB EXAMPLE SORT NUMBERS message
+"RTN","KBBPUXWP",120,0)
+ N XWBP,XWBDEBUG
+"RTN","KBBPUXWP",121,0)
+ S XWBDEBUG=3
+"RTN","KBBPUXWP",122,0)
+ K ^XTMP("KBBPVAL","A",$J) ; turn off encoding/decoding
+"RTN","KBBPUXWP",123,0)
+ S XWBRBUF="",SUMINPUT="",XWBOS=$$OS^KBBPXWB1(),XWBTDEV=IO,XR="[XWB]",XWBNULL=IO
+"RTN","KBBPUXWP",124,0)
+ S ISUVALUE="11302"_$C(01)_"0"_$C(24)_"XWB EXAMPLE SORT NUMBERS50002LOf2004""A0""0048135t004""A1""0044362t004""A2""0047299t004""A3""0045569t004""A4""003271t004""A5""00287t004""A6""0041037t004""A7""0049185t004""A8""0049800t004""A9""0049125f"_$C(04)
+"RTN","KBBPUXWP",125,0)
+ D CALLP^KBBPXWBP(.XWBP,XWBDEBUG)
+"RTN","KBBPUXWP",126,0)
+ D CHKEQ(1,XWB(0,"TYPE"),"Incorrect value for XWB(0,""TYPE"")")
+"RTN","KBBPUXWP",127,0)
+ D CHKEQ(1,XWB(0,"VER"),"Incorrect value for XWB(0,""VER"")")
+"RTN","KBBPUXWP",128,0)
+ D CHKEQ("XWBEXMPL",XWB(2,"RNAM"),"Incorrect value for XWB(2,""RNAM"")")
+"RTN","KBBPUXWP",129,0)
+ D CHKEQ("XWB EXAMPLE SORT NUMBERS",XWB(2,"RPC"),"Incorrect value for XWB(2,""RPC"")")
+"RTN","KBBPUXWP",130,0)
+ D CHKEQ("SORTNUM",XWB(2,"RTAG"),"Incorrect value for XWB(2,""RTAG"")")
+"RTN","KBBPUXWP",131,0)
+ D CHKEQ(0,XWB(2,"VER"),"Incorrect value for XWB(2,""VER"")")
+"RTN","KBBPUXWP",132,0)
+ D CHKEQ("LO",XWB(5,"P",0),"Incorrect value for XWB(5,""P"",0)")
+"RTN","KBBPUXWP",133,0)
+ D CHKEQ(".XWBS1",XWB(5,"P",1),"Incorrect value for XWB(5,""P"",1)")
+"RTN","KBBPUXWP",134,0)
+ D CHKEQ("XWB(5,""P"",0),.XWBS1",XWB("PARAM"),"Incorrect value for XWB(""PARAM"")")
+"RTN","KBBPUXWP",135,0)
+ Q
+"RTN","KBBPUXWP",136,0)
+ ;
+"RTN","KBBPUXWP",137,0)
+CALLP8 ; @TEST make API call using Protocol string XWB EXAMPLE GLOBAL SORT message
+"RTN","KBBPUXWP",138,0)
+ N XWBP,XWBDEBUG
+"RTN","KBBPUXWP",139,0)
+ S XWBDEBUG=3
+"RTN","KBBPUXWP",140,0)
+ K ^XTMP("KBBPVAL","A",$J) ; turn off encoding/decoding
+"RTN","KBBPUXWP",141,0)
+ S XWBRBUF="",SUMINPUT="",XWBOS=$$OS^KBBPXWB1(),XWBTDEV=IO,XR="[XWB]",XWBNULL=IO
+"RTN","KBBPUXWP",142,0)
+ S ISUVALUE="11302"_$C(01)_"0"_$C(23)_"XWB EXAMPLE GLOBAL SORT50002LOf3004""A0""00538358t004""A1""00545073t004""A2""00594031t004""A3""00538698t004""A4""0041303t004""A5""00534995t004""A6""00553504t004""A7""00554802t004""A8""00522681t004""A9""00582016f"_$C(04)
+"RTN","KBBPUXWP",143,0)
+ D CALLP^KBBPXWBP(.XWBP,XWBDEBUG)
+"RTN","KBBPUXWP",144,0)
+ D CHKEQ(1,XWB(0,"TYPE"),"Incorrect value for XWB(0,""TYPE"")")
+"RTN","KBBPUXWP",145,0)
+ D CHKEQ(1,XWB(0,"VER"),"Incorrect value for XWB(0,""VER"")")
+"RTN","KBBPUXWP",146,0)
+ D CHKEQ("XWBEXMPL",XWB(2,"RNAM"),"Incorrect value for XWB(2,""RNAM"")")
+"RTN","KBBPUXWP",147,0)
+ D CHKEQ("XWB EXAMPLE GLOBAL SORT",XWB(2,"RPC"),"Incorrect value for XWB(2,""RPC"")")
+"RTN","KBBPUXWP",148,0)
+ D CHKEQ("GSORT",XWB(2,"RTAG"),"Incorrect value for XWB(2,""RTAG"")")
+"RTN","KBBPUXWP",149,0)
+ D CHKEQ(0,XWB(2,"VER"),"Incorrect value for XWB(2,""VER"")")
+"RTN","KBBPUXWP",150,0)
+ D CHKEQ("LO",XWB(5,"P",0),"Incorrect value for XWB(5,""P"",0)")
+"RTN","KBBPUXWP",151,0)
+ D CHKEQ("^TMP(""XWBA"","_$J_",1)",XWB(5,"P",1),"Incorrect value for XWB(5,""P"",1)")
+"RTN","KBBPUXWP",152,0)
+ D CHKEQ("XWB(5,""P"",0),$NA(^TMP(""XWBA"","_$J_",1))",XWB("PARAM"),"Incorrect value for XWB(""PARAM"")")
+"RTN","KBBPUXWP",153,0)
+ Q
+"RTN","KBBPUXWP",154,0)
+ ;
+"RTN","KBBPUXWP",155,0)
+CODEREA1 ; @TEST - CODEREAD - input of encoded data
+"RTN","KBBPUXWP",156,0)
+ D RESET^KBBPXWBE
+"RTN","KBBPUXWP",157,0)
+ D UPDATCOD^KBBPUXWE
+"RTN","KBBPUXWP",158,0)
+ S TEXT="INPUT TEXT",NCHARS=$L(TEXT)
+"RTN","KBBPUXWP",159,0)
+ S XWBRBUF="",SUMINPUT="",XWBOS=$$OS^KBBPXWB1(),XWBTDEV=IO
+"RTN","KBBPUXWP",160,0)
+ S ISUVALUE=$$ENCODE^KBBPXWBE(TEXT)
+"RTN","KBBPUXWP",161,0)
+ S RESULT=$$CODEREAD^KBBPXWBP(NCHARS)
+"RTN","KBBPUXWP",162,0)
+ D CHKEQ(TEXT,RESULT,"Incorrect data returned from CODEREAD")
+"RTN","KBBPUXWP",163,0)
+ Q
+"RTN","KBBPUXWP",164,0)
+ ;
+"RTN","KBBPUXWP",165,0)
+CODEREA2 ; @TEST - CODEREAD - input of unencoded data
+"RTN","KBBPUXWP",166,0)
+ D CLEAR^KBBPXWBE ; remove/turn off encoding/decoding
+"RTN","KBBPUXWP",167,0)
+ S TEXT="INPUT TEXT",NCHARS=$L(TEXT)
+"RTN","KBBPUXWP",168,0)
+ S XWBRBUF="",SUMINPUT="",XWBOS=$$OS^KBBPXWB1(),XWBTDEV=IO
+"RTN","KBBPUXWP",169,0)
+ S ISUVALUE=$$ENCODE^KBBPXWBE(TEXT)
+"RTN","KBBPUXWP",170,0)
+ S RESULT=$$CODEREAD^KBBPXWBP(NCHARS)
+"RTN","KBBPUXWP",171,0)
+ D CHKEQ(TEXT,RESULT,"Incorrect data returned from CODEREAD")
+"RTN","KBBPUXWP",172,0)
+ Q
+"RTN","KBBPUXWP",173,0)
+ ;
+"RTN","KBBPUXWP",174,0)
+PRSP(P) ;ef, Parse Protocol
+"RTN","KBBPUXWP",175,0)
+ ;%XWB%10304\10TCPConnect50009127.0.0.1f00010f0009127.0.0.1f\04
+"RTN","KBBPUXWP",176,0)
+ ;%XWB%11302\010\22KBBPXWB RESET ENCODING54f\04
+"RTN","KBBPUXWP",177,0)
+ ;%XWB%!,,9n*#E&$\01-$<0)\20.&Ukklu~k9=<t9<"7X,5"_ 2d'*\04"
+"RTN","KBBPUXWP",178,0)
+ ;   KBBPXWB SET ENCODING
+"RTN","KBBPUXWP",179,0)
+ Q ERR
+"RTN","KBBPUXWP",180,0)
+ ;
+"RTN","KBBPUXWP",181,0)
+PRSM() ;ef, Parse message
+"RTN","KBBPUXWP",182,0)
+ Q ERR
+"RTN","KBBPUXWP",183,0)
+ ;
+"RTN","KBBPUXWP",184,0)
+PRS1() ;Parse the HEADER chunk
+"RTN","KBBPUXWP",185,0)
+ Q 0
+"RTN","KBBPUXWP",186,0)
+ ;
+"RTN","KBBPUXWP",187,0)
+PRS2() ;Parse the RPC chunk
+"RTN","KBBPUXWP",188,0)
+ Q 0
+"RTN","KBBPUXWP",189,0)
+ ;
+"RTN","KBBPUXWP",190,0)
+PRS3 ; @TEST - Parse the Security chunk
+"RTN","KBBPUXWP",191,0)
+ D CLEAR^KBBPXWBE
+"RTN","KBBPUXWP",192,0)
+ D CHKEQ(0,$$PRS3^KBBPXWBP(),"Invalid value - should be 0 no matter what")
+"RTN","KBBPUXWP",193,0)
+ Q
+"RTN","KBBPUXWP",194,0)
+ ;
+"RTN","KBBPUXWP",195,0)
+PRS401 ;@TEST - get the command chunk
+"RTN","KBBPUXWP",196,0)
+ N ISUVALUE,XWB,XWBTCMD
+"RTN","KBBPUXWP",197,0)
+ D CLEAR^KBBPXWBE
+"RTN","KBBPUXWP",198,0)
+ S ISUVALUE=$C($L("SOMETHING"))_"SOMETHING"
+"RTN","KBBPUXWP",199,0)
+ D CHKEQ(0,$$PRS4^KBBPXWBP(),"Unexpected numeric value returned from PRS4")
+"RTN","KBBPUXWP",200,0)
+ D CHKEQ("SOMETHING",XWB(4,"CMD"),"Incorrect string returned from PRS4")
+"RTN","KBBPUXWP",201,0)
+ Q
+"RTN","KBBPUXWP",202,0)
+ ;
+"RTN","KBBPUXWP",203,0)
+PRS402 ;@TEST - get the command chunk
+"RTN","KBBPUXWP",204,0)
+ N ISUVALUE,XWB,XWBTCMD
+"RTN","KBBPUXWP",205,0)
+ D CLEAR^KBBPXWBE
+"RTN","KBBPUXWP",206,0)
+ S ISUVALUE=$C($L("TCPConnect"))_"TCPConnect"
+"RTN","KBBPUXWP",207,0)
+ D CHKEQ(1,$$PRS4^KBBPXWBP(),"Unexpected numeric value returned from PRS4 for TCPConnect")
+"RTN","KBBPUXWP",208,0)
+ D CHKEQ("TCPConnect",XWB(4,"CMD"),"Incorrect string returned from PRS4")
+"RTN","KBBPUXWP",209,0)
+ Q
+"RTN","KBBPUXWP",210,0)
+ ;
+"RTN","KBBPUXWP",211,0)
+PRS403 ;@TEST - get the command chunk - find #BYE#
+"RTN","KBBPUXWP",212,0)
+ N ISUVALUE,XWB,XWBTCMD
+"RTN","KBBPUXWP",213,0)
+ D CLEAR^KBBPXWBE
+"RTN","KBBPUXWP",214,0)
+ S ISUVALUE=$C($L("#BYE#"))_"#BYE#"
+"RTN","KBBPUXWP",215,0)
+ D CHKEQ(1,$$PRS4^KBBPXWBP(),"Unexpected numeric value returned from PRS4 for #BYE#")
+"RTN","KBBPUXWP",216,0)
+ D CHKEQ("#BYE#",XWB(4,"CMD"),"Incorrect string returned from PRS4")
+"RTN","KBBPUXWP",217,0)
+ Q
+"RTN","KBBPUXWP",218,0)
+ ;
+"RTN","KBBPUXWP",219,0)
+PRS5() ;Parse Data Parameter chunk
+"RTN","KBBPUXWP",220,0)
+ Q ERR
+"RTN","KBBPUXWP",221,0)
+PARAM(NA) ;Add a new parameter to the list
+"RTN","KBBPUXWP",222,0)
+ Q
+"RTN","KBBPUXWP",223,0)
+ ;
+"RTN","KBBPUXWP",224,0)
+RPC() ;Check the rpc information.
+"RTN","KBBPUXWP",225,0)
+ Q ERR
+"RTN","KBBPUXWP",226,0)
+ ;
+"RTN","KBBPUXWP",227,0)
+SREAD() ;Read a S_PACK
+"RTN","KBBPUXWP",228,0)
+ Q V7
+"RTN","KBBPUXWP",229,0)
+ ;
+"RTN","KBBPUXWP",230,0)
+LREAD(ROOT) ;Read a L_PACK
+"RTN","KBBPUXWP",231,0)
+ Q
+"RTN","KBBPUXWP",232,0)
+ ;
+"RTN","KBBPUXWP",233,0)
+ ;X can be something like '"TEXT",1,0'.
+"RTN","KBBPUXWP",234,0)
+LINST(A,X,XWBY) ;instantiate local array
+"RTN","KBBPUXWP",235,0)
+ Q
+"RTN","KBBPUXWP",236,0)
+ ;
+"RTN","KBBPUXWP",237,0)
+ ;S can be something like '"TEXT",1,0'.
+"RTN","KBBPUXWP",238,0)
+GINST(R,S,V) ;instantiate global
+"RTN","KBBPUXWP",239,0)
+ Q
+"RTN","KBBPUXWP",240,0)
+ ;
+"RTN","KBBPUXWP",241,0)
+GETV(V) ;get value of V - reference parameter
+"RTN","KBBPUXWP",242,0)
+ Q V
+"RTN","KBBPUXWP",243,0)
+ ;
+"RTN","KBBPUXWP",244,0)
+VCHK(S) ;Parse string for first argument
+"RTN","KBBPUXWP",245,0)
+ Q $E(S,1,I-1)
+"RTN","KBBPUXWP",246,0)
+VCHKP S P=1 ;Find closing paren
+"RTN","KBBPUXWP",247,0)
+ Q
+"RTN","KBBPUXWP",248,0)
+VCHKQ ;Find closing quote
+"RTN","KBBPUXWP",249,0)
+ Q
+"RTN","KBBPUXWP",250,0)
+CLRBUF ;Empties Input buffer
+"RTN","KBBPUXWP",251,0)
+ Q
+"RTN","KBBPUXWP",252,0)
+ZZZ(X) ;Convert
+"RTN","KBBPUXWP",253,0)
+ Q X
+"RTN","KBBPUXWP",254,0)
+ ;
+"RTN","KBBPUXWP",255,0)
+CAPI(XWBY,PAR) ;make API call
+"RTN","KBBPUXWP",256,0)
+ Q
+"RTN","KBBPUXWP",257,0)
+ ;
+"RTN","KBBPUXWP",258,0)
+OARY() ;create storage array
+"RTN","KBBPUXWP",259,0)
+ Q A
+"RTN","KBBPUXWP",260,0)
+ ;
+"RTN","KBBPUXWP",261,0)
+CREF(R,P) ;Convert array contained in P to reference A
+"RTN","KBBPUXWP",262,0)
+ Q $E(S,1,$L(S)-1)
+"RTN","KBBPUXWP",263,0)
+ ;
+"RTN","KBBPUXWP",264,0)
+STRTCVR1 ; JLI 110606
+"RTN","KBBPUXWP",265,0)
+ Q
+"RTN","KBBPUXWP",266,0)
+ ;
+"RTN","KBBPUXWP",267,0)
+STRTCVR2(RETRNVAL) ; JLI 110606 - setup after coming back from initial start for coversheets
+"RTN","KBBPUXWP",268,0)
+ Q
+"RTN","KBBPUXWP",269,0)
+ ;
+"RTN","KBBPUXWP",270,0)
+SETCSID(XWBCSID) ; Obtain and setup selected coversheet ids for foreground processing
+"RTN","KBBPUXWP",271,0)
+ Q
+"RTN","KBBPUXWP",272,0)
+ONECOVER ; called after data is returned to client
+"RTN","KBBPUXWP",273,0)
+ Q
+"RTN","KBBPUXWP",274,0)
+ ;
+"RTN","KBBPUXWP",275,0)
+ENDCOVER ; no more cover sheets to process, so set final values, clean up
+"RTN","KBBPUXWP",276,0)
+ Q
+"RTN","KBBPUXWP",277,0)
+ ;
+"RTN","KBBPUXWP",278,0)
+ ;
+"RTN","KBBPUXWP",279,0)
+LOG(MSG) ;Record Debug Info
+"RTN","KBBPUXWP",280,0)
+ Q
+"RTN","KBBPUXWP",281,0)
+ ;
+"RTN","KBBPUXWP",282,0)
+CHKEQ(EXPECTED,ACTUAL,MESSAGE) ;
+"RTN","KBBPUXWP",283,0)
+ D CHKEQ^%ut(EXPECTED,ACTUAL,$G(MESSAGE))
+"RTN","KBBPUXWP",284,0)
+ Q
+"RTN","KBBPUXWP",285,0)
+ ;
+"RTN","KBBPUXWP",286,0)
+CHKTF(VALUE,MESSAGE) ;
+"RTN","KBBPUXWP",287,0)
+ D CHKTF^%ut(VALUE,$G(MESSAGE))
+"RTN","KBBPUXWP",288,0)
+ Q
+"RTN","KBBPUXWR")
+0^12^B3825855
+"RTN","KBBPUXWR",1,0)
+KBBPUXWR ;JIVEYSOFT.COM/JOEL IVEY - Unit test routine for new broker-related code ;07/12/16  20:41
+"RTN","KBBPUXWR",2,0)
+ ;;0.0;KBBPTOOLS;;;Build 6
+"RTN","KBBPUXWR",3,0)
+ I $T(EN^%ut) D EN^%ut("KBBPUXWR")
+"RTN","KBBPUXWR",4,0)
+ Q
+"RTN","KBBPUXWR",5,0)
+ ;
+"RTN","KBBPUXWR",6,0)
+ ;; TAGS IN KBBPXWBR
+"RTN","KBBPUXWR",7,0)
+STARTUP ; initialize XWBSEC (security packet) and XWBERR (error packet)
+"RTN","KBBPUXWR",8,0)
+ S XWBSEC="",XWBERR="",KBBPULIN=0,XWBT("BF")="@",XWBTDEV=IO
+"RTN","KBBPUXWR",9,0)
+ K ^TMP("KBBPXWBR",$J,"OUTPUT")
+"RTN","KBBPUXWR",10,0)
+ Q
+"RTN","KBBPUXWR",11,0)
+ ;
+"RTN","KBBPUXWR",12,0)
+SHUTDOWN ;
+"RTN","KBBPUXWR",13,0)
+ K XWBSEC,XWBERR,KBBPULIN,XWBT("BF"),XWBTDEV
+"RTN","KBBPUXWR",14,0)
+ K ^TMP("KBBPXWBR",$J,"OUTPUT")
+"RTN","KBBPUXWR",15,0)
+ Q
+"RTN","KBBPUXWR",16,0)
+ ;
+"RTN","KBBPUXWR",17,0)
+ ;BREAD(L,TO,SE) ;read tcp buffer, L is length, TO is timeout
+"RTN","KBBPUXWR",18,0)
+ ;
+"RTN","KBBPUXWR",19,0)
+QSND ;@TEST - Quick send
+"RTN","KBBPUXWR",20,0)
+ N STR,XWBSBUF
+"RTN","KBBPUXWR",21,0)
+ S STR="SENT STRING",XWBSBUF=""
+"RTN","KBBPUXWR",22,0)
+ K ^TMP("KBBPXWBR",$J,"OUTPUT") S KBBPULIN=0
+"RTN","KBBPUXWR",23,0)
+ D QSND^KBBPXWBR(STR)
+"RTN","KBBPUXWR",24,0)
+ D CHKTF($D(^TMP("KBBPXWBR",$J,"OUTPUT",1)),"No data written using QSND^KBBPXWBR")
+"RTN","KBBPUXWR",25,0)
+ ; output string has $L of XWBSEC (and if not null, XWBSEC) and $L of XWBERR as first characters (and if not null, XWBERR)
+"RTN","KBBPUXWR",26,0)
+ D CHKEQ($C(0)_$C(0)_STR_$C(4)_"@",$G(^TMP("KBBPXWBR",$J,"OUTPUT",1)),"Incorrect data from WRITE^KBBPXWBR")
+"RTN","KBBPUXWR",27,0)
+ Q
+"RTN","KBBPUXWR",28,0)
+ ;
+"RTN","KBBPUXWR",29,0)
+ ;ESND(XWBR) ;Send from ETRAP
+"RTN","KBBPUXWR",30,0)
+ ;SND ; Send a responce
+"RTN","KBBPUXWR",31,0)
+ ;SNDDATA ;Send the data part
+"RTN","KBBPUXWR",32,0)
+ ;SNDERR ;send error information
+"RTN","KBBPUXWR",33,0)
+WRITE ;@TEST - Write a data string
+"RTN","KBBPUXWR",34,0)
+ N STR,XWBSBUF
+"RTN","KBBPUXWR",35,0)
+ S STR="INPUT STRING",XWBSBUF=""
+"RTN","KBBPUXWR",36,0)
+ K ^TMP("KBBPXWBR",$J,"OUTPUT") S KBBPULIN=0
+"RTN","KBBPUXWR",37,0)
+ D WRITE^KBBPXWBR(STR)
+"RTN","KBBPUXWR",38,0)
+ D WBF^KBBPXWBR
+"RTN","KBBPUXWR",39,0)
+ D CHKTF($D(^TMP("KBBPXWBR",$J,"OUTPUT",1)),"No data written using WRITE^KBBPXWBR")
+"RTN","KBBPUXWR",40,0)
+ D CHKEQ(STR_"@",$G(^TMP("KBBPXWBR",$J,"OUTPUT",1)),"Incorrect data from WRITE^KBBPXWBR")
+"RTN","KBBPUXWR",41,0)
+ Q
+"RTN","KBBPUXWR",42,0)
+ ;
+"RTN","KBBPUXWR",43,0)
+ ;WBF ;Write Buffer Flush
+"RTN","KBBPUXWR",44,0)
+ ;LOG(MSG) ;Record Debug Info
+"RTN","KBBPUXWR",45,0)
+ ;
+"RTN","KBBPUXWR",46,0)
+CHKEQ(EXPECTED,ACTUAL,MESSAGE) ;
+"RTN","KBBPUXWR",47,0)
+ D CHKEQ^%ut(EXPECTED,ACTUAL,$G(MESSAGE))
+"RTN","KBBPUXWR",48,0)
+ Q
+"RTN","KBBPUXWR",49,0)
+ ;
+"RTN","KBBPUXWR",50,0)
+CHKTF(VALUE,MESSAGE) ;
+"RTN","KBBPUXWR",51,0)
+ D CHKTF^%ut(VALUE,$G(MESSAGE))
+"RTN","KBBPUXWR",52,0)
+ Q
+"RTN","KBBPUXWT")
+0^13^B25083846
+"RTN","KBBPUXWT",1,0)
+KBBPUXWT ;JIVEYSOFT.COM/JOEL IVEY - Unit test routine for KBBPXWBT ;06/02/16  17:34
+"RTN","KBBPUXWT",2,0)
+ ;;0.0;JLITOOLS;;;Build 6
+"RTN","KBBPUXWT",3,0)
+ D EN^%ut("KBBPUXWB")
+"RTN","KBBPUXWT",4,0)
+ Q
+"RTN","KBBPUXWT",5,0)
+ ;
+"RTN","KBBPUXWT",6,0)
+SAVEVARS ;@TEST - save off local variables on temp exit
+"RTN","KBBPUXWT",7,0)
+ N VARA,VARB,KBBPGLOB
+"RTN","KBBPUXWT",8,0)
+ S VARA=1,VARB(1)="ABC"
+"RTN","KBBPUXWT",9,0)
+ S KBBPGLOB=$NA(^TMP("KBBPUXWB","VARS")) K @KBBPGLOB
+"RTN","KBBPUXWT",10,0)
+ D SAVEVARS^KBBPXWBT
+"RTN","KBBPUXWT",11,0)
+ D CHKTF($D(@KBBPGLOB@("VARA"))=1,"Top level local variable not present")
+"RTN","KBBPUXWT",12,0)
+ D CHKEQ(1,$G(@KBBPGLOB@("VARA")),"Top level local variable value not correct")
+"RTN","KBBPUXWT",13,0)
+ D CHKTF('($D(@KBBPGLOB@("VARB"))#2),"Unexpected top level local variable present")
+"RTN","KBBPUXWT",14,0)
+ D CHKEQ("ABC",$G(@KBBPGLOB@("VARB",1)),"Subscripted local variable not as expected")
+"RTN","KBBPUXWT",15,0)
+ K @KBBPGLOB
+"RTN","KBBPUXWT",16,0)
+ Q
+"RTN","KBBPUXWT",17,0)
+ ;
+"RTN","KBBPUXWT",18,0)
+VRESTORE ; @TEST - restore local variables
+"RTN","KBBPUXWT",19,0)
+ N VARA,VARB,KBBPGLOB
+"RTN","KBBPUXWT",20,0)
+ S VARA=1,VARB(1)="ABC"
+"RTN","KBBPUXWT",21,0)
+ S KBBPGLOB=$NA(^TMP("KBBPUXWB","VARS")) K @KBBPGLOB
+"RTN","KBBPUXWT",22,0)
+ ; setup saved variables
+"RTN","KBBPUXWT",23,0)
+ D SAVEVARS^KBBPXWBT
+"RTN","KBBPUXWT",24,0)
+ ; remove VARA and VARB from current values
+"RTN","KBBPUXWT",25,0)
+ K VARA,VARB
+"RTN","KBBPUXWT",26,0)
+ ; and restore variables
+"RTN","KBBPUXWT",27,0)
+ D VRESTORE^KBBPXWBT
+"RTN","KBBPUXWT",28,0)
+ ; check for VARA and VARB data being restored
+"RTN","KBBPUXWT",29,0)
+ D CHKTF($D(VARA)=1,"Top level local variable not present")
+"RTN","KBBPUXWT",30,0)
+ D CHKEQ(1,$G(VARA),"Top level local variable value not correct")
+"RTN","KBBPUXWT",31,0)
+ D CHKTF('($D(VARB)#2),"Unexpected top level local variable present")
+"RTN","KBBPUXWT",32,0)
+ D CHKEQ("ABC",$G(VARB(1)),"Subscripted local variable not as expected")
+"RTN","KBBPUXWT",33,0)
+ K @KBBPGLOB
+"RTN","KBBPUXWT",34,0)
+ Q
+"RTN","KBBPUXWT",35,0)
+ ;
+"RTN","KBBPUXWT",36,0)
+SAVETMP ; @TEST - save temp global entries
+"RTN","KBBPUXWT",37,0)
+ N KBBPGLOB,KBBPTMP1,KBBPTMP2
+"RTN","KBBPUXWT",38,0)
+ S KBBPGLOB=$NA(^TMP("KBBPUXWB","TMP")) K @KBBPGLOB
+"RTN","KBBPUXWT",39,0)
+ S KBBPTMP1=$NA(^TMP($J,"KBBPUXWB-SAVETEMP1")) K @KBBPTMP1
+"RTN","KBBPUXWT",40,0)
+ S KBBPTMP2=$NA(^TMP("KBBPUXWB-SAVETEMP2",$J)) K @KBBPTMP2
+"RTN","KBBPUXWT",41,0)
+ S @KBBPTMP1@("SET1")="SET1_VALUE",^(4)="VALUE4",^(4,1)="4^1"
+"RTN","KBBPUXWT",42,0)
+ S @KBBPTMP2@("SET2")="SET2_VALUE",^(4)="SET2_4",^(4,2)="4^2"
+"RTN","KBBPUXWT",43,0)
+ ;
+"RTN","KBBPUXWT",44,0)
+ D SAVETMP^KBBPXWBT
+"RTN","KBBPUXWT",45,0)
+ ;
+"RTN","KBBPUXWT",46,0)
+ D CHKTF($D(@KBBPGLOB@("$J","KBBPUXWB-SAVETEMP1","SET1"))=1,"Top level TMP1-SET1 not present")
+"RTN","KBBPUXWT",47,0)
+ D CHKEQ("SET1_VALUE",$G(@KBBPGLOB@("$J","KBBPUXWB-SAVETEMP1","SET1")),"Top level TMP1-SET1 incorrect value")
+"RTN","KBBPUXWT",48,0)
+ ;
+"RTN","KBBPUXWT",49,0)
+ D CHKTF($D(@KBBPGLOB@("$J","KBBPUXWB-SAVETEMP1",4))=11,"Top level TMP1-4 and/or subscript not present")
+"RTN","KBBPUXWT",50,0)
+ D CHKEQ("VALUE4",$G(@KBBPGLOB@("$J","KBBPUXWB-SAVETEMP1",4)),"Top level TMP-1 incorrect value")
+"RTN","KBBPUXWT",51,0)
+ ;
+"RTN","KBBPUXWT",52,0)
+ D CHKTF($D(@KBBPGLOB@("$J","KBBPUXWB-SAVETEMP1",4,1))=1,"TMP1-SET1 4,1 level not present")
+"RTN","KBBPUXWT",53,0)
+ D CHKEQ("4^1",$G(@KBBPGLOB@("$J","KBBPUXWB-SAVETEMP1",4,1)),"TMP1-SET1 4,1 incorrect value")
+"RTN","KBBPUXWT",54,0)
+ ;
+"RTN","KBBPUXWT",55,0)
+ D CHKTF($D(@KBBPGLOB@("KBBPUXWB-SAVETEMP2","$J","SET2"))=1,"Top level TMP2-SET2 not present")
+"RTN","KBBPUXWT",56,0)
+ D CHKEQ("SET2_VALUE",$G(@KBBPGLOB@("KBBPUXWB-SAVETEMP2","$J","SET2")),"Top level TMP2-SET2 incorrect value")
+"RTN","KBBPUXWT",57,0)
+ ;
+"RTN","KBBPUXWT",58,0)
+ D CHKTF($D(@KBBPGLOB@("KBBPUXWB-SAVETEMP2","$J",4))=11,"Top level TMP2-4 or subscript not present")
+"RTN","KBBPUXWT",59,0)
+ D CHKEQ("SET2_4",$G(@KBBPGLOB@("KBBPUXWB-SAVETEMP2","$J",4)),"Top level TMP2-4 incorrect value")
+"RTN","KBBPUXWT",60,0)
+ ;
+"RTN","KBBPUXWT",61,0)
+ D CHKTF($D(@KBBPGLOB@("KBBPUXWB-SAVETEMP2","$J",4,2))=1,"TMP2-SET2 4,2 level not present")
+"RTN","KBBPUXWT",62,0)
+ D CHKEQ("4^2",$G(@KBBPGLOB@("KBBPUXWB-SAVETEMP2","$J",4,2)),"TMP2-SET2 4,2 incorrect value")
+"RTN","KBBPUXWT",63,0)
+ ;
+"RTN","KBBPUXWT",64,0)
+ K @KBBPGLOB
+"RTN","KBBPUXWT",65,0)
+ Q
+"RTN","KBBPUXWT",66,0)
+ ;
+"RTN","KBBPUXWT",67,0)
+RESTRTMP ; @TEST - restore data into ^TMP($J, and ^TMP(name,$J, entries
+"RTN","KBBPUXWT",68,0)
+ N KBBPGLOB,KBBPTMP1,KBBPTMP2
+"RTN","KBBPUXWT",69,0)
+ S KBBPGLOB=$NA(^TMP("KBBPUXWB","TMP")) K @KBBPGLOB
+"RTN","KBBPUXWT",70,0)
+ S KBBPTMP1=$NA(^TMP($J,"KBBPUXWB-SAVETEMP1")) K @KBBPTMP1
+"RTN","KBBPUXWT",71,0)
+ S KBBPTMP2=$NA(^TMP("KBBPUXWB-SAVETEMP2",$J)) K @KBBPTMP2
+"RTN","KBBPUXWT",72,0)
+ S @KBBPTMP1@("SET1")="SET1_VALUE",^(4)="VALUE4",^(4,1)="4^1"
+"RTN","KBBPUXWT",73,0)
+ S @KBBPTMP2@("SET2")="SET2_VALUE",^(4)="SET2_4",^(4,2)="4^2"
+"RTN","KBBPUXWT",74,0)
+ ;
+"RTN","KBBPUXWT",75,0)
+ D SAVETMP^KBBPXWBT
+"RTN","KBBPUXWT",76,0)
+ K @KBBPTMP1,@KBBPTMP2
+"RTN","KBBPUXWT",77,0)
+ ;
+"RTN","KBBPUXWT",78,0)
+ D RESTRTMP^KBBPXWBT
+"RTN","KBBPUXWT",79,0)
+ ;
+"RTN","KBBPUXWT",80,0)
+ D CHKTF($D(@KBBPTMP1@("SET1"))=1,"Top level TMP1-SET1 not restored")
+"RTN","KBBPUXWT",81,0)
+ D CHKEQ("SET1_VALUE",$G(@KBBPTMP1@("SET1")),"Incorrect value for top level TMP1-SET1")
+"RTN","KBBPUXWT",82,0)
+ D CHKTF($D(@KBBPTMP1@(4))=11,"Top level TMP1-4 and/or subscript not present")
+"RTN","KBBPUXWT",83,0)
+ D CHKEQ("VALUE4",$G(@KBBPTMP1@(4)),"Top level TMP-4 incorrect value")
+"RTN","KBBPUXWT",84,0)
+ D CHKTF($D(@KBBPTMP1@(4,1))=1,"TMP1-SET1 4,1 level not present")
+"RTN","KBBPUXWT",85,0)
+ D CHKEQ("4^1",$G(@KBBPTMP1@(4,1)),"TMP1-SET1 4,1 incorrect value")
+"RTN","KBBPUXWT",86,0)
+ ;
+"RTN","KBBPUXWT",87,0)
+ D CHKTF($D(@KBBPTMP2@("SET2"))=1,"Top level TMP2-SET2 not present")
+"RTN","KBBPUXWT",88,0)
+ D CHKEQ("SET2_VALUE",$G(@KBBPTMP2@("SET2")),"Top level TMP2-SET2 incorrect value")
+"RTN","KBBPUXWT",89,0)
+ D CHKTF($D(@KBBPTMP2@(4))=11,"Top level TMP2-4 or subscript not present")
+"RTN","KBBPUXWT",90,0)
+ D CHKEQ("SET2_4",$G(@KBBPTMP2@(4)),"Top level TMP2-4 incorrect value")
+"RTN","KBBPUXWT",91,0)
+ D CHKTF($D(@KBBPTMP2@(4,2))=1,"TMP2-SET2 4,2 level not present")
+"RTN","KBBPUXWT",92,0)
+ D CHKEQ("4^2",$G(@KBBPTMP2@(4,2)),"TMP2-SET2 4,2 incorrect value")
+"RTN","KBBPUXWT",93,0)
+ K @KBBPTMP1,@KBBPTMP2
+"RTN","KBBPUXWT",94,0)
+ Q
+"RTN","KBBPUXWT",95,0)
+ ;
+"RTN","KBBPUXWT",96,0)
+CHKEQ(EXPECTED,ACTUAL,MESSAGE) ;
+"RTN","KBBPUXWT",97,0)
+ D CHKEQ^%ut(EXPECTED,ACTUAL,$G(MESSAGE))
+"RTN","KBBPUXWT",98,0)
+ Q
+"RTN","KBBPUXWT",99,0)
+ ;
+"RTN","KBBPUXWT",100,0)
+CHKTF(VALUE,MESSAGE) ;
+"RTN","KBBPUXWT",101,0)
+ D CHKTF^%ut(VALUE,$G(MESSAGE))
+"RTN","KBBPUXWT",102,0)
+ Q
+"RTN","KBBPUXWX")
+0^14^B3737643
+"RTN","KBBPUXWX",1,0)
+KBBPUXWX ;JIVEYSOFT.COM/JOEL IVEY - Unit test routine for new broker-related code ;11/14/16  14:11
+"RTN","KBBPUXWX",2,0)
+ ;;0.0;JLITOOLS;;;Build 6
+"RTN","KBBPUXWX",3,0)
+ ;  These tests are for code that was added to my most recent version of the BrokerExample
+"RTN","KBBPUXWX",4,0)
+ ; application.  It added a tab in which a user could kill, set or concatenate a piece of text
+"RTN","KBBPUXWX",5,0)
+ ; to the variable KBBPVALU and get the current value of this variable.  It was mainly
+"RTN","KBBPUXWX",6,0)
+ ; to provide the ability to test restoration of user data following an inactivity timeout
+"RTN","KBBPUXWX",7,0)
+ ; and restoration of connection on the next request from the server.
+"RTN","KBBPUXWX",8,0)
+ ;
+"RTN","KBBPUXWX",9,0)
+ ; Initially, if this variable is set, and the application is inactive with respect to
+"RTN","KBBPUXWX",10,0)
+ ; the server for over 30 seconds, the system will act as timed-out and disconnect the
+"RTN","KBBPUXWX",11,0)
+ ; user, storing local variables and global entries under ^TMP($J, and ^TMP(varname,$J,.
+"RTN","KBBPUXWX",12,0)
+ ; On the next request from the server, the connection is re-established and the variables
+"RTN","KBBPUXWX",13,0)
+ ; and saved ^TMP entries restored for the user.
+"RTN","KBBPUXWX",14,0)
+ ;
+"RTN","KBBPUXWX",15,0)
+ ; This can be tested by connecting the application, then selecting the 'Pass by Reference'
+"RTN","KBBPUXWX",16,0)
+ ; tab and entering $J as the reference.  After the value is returned, select the 'Values'
+"RTN","KBBPUXWX",17,0)
+ ; tab and enter some text in the top text entry box and click on the 'Set Variable
+"RTN","KBBPUXWX",18,0)
+ ; KBBPVALU' button.  The lower text box will display the entered value.  Return to the
+"RTN","KBBPUXWX",19,0)
+ ; 'Pass by Reference' tab and after waiting at least 30 seconds click the 'Execute RPC'
+"RTN","KBBPUXWX",20,0)
+ ; button and view the current job number, which should differ from the previous entry.
+"RTN","KBBPUXWX",21,0)
+ ; returning to the 'Values' tab, the user can add new text in the upper text box and
+"RTN","KBBPUXWX",22,0)
+ ; press the 'Concatenate to Variable KBBPVALU' button, the lower text box should now
+"RTN","KBBPUXWX",23,0)
+ ; show the new text added to the end of the previous entry - showing that the data
+"RTN","KBBPUXWX",24,0)
+ ; available in the previous job entry has been restored in the current one.
+"RTN","KBBPUXWX",25,0)
+ ;
+"RTN","KBBPUXWX",26,0)
+ D EN^%ut("KBBPUXWB")
+"RTN","KBBPUXWX",27,0)
+ Q
+"RTN","KBBPUXWX",28,0)
+ ;
+"RTN","KBBPUXWX",29,0)
+SETVALU ; @TEST
+"RTN","KBBPUXWX",30,0)
+ N KBBPVALU,RESULT
+"RTN","KBBPUXWX",31,0)
+ S KBBPVALU="OLD"
+"RTN","KBBPUXWX",32,0)
+ D SETVALU^KBBPXWBX(.RESULT,"NEW VALUE") ;
+"RTN","KBBPUXWX",33,0)
+ D CHKEQ("NEW VALUE",RESULT,"Incorrect value returned after SET")
+"RTN","KBBPUXWX",34,0)
+ Q
+"RTN","KBBPUXWX",35,0)
+ ;
+"RTN","KBBPUXWX",36,0)
+KILLVALU ; @TEST
+"RTN","KBBPUXWX",37,0)
+ N KBBPVALU,RESULT
+"RTN","KBBPUXWX",38,0)
+ S KBBPVALU="OLD"
+"RTN","KBBPUXWX",39,0)
+ D KILLVALU^KBBPXWBX(.RESULT) ;
+"RTN","KBBPUXWX",40,0)
+ D CHKEQ(0,$D(KBBPVALU),"Data was still in KBBPVALU after call to KILL")
+"RTN","KBBPUXWX",41,0)
+ D CHKEQ("<KBBPVALU NOT PRESENT>",RESULT,"Message indicating not present not returned")
+"RTN","KBBPUXWX",42,0)
+ Q
+"RTN","KBBPUXWX",43,0)
+ ;
+"RTN","KBBPUXWX",44,0)
+CONVALU ; @TEST
+"RTN","KBBPUXWX",45,0)
+ N KBBPVALU,RESULT
+"RTN","KBBPUXWX",46,0)
+ S KBBPVALU="OLD"
+"RTN","KBBPUXWX",47,0)
+ D CONVALU^KBBPXWBX(.RESULT,"NEW") ;
+"RTN","KBBPUXWX",48,0)
+ D CHKEQ("OLDNEW",RESULT,"Data was not concatenated")
+"RTN","KBBPUXWX",49,0)
+ Q
+"RTN","KBBPUXWX",50,0)
+ ;
+"RTN","KBBPUXWX",51,0)
+GETVALU ; @TEST
+"RTN","KBBPUXWX",52,0)
+ N KBBPVALU,RESULT
+"RTN","KBBPUXWX",53,0)
+ S KBBPVALU="VALUE"
+"RTN","KBBPUXWX",54,0)
+ D GETVALU^KBBPXWBX(.RESULT)
+"RTN","KBBPUXWX",55,0)
+ D CHKEQ("VALUE",RESULT,"Current value was not returned")
+"RTN","KBBPUXWX",56,0)
+ Q
+"RTN","KBBPUXWX",57,0)
+ ;
+"RTN","KBBPUXWX",58,0)
+CHKEQ(EXPECTED,ACTUAL,MESSAGE) ;
+"RTN","KBBPUXWX",59,0)
+ D CHKEQ^%ut(EXPECTED,ACTUAL,$G(MESSAGE))
+"RTN","KBBPUXWX",60,0)
+ Q
+"RTN","KBBPXUS4")
+0^15^B36549242
+"RTN","KBBPXUS4",1,0)
+KBBPXUS4 ;JLI/JIVEY@JIVEYSOFT.COM - build and support sign-on token ;02/14/17  19:21
+"RTN","KBBPXUS4",2,0)
+ ;;0.0;KBBPTOOLS;;;Build 6
+"RTN","KBBPXUS4",3,0)
+XUSRB4 ;ISF/RWF - Build a temporary sign-on token ;05/08/16  10:49
+"RTN","KBBPXUS4",4,0)
+ ;;8.0;KERNEL;**150,337,395,419,437,499,523,573,596**;Jul 10, 1995;Build 1
+"RTN","KBBPXUS4",5,0)
+ ;Per VHA Directive 2004-038, this routine should not be modified
+"RTN","KBBPXUS4",6,0)
+ D ^KBBPUXU4 ; Unit tests
+"RTN","KBBPXUS4",7,0)
+ Q
+"RTN","KBBPXUS4",8,0)
+ ;
+"RTN","KBBPXUS4",9,0)
+ASH(RET) ;rpc. Auto Signon Handle
+"RTN","KBBPXUS4",10,0)
+ N HDL
+"RTN","KBBPXUS4",11,0)
+ S HDL=$$HANDLE("KBBPAS",1),RET="~9"_HDL
+"RTN","KBBPXUS4",12,0)
+ S KBBPTOKN=HDL
+"RTN","KBBPXUS4",13,0)
+ D LOG("ASH KBBPTOKN="_KBBPTOKN)
+"RTN","KBBPXUS4",14,0)
+ ;Now place user info in it.
+"RTN","KBBPXUS4",15,0)
+ D TOK(HDL)
+"RTN","KBBPXUS4",16,0)
+ Q
+"RTN","KBBPXUS4",17,0)
+ ;
+"RTN","KBBPXUS4",18,0)
+CCOW(RET) ;rpc. CCOW Auto Signon Handle
+"RTN","KBBPXUS4",19,0)
+ N HDL,HDL2,X
+"RTN","KBBPXUS4",20,0)
+ S RET(0)="NO PROXY USER",RET(1)="ERROR"
+"RTN","KBBPXUS4",21,0)
+ I $$USERTYPE^XUSAP(DUZ,"APPLICATION PROXY") Q  ;No Proxy
+"RTN","KBBPXUS4",22,0)
+ I $$USERTYPE^XUSAP(DUZ,"CONNECTOR PROXY") Q  ;No Proxy
+"RTN","KBBPXUS4",23,0)
+ S X=$$ACTIVE^XUSER(DUZ) I 'X S RET(0)=X Q  ;User must be active
+"RTN","KBBPXUS4",24,0)
+ S HDL=$$HANDLE("XWBCCW",1)
+"RTN","KBBPXUS4",25,0)
+ ;Return RET(0) the CCOW token, RET(1) the domain name and the Station #
+"RTN","KBBPXUS4",26,0)
+ S RET(0)="~2"_$$LOW^XLFSTR(HDL),RET(1)=$G(^XMB("NETNAME"))_"^"_$$STA^XUAF4(DUZ(2))
+"RTN","KBBPXUS4",27,0)
+ ;Now place user info in it.
+"RTN","KBBPXUS4",28,0)
+ D TOK(HDL)
+"RTN","KBBPXUS4",29,0)
+ S ^XUTL("XQ",$J,"HDL")=HDL ;Save handle with job
+"RTN","KBBPXUS4",30,0)
+ Q
+"RTN","KBBPXUS4",31,0)
+ ;
+"RTN","KBBPXUS4",32,0)
+HANDLE(NS,LT) ;Return a unique handle into ^XTMP (ef. sup)
+"RTN","KBBPXUS4",33,0)
+ ;NS is the namespace, LT is the Handle Lifetime in days
+"RTN","KBBPXUS4",34,0)
+ N %H,A,J,HL
+"RTN","KBBPXUS4",35,0)
+ I $G(NS)="" Q "" ;Return null if no namespace
+"RTN","KBBPXUS4",36,0)
+ S LT=$G(LT,1) S:LT>7 LT=7 ;Default to 1
+"RTN","KBBPXUS4",37,0)
+ S %H=$H,J=NS_($J#2048)_"-"_(%H#7*86400+$P(%H,",",2))_"_",A=$R(10)
+"RTN","KBBPXUS4",38,0)
+ F  S HL=J_A,A=A+1 L +^XTMP(HL):1 I $T Q:'$D(^XTMP(HL))  L -^XTMP(HL)
+"RTN","KBBPXUS4",39,0)
+ D TOKUPDAT(HL)
+"RTN","KBBPXUS4",40,0)
+ ;L -^XTMP(HL) Leave the unLock to tha caller
+"RTN","KBBPXUS4",41,0)
+ Q HL
+"RTN","KBBPXUS4",42,0)
+ ;
+"RTN","KBBPXUS4",43,0)
+TOK(H) ;Store a Token
+"RTN","KBBPXUS4",44,0)
+ ;H is handle into XTMP
+"RTN","KBBPXUS4",45,0)
+ N J,T,R,%
+"RTN","KBBPXUS4",46,0)
+ S T=$$H3^%ZTM($H)
+"RTN","KBBPXUS4",47,0)
+ S R=T_"|"_$G(DUZ)_"|"_H
+"RTN","KBBPXUS4",48,0)
+ W !,"H=",H
+"RTN","KBBPXUS4",49,0)
+ D TOKUPDAT(H)
+"RTN","KBBPXUS4",50,0)
+ W !,"H=",H,"  ENCR(R)=",$$ENCRYP^XUSRB1(R)
+"RTN","KBBPXUS4",51,0)
+ S ^XTMP(H,"D",0)="|"_$$ENCRYP^XUSRB1(R)_"|"
+"RTN","KBBPXUS4",52,0)
+ S ^XTMP(H,"D2")=$G(DUZ(2))
+"RTN","KBBPXUS4",53,0)
+ ;S %=$G(IO("IP")) I $L(%),%'?1.3N1P1.3N1P1.3N1P1.3N S %=$P($$ADDRESS^XLFNSLK(%),",")
+"RTN","KBBPXUS4",54,0)
+ ;S ^XTMP(H,"D3")=%
+"RTN","KBBPXUS4",55,0)
+ ;S ^XTMP(H,"CLNM")=$G(IO("CLNM"))
+"RTN","KBBPXUS4",56,0)
+ ;S ^XTMP(H,"JOB",$J)=$G(IO("IP"))
+"RTN","KBBPXUS4",57,0)
+ S ^XTMP(H,"STATUS")="0^New",^("CNT")=0
+"RTN","KBBPXUS4",58,0)
+ L -^XTMP(H) ;Clear Lock
+"RTN","KBBPXUS4",59,0)
+ Q
+"RTN","KBBPXUS4",60,0)
+ ;
+"RTN","KBBPXUS4",61,0)
+TOKUPDAT(KBBPTOKN) ; Update maximum date/time to use token access
+"RTN","KBBPXUS4",62,0)
+ N NOW,LATER,TIMEMIN
+"RTN","KBBPXUS4",63,0)
+ S TIMEMIN=120 ; TODO: Need to add code to make this value update from a file
+"RTN","KBBPXUS4",64,0)
+ S NOW=$$NOW^XLFDT(),LATER=$$FMADD^XLFDT(NOW,0,0,TIMEMIN,0)
+"RTN","KBBPXUS4",65,0)
+ S ^XTMP(KBBPTOKN,0)=LATER_U_NOW
+"RTN","KBBPXUS4",66,0)
+ Q
+"RTN","KBBPXUS4",67,0)
+ ;
+"RTN","KBBPXUS4",68,0)
+TOKCHEK(KBBPTOKN) ;.EF - returns 1 if token still valid, else kills off global and returns 0
+"RTN","KBBPXUS4",69,0)
+ N NOW
+"RTN","KBBPXUS4",70,0)
+ S NOW=$$NOW^XLFDT()
+"RTN","KBBPXUS4",71,0)
+ ; check all of the tokens and remove any old ones
+"RTN","KBBPXUS4",72,0)
+ S A="KBBPAS",X=A F  S X=$O(^XTMP(X)) Q:X'[A  I NOW>(+$G(^XTMP(X,0))) K ^XTMP(X)
+"RTN","KBBPXUS4",73,0)
+ S NOW=(NOW<+$G(^XTMP(KBBPTOKN,0)))
+"RTN","KBBPXUS4",74,0)
+ I NOW D TOKUPDAT(KBBPTOKN)
+"RTN","KBBPXUS4",75,0)
+ I 'NOW K KBBPTOKN S NOW=0
+"RTN","KBBPXUS4",76,0)
+ Q NOW
+"RTN","KBBPXUS4",77,0)
+ ;
+"RTN","KBBPXUS4",78,0)
+REMOVE(HL) ;Remove (kill) a Handle. p523
+"RTN","KBBPXUS4",79,0)
+ I $L($G(HL)) K ^XTMP(HL)
+"RTN","KBBPXUS4",80,0)
+ Q
+"RTN","KBBPXUS4",81,0)
+ ;
+"RTN","KBBPXUS4",82,0)
+CHKASH(HL) ;rpc. Check a Auto Signon Handle
+"RTN","KBBPXUS4",83,0)
+ N RET,FDA,IEN S KBBPTOKN=$E(HL,3,999)
+"RTN","KBBPXUS4",84,0)
+ S RET=$$CHECK(KBBPTOKN)
+"RTN","KBBPXUS4",85,0)
+ W !,"RET=",RET
+"RTN","KBBPXUS4",86,0)
+ I RET>0 D
+"RTN","KBBPXUS4",87,0)
+ . D RESTSTAT
+"RTN","KBBPXUS4",88,0)
+ . S DUZ("ASH")=1,IEN=DUZ_","
+"RTN","KBBPXUS4",89,0)
+ . I $$GET1^DIQ(200,IEN,7,"I") S FDA(200,DUZ_",",7)=0 D FILE^DIE("K","FDA") ;rwf 403
+"RTN","KBBPXUS4",90,0)
+ ;D REMOVE(HDL) ;Token only good for one try.
+"RTN","KBBPXUS4",91,0)
+ Q RET
+"RTN","KBBPXUS4",92,0)
+ ;
+"RTN","KBBPXUS4",93,0)
+CHKCCOW(HL) ;rpc. Check a CCOW Auto Signon Handle
+"RTN","KBBPXUS4",94,0)
+ N HDL,RET,T
+"RTN","KBBPXUS4",95,0)
+ S HDL=$$UP^XLFSTR($E(HL,3,999)),T=$P($G(^XTV(8989.3,1,30),5400),U)
+"RTN","KBBPXUS4",96,0)
+ S RET=$$CHECK(HDL,T)
+"RTN","KBBPXUS4",97,0)
+ I RET>0 D
+"RTN","KBBPXUS4",98,0)
+ . ;This CCOW Token good for more that one try.
+"RTN","KBBPXUS4",99,0)
+ . S ^XTMP(HDL,"JOB",$J)=$G(IO("IP"))
+"RTN","KBBPXUS4",100,0)
+ . S ^XTMP(HDL,"STATUS")=(^XTMP(HDL,"STATUS")+1)_"^Active"
+"RTN","KBBPXUS4",101,0)
+ . S ^XUTL("XQ",$J,"HDL")=HDL ;Save handle with job
+"RTN","KBBPXUS4",102,0)
+ . S DUZ("CCOW")=1 ;Flag a CCOW sign-on.
+"RTN","KBBPXUS4",103,0)
+ Q RET
+"RTN","KBBPXUS4",104,0)
+ ;
+"RTN","KBBPXUS4",105,0)
+CHECK(HL,TOUT) ;Check a Token
+"RTN","KBBPXUS4",106,0)
+ N %,J,D,L,M,S,T,CLNM
+"RTN","KBBPXUS4",107,0)
+ D
+"RTN","KBBPXUS4",108,0)
+ . S S=$G(^XTMP(HL,0)) I '$L(S) S S="0^Bad Handle" Q
+"RTN","KBBPXUS4",109,0)
+ . S S=$G(^XTMP(HL,"D",0)) I '$L(S) S S="0^Bad Handle" Q  ;Now have real token
+"RTN","KBBPXUS4",110,0)
+ . I $E(S)'="|" S S="0^Bad Token" Q
+"RTN","KBBPXUS4",111,0)
+ . S S=$$DECRYP^XUSRB1($E(S,2,$L(S)-1)) I S="" S S="0^Bad Token" Q
+"RTN","KBBPXUS4",112,0)
+ . S T=$P(S,"|"),D=$P(S,"|",2),M=$P(S,"|",3)
+"RTN","KBBPXUS4",113,0)
+ . ;Check token time
+"RTN","KBBPXUS4",114,0)
+ . I '$$TOKCHEK(HL) S S="0^Token Expired" Q  ;Token good for TOUT or 90 minutes
+"RTN","KBBPXUS4",115,0)
+ . ;Check that token has handle
+"RTN","KBBPXUS4",116,0)
+ . I M'=HL S S="0^Bad Token" Q
+"RTN","KBBPXUS4",117,0)
+ . ;Check User
+"RTN","KBBPXUS4",118,0)
+ . I $G(^VA(200,D,0))="" S S="0^Bad User" Q
+"RTN","KBBPXUS4",119,0)
+ . I $D(^XTMP(HL,"D2")),D>0 S DUZ(2)=^XTMP(HL,"D2")
+"RTN","KBBPXUS4",120,0)
+ . D USER^XUS(D)
+"RTN","KBBPXUS4",121,0)
+ . Q
+"RTN","KBBPXUS4",122,0)
+ W !,"S=",S,"  D=",$G(D)
+"RTN","KBBPXUS4",123,0)
+ I +S'>0 K ^XTMP(HL) Q -1
+"RTN","KBBPXUS4",124,0)
+ Q D
+"RTN","KBBPXUS4",125,0)
+ ;
+"RTN","KBBPXUS4",126,0)
+ ;
+"RTN","KBBPXUS4",127,0)
+CCOWPC(RET) ;Return ap
+"RTN","KBBPXUS4",128,0)
+ N I,XU4
+"RTN","KBBPXUS4",129,0)
+ S RET(0)="" I '$$BROKER^XWBLIB Q
+"RTN","KBBPXUS4",130,0)
+ D GETLST^XPAR(.XU4,"SYS","XUS CCOW VAULT PARAM","Q")
+"RTN","KBBPXUS4",131,0)
+ F I=0,1 S RET(I)=$P($G(XU4(I+1)),"^",2,99)
+"RTN","KBBPXUS4",132,0)
+ Q
+"RTN","KBBPXUS4",133,0)
+ ;
+"RTN","KBBPXUS4",134,0)
+ ;p500
+"RTN","KBBPXUS4",135,0)
+CCOWIP(RET,CLIENTIP) ;rpc. CCOW Auto Signon Handle for middle tiered application servers
+"RTN","KBBPXUS4",136,0)
+ N %
+"RTN","KBBPXUS4",137,0)
+ S %=$G(IO("IP")) ; save original
+"RTN","KBBPXUS4",138,0)
+ ; get actual ip address instead of localhost address if possible
+"RTN","KBBPXUS4",139,0)
+ S IO("IP")=$S($G(CLIENTIP)="127.0.0.1":%,$G(CLIENTIP)="":%,1:$G(CLIENTIP))
+"RTN","KBBPXUS4",140,0)
+ D CCOW(.RET)
+"RTN","KBBPXUS4",141,0)
+ S IO("IP")=% ; revert to original
+"RTN","KBBPXUS4",142,0)
+ Q
+"RTN","KBBPXUS4",143,0)
+ ;
+"RTN","KBBPXUS4",144,0)
+SAVSTATE ; SAVE OFF THE CURRENT STATE
+"RTN","KBBPXUS4",145,0)
+ N KBBPVARS
+"RTN","KBBPXUS4",146,0)
+ I '$D(KBBPTOKN) Q
+"RTN","KBBPXUS4",147,0)
+ D LOG^XWBDLOG("SAVSTATE^KBBPXUS4")
+"RTN","KBBPXUS4",148,0)
+ ; save off local variables
+"RTN","KBBPXUS4",149,0)
+ S KBBPVARS="%" F  S KBBPVARS=$O(@KBBPVARS) Q:KBBPVARS=""  I (KBBPVARS'="IO")&(KBBPVARS'="XWBDEV")&(KBBPVARS'="XWBTDEV") M ^XTMP(KBBPTOKN,"LOCAL",KBBPVARS)=@KBBPVARS
+"RTN","KBBPXUS4",150,0)
+ ; and entries from ^TMP
+"RTN","KBBPXUS4",151,0)
+ S X="" F  S X=$O(^TMP($J,X)) Q:X=""  M ^XTMP(KBBPTOKN,"TMP","JOB",X)=^TMP($J,X) ;K ^TMP($J,X)
+"RTN","KBBPXUS4",152,0)
+ S X="" F  S X=$O(^TMP(X)) Q:X=""  I $D(^TMP(X,$J)) M ^XTMP(KBBPTOKN,"TMP",X,"JOB")=^TMP(X,$J)
+"RTN","KBBPXUS4",153,0)
+ Q
+"RTN","KBBPXUS4",154,0)
+ ;
+"RTN","KBBPXUS4",155,0)
+RESTSTAT ; RESTORE THE PREVIOUS STATE
+"RTN","KBBPXUS4",156,0)
+ I '$D(KBBPTOKN) Q
+"RTN","KBBPXUS4",157,0)
+ D LOG^XWBDLOG("RESTSTAT^KBBPXUS4")
+"RTN","KBBPXUS4",158,0)
+ M ^TMP("JLIVAL","AA",$J,"LOCAL")=^XTMP(KBBPTOKN,"LOCAL") ; DEBUG
+"RTN","KBBPXUS4",159,0)
+ S LOCVAR="" F  S LOCVAR=$O(^XTMP(KBBPTOKN,"LOCAL",LOCVAR)) Q:LOCVAR=""  I '$D(@LOCVAR) M @LOCVAR=^XTMP(KBBPTOKN,"LOCAL",LOCVAR)
+"RTN","KBBPXUS4",160,0)
+ K ^XTMP(KBBPTOKN,"LOCAL")
+"RTN","KBBPXUS4",161,0)
+ M ^TMP("JLIVAL","AA",$J,"TMP")=^XTMP(KBBPTOKN,"TMP") ; DEBUG
+"RTN","KBBPXUS4",162,0)
+ S LOCVAR="" F  S LOCVAR=$O(^XTMP(KBBPTOKN,"TMP","JOB",LOCVAR)) Q:LOCVAR=""  M ^TMP($J,LOCVAR)=^XTMP(KBBPTOKN,"TMP","JOB",LOCVAR) K ^XTMP(KBBPTOKN,"TMP","JOB",LOCVAR)
+"RTN","KBBPXUS4",163,0)
+ S LOCVAR="" F  S LOCVAR=$O(^XTMP(KBBPTOKN,"TMP",LOCVAR)) Q:LOCVAR=""  M ^TMP(LOCVAR,$J)=^XTMP(KBBPTOKN,"TMP",LOCVAR,"JOB") K ^XTMP(KBBPTOKN,"TMP",LOCVAR,"JOB")
+"RTN","KBBPXUS4",164,0)
+ Q
+"RTN","KBBPXUS4",165,0)
+ ;
+"RTN","KBBPXUS4",166,0)
+LOG(MSG) ;Record Debug Info
+"RTN","KBBPXUS4",167,0)
+ D:$G(XWBDEBUG) LOG^XWBDLOG("KBBPXUS4-"_MSG)
+"RTN","KBBPXUS4",168,0)
+ Q
+"RTN","KBBPXUS4",169,0)
+ ;
+"RTN","KBBPXUS5")
+0^16^B35537571
+"RTN","KBBPXUS5",1,0)
+KBBPXUS5 ;JIVEY@JIVEYSOFT.COM - ;05/07/16  18:30
+"RTN","KBBPXUS5",2,0)
+ ;;0.0;KBBPTOOLS;;;Build 6
+"RTN","KBBPXUS5",3,0)
+ ;
+"RTN","KBBPXUS5",4,0)
+XUSRB5 ;SFISC/STAFF - FATKAT and KAJEE support ;09/08/2005
+"RTN","KBBPXUS5",5,0)
+ ;;8.0;KERNEL;**361**;Jul 10, 1995;Build 1
+"RTN","KBBPXUS5",6,0)
+ Q
+"RTN","KBBPXUS5",7,0)
+ ;All this code is run under an APPLICATION PROXY user.
+"RTN","KBBPXUS5",8,0)
+FATKAAT1(RET,AVCODE,CLIENTIP) ;Get division list via proxy
+"RTN","KBBPXUS5",9,0)
+ ;Use AVcode to find user, Return data from VALIDAV plus DIVGET
+"RTN","KBBPXUS5",10,0)
+ N DUZ ;Protect caller
+"RTN","KBBPXUS5",11,0)
+ N %,X,CCOW,IEN,XUCI,XQVOL,XUVOL,XUTEXT,DIV
+"RTN","KBBPXUS5",12,0)
+ S CLIENTIP=$G(CLIENTIP,$G(IO("IP"))) S:'$L(CLIENTIP) CLIENTIP="127.0.0.1" ;Use loopback if don't have real one.
+"RTN","KBBPXUS5",13,0)
+ D XUVOL^XUS
+"RTN","KBBPXUS5",14,0)
+ D VALIDAV(AVCODE,.DIV,CLIENTIP) ;DIVGET is done in here
+"RTN","KBBPXUS5",15,0)
+ S %=RET(5)+6,CCOW=$D(DUZ("CCOW"))
+"RTN","KBBPXUS5",16,0)
+ Q:'RET(0)
+"RTN","KBBPXUS5",17,0)
+ I CCOW D  Q
+"RTN","KBBPXUS5",18,0)
+ . S RET(%+1)=1,RET(%+2)=DUZ(2)_"^"_$$NS^XUAF4(DUZ(2))_"^1"
+"RTN","KBBPXUS5",19,0)
+ . Q
+"RTN","KBBPXUS5",20,0)
+ I 'CCOW F X=0:1:DIV D
+"RTN","KBBPXUS5",21,0)
+ . S RET(%+X)=DIV(X)
+"RTN","KBBPXUS5",22,0)
+ K DUZ("CCOW")
+"RTN","KBBPXUS5",23,0)
+ Q
+"RTN","KBBPXUS5",24,0)
+ ;
+"RTN","KBBPXUS5",25,0)
+DIVGET(XUDIV,IEN) ;Get Division data
+"RTN","KBBPXUS5",26,0)
+ N %,X
+"RTN","KBBPXUS5",27,0)
+ S XUDIV=0,%=$$CHKDIV^XUS1(.XUDIV) ;Get users div.
+"RTN","KBBPXUS5",28,0)
+ I 'XUDIV,(%>0)&($P(%,U,2)'>0) D
+"RTN","KBBPXUS5",29,0)
+ . S DUZ(2)=+% ;Set users default div.
+"RTN","KBBPXUS5",30,0)
+ . S XUDIV=1,XUDIV(1)=DUZ(2)_"^"_$$NS^XUAF4(DUZ(2))_"^1"
+"RTN","KBBPXUS5",31,0)
+ I 'XUDIV,'% D
+"RTN","KBBPXUS5",32,0)
+ . S DUZ(2)=+$$KSP^XUPARAM("INST")
+"RTN","KBBPXUS5",33,0)
+ . S XUDIV=1,XUDIV(1)=DUZ(2)_"^"_$$NS^XUAF4(DUZ(2))_"^1"
+"RTN","KBBPXUS5",34,0)
+ ;
+"RTN","KBBPXUS5",35,0)
+ S %=0 D  S RESULT(0)=XUDIV
+"RTN","KBBPXUS5",36,0)
+ . ;RET(%) is divison array eg. ien;station name;station#
+"RTN","KBBPXUS5",37,0)
+ . F  S %=$O(XUDIV(%)) Q:(%'>0)  D
+"RTN","KBBPXUS5",38,0)
+ .. S XUDIV(%)=$P(XUDIV(%),U,1,3)_U_(+$P(XUDIV(%),U,4))
+"RTN","KBBPXUS5",39,0)
+ S XUDIV(0)=XUDIV
+"RTN","KBBPXUS5",40,0)
+ Q
+"RTN","KBBPXUS5",41,0)
+ ;
+"RTN","KBBPXUS5",42,0)
+VALIDAV(AVCODE,DIV,CLIP) ;Check a users access
+"RTN","KBBPXUS5",43,0)
+ ;Return R(0)=DUZ, R(1)=(0=OK, 1,2...=Can't sign-on for some reason)
+"RTN","KBBPXUS5",44,0)
+ ; R(2)=verify needs changing, R(3)=Message, R(4)=0, R(5)=msg cnt, R(5+n)
+"RTN","KBBPXUS5",45,0)
+ ; R(R(5)+6)=# div user must select from, R(R(5)+6+n)=div
+"RTN","KBBPXUS5",46,0)
+ ;
+"RTN","KBBPXUS5",47,0)
+ D LOG^XWBDLOG("VALIDAV AVCODE="_$G(AVCODE)_"  DIV="_$G(DIV)_"  CLIP="_$G(CLIP))
+"RTN","KBBPXUS5",48,0)
+ N X,XUSER,XUF,XUNOW,XUDEV,XUM,XUMSG,%1,VCCH
+"RTN","KBBPXUS5",49,0)
+ S U="^",RET(0)=0,RET(1)=0,RET(2)=0,RET(3)="",RET(4)=0,RET(5)=0
+"RTN","KBBPXUS5",50,0)
+ S XUF=$G(XUF,0),XUM=0,XUMSG=0,XUDEV=0
+"RTN","KBBPXUS5",51,0)
+ S DUZ=0,DUZ(0)="",VCCH=0 D NOW
+"RTN","KBBPXUS5",52,0)
+ D XOPT^XUS
+"RTN","KBBPXUS5",53,0)
+ S XUMSG=$$INHIBIT^XUSRB() I XUMSG S XUM=1 G VAX ;Logon inhibited
+"RTN","KBBPXUS5",54,0)
+ ;3 Strikes, Put J2EE server IP in as Terminal server.
+"RTN","KBBPXUS5",55,0)
+ I $$LKCHECK^XUSTZIP($G(CLIP)) S XUMSG=7 G VAX ;IP locked
+"RTN","KBBPXUS5",56,0)
+ ;Only allow A/V, CCOW sign-on code
+"RTN","KBBPXUS5",57,0)
+ D LOG^XWBDLOG("AVCODE="_AVCODE)
+"RTN","KBBPXUS5",58,0)
+ I $L(AVCODE) S DUZ=$$CHECKAV^XUS(AVCODE) ; JLI 160507 - DON'T NEED TO DECODE - IT WASN'T SEPARATELY ENCODED
+"RTN","KBBPXUS5",59,0)
+ D DIVGET(.DIV) ;Get DIV now
+"RTN","KBBPXUS5",60,0)
+ I DUZ'>0 S XUM=1,XUMSG=4 D  H 2 G VAX ;Bad AV code
+"RTN","KBBPXUS5",61,0)
+ . S X=$$FAIL^XUS3(CLIP) ;Check Lockout
+"RTN","KBBPXUS5",62,0)
+ S XUMSG=$$UVALID^XUS() G:XUMSG VAX ;Check User
+"RTN","KBBPXUS5",63,0)
+ S VCCH=$$VCVALID^XUSRB() ;Check VC
+"RTN","KBBPXUS5",64,0)
+ I DUZ>0 S XUMSG=$$POST(1)
+"RTN","KBBPXUS5",65,0)
+ I XUMSG>0 S DUZ=0,VCCH=0 ;If can't sign-on, don't tell need to change VC
+"RTN","KBBPXUS5",66,0)
+ I 'XUMSG,VCCH S XUMSG=12 ;Need to change VC
+"RTN","KBBPXUS5",67,0)
+VAX S:XUMSG>0 DUZ=0 ;Can't sign-on, Clear DUZ.
+"RTN","KBBPXUS5",68,0)
+ S RET(0)=DUZ,RET(1)=XUM,RET(2)=VCCH,RET(3)=$S(XUMSG:$$TXT^XUS3(XUMSG),1:""),RET(4)=0
+"RTN","KBBPXUS5",69,0)
+ Q
+"RTN","KBBPXUS5",70,0)
+ ;
+"RTN","KBBPXUS5",71,0)
+CVC(RET,XU1) ;change VC, Return 0 = success
+"RTN","KBBPXUS5",72,0)
+ N XU2,XU3,XU4 S DUZ=$G(DUZ),RET(0)=99,XU4=$$STATE^XWBSEC("XUS DUZ") S:(DUZ=0)&(XU4>0) DUZ=XU4 Q:DUZ'>0
+"RTN","KBBPXUS5",73,0)
+ S U="^",XU2=$P(XU1,U,2),XU3=$P(XU1,U,3),XU1=$P(XU1,U)
+"RTN","KBBPXUS5",74,0)
+ S XU1=$$DECRYP^XUSRB1(XU1),XU2=$$DECRYP^XUSRB1(XU2),XU3=$$DECRYP^XUSRB1(XU3)
+"RTN","KBBPXUS5",75,0)
+ S XU3=$$BRCVC^XUS2(XU1,XU2),RET(0)=+XU3,RET(1)=$P(XU3,U,2,9)
+"RTN","KBBPXUS5",76,0)
+ I XU3>0 S DUZ=0 ;Clean-up if not changed.
+"RTN","KBBPXUS5",77,0)
+ I 'XU3,XU4 D KILL^XWBSEC("XUS DUZ"),POST2
+"RTN","KBBPXUS5",78,0)
+ Q
+"RTN","KBBPXUS5",79,0)
+ ;
+"RTN","KBBPXUS5",80,0)
+POST(CVC) ;Finish setup partition, I CVC don't log yet
+"RTN","KBBPXUS5",81,0)
+ N X,XUM,XUDIV
+"RTN","KBBPXUS5",82,0)
+ I '$D(XUSER(0)),DUZ D USER^XUS(DUZ)
+"RTN","KBBPXUS5",83,0)
+ S XUM=$$USER Q:XUM>0 XUM ;User can't sign on for some reason.
+"RTN","KBBPXUS5",84,0)
+ S RET(5)=0 ;The next line sends the post sign-on msg
+"RTN","KBBPXUS5",85,0)
+ F %=1:1 Q:'$D(XUTEXT(%))  S RET(5+%)=$E(XUTEXT(%),2,256),RET(5)=%
+"RTN","KBBPXUS5",86,0)
+ I '$$SHOWPOST^XUSRB S RET(5)=0 ;This line stops the send/display of the msg.
+"RTN","KBBPXUS5",87,0)
+ D:'$G(CVC) POST2
+"RTN","KBBPXUS5",88,0)
+ Q 0
+"RTN","KBBPXUS5",89,0)
+ ;
+"RTN","KBBPXUS5",90,0)
+POST2 D:'$D(XUNOW) NOW
+"RTN","KBBPXUS5",91,0)
+ D DUZ^XUS1A,SAVE^XUS1,LOG^XUS1,ABT^XQ12
+"RTN","KBBPXUS5",92,0)
+ D KILL^XWBSEC("XUS XOPT"),CLRFAC^XUS3($G(IO("IP"))) ;p265
+"RTN","KBBPXUS5",93,0)
+ K XUTEXT,XOPT,XUEON,XUEOFF,XUTT,XUDEV,XUSER
+"RTN","KBBPXUS5",94,0)
+ Q
+"RTN","KBBPXUS5",95,0)
+ ;
+"RTN","KBBPXUS5",96,0)
+NOW ;
+"RTN","KBBPXUS5",97,0)
+ S U="^",XUNOW=$$NOW^XLFDT(),DT=$P(XUNOW,".")
+"RTN","KBBPXUS5",98,0)
+ Q
+"RTN","KBBPXUS5",99,0)
+USER() ;
+"RTN","KBBPXUS5",100,0)
+ N %B,%E,%T,I1,X1,X2
+"RTN","KBBPXUS5",101,0)
+ K XUTEXT
+"RTN","KBBPXUS5",102,0)
+ S XUTEXT=0,DUZ(2)=$G(DUZ(2),0)
+"RTN","KBBPXUS5",103,0)
+ F I=0:0 S I=$O(^XTV(8989.3,1,"POST",I)) Q:I'>0  D SET("!"_$G(^(I,0)))
+"RTN","KBBPXUS5",104,0)
+ D SET("!"),XOPT^XUS
+"RTN","KBBPXUS5",105,0)
+ S %H=$P($H,",",2)
+"RTN","KBBPXUS5",106,0)
+ D SET("!Good "_$S(%H<43200:"morning ",%H<61200:"afternoon ",1:"evening ")_$S($P(XUSER(1),U,4)]"":$P(XUSER(1),U,4),1:$P(XUSER(0),U,1)))
+"RTN","KBBPXUS5",107,0)
+ S I1=$G(^VA(200,DUZ,1.1)),X=(+I1_"0000")
+"RTN","KBBPXUS5",108,0)
+ I X D SET("!     You last signed on "_$S(X\1=DT:"today",X\1+1=DT:"yesterday",1:$$FMTE^XLFDT(X,"1D"))_" at "_$E(X,9,10)_":"_$E(X,11,12))
+"RTN","KBBPXUS5",109,0)
+ I $P(I1,"^",2) S I=$P(I1,"^",2) D SET("!There "_$S(I>1:"were ",1:"was ")_I_" unsuccessful attempt"_$S(I>1:"s",1:"")_" since you last signed on.")
+"RTN","KBBPXUS5",110,0)
+ I $P(XUSER(0),U,12),$$PH(%H,$P(XUSER(0),U,12)) Q 17 ;Time frame
+"RTN","KBBPXUS5",111,0)
+ I +$P(XOPT,U,15) S %=$P(XOPT,U,15)-($H-XUSER(1)) I %<6,%>0 D SET("!     Your Verify code will expire in "_%_" days")
+"RTN","KBBPXUS5",112,0)
+ ;Report new Mail
+"RTN","KBBPXUS5",113,0)
+ N XUXM S %=$$NU^XMGAPI4(1,1,"XUXM") I $G(XUXM) F %=0:0 S %=$O(XUXM(%)) Q:%'>0  D SET("!"_XUXM(%))
+"RTN","KBBPXUS5",114,0)
+ ;S:$P(XOPT,"^",5) XUTT=1 S DTIME=$P(XOPT,U,10)
+"RTN","KBBPXUS5",115,0)
+ ;Check Multiple Sign-on allowed, X1 signed on flag, X2 0=No,1=Yes,2=1IP
+"RTN","KBBPXUS5",116,0)
+ ;S X1=$P($G(^VA(200,DUZ,1.1)),U,3),X2=$P(XOPT,U,4)
+"RTN","KBBPXUS5",117,0)
+ ;I 'X2,X1 Q 9 ;Multi Sign-on not allowed
+"RTN","KBBPXUS5",118,0)
+ ;I X2=2 D  Q:%B>0 %B ;Only from one IP
+"RTN","KBBPXUS5",119,0)
+ ;. S %B=0 I '$D(IO("IP")) S:X1 %B=9 Q  ;Can't tell IP,
+"RTN","KBBPXUS5",120,0)
+ ;. S X1=$$COUNT(DUZ,IO("IP")),%B=$S(X1<0:9,(X1+1)>$P(XOPT,U,19):9,1:0)
+"RTN","KBBPXUS5",121,0)
+USX ;S $P(^VA(200,DUZ,1.1),U,3)=1
+"RTN","KBBPXUS5",122,0)
+ ;Call XQOR to handle SIGN-ON protocall.
+"RTN","KBBPXUS5",123,0)
+ ;N XUSER,XUSQUIT ;Protect ourself.
+"RTN","KBBPXUS5",124,0)
+ ;S DIC="^DIC(19,",X="XU USER SIGN-ON",XUSQUIT=0
+"RTN","KBBPXUS5",125,0)
+ ;D EN^XQOR
+"RTN","KBBPXUS5",126,0)
+ Q 0 ;If protocol set XUSQUIT will stop sign-on.
+"RTN","KBBPXUS5",127,0)
+ ;
+"RTN","KBBPXUS5",128,0)
+SET(V) ;Set into XUTEXT(XUTEXT), Also Called from XU USER SIGN-ON protocol.
+"RTN","KBBPXUS5",129,0)
+ S XUTEXT=$G(XUTEXT)+1,XUTEXT(XUTEXT)=V
+"RTN","KBBPXUS5",130,0)
+ Q
+"RTN","KBBPXUS5",131,0)
+ ;
+"RTN","KBBPXUS5",132,0)
+PH(%T,%R) ;Check Prohibited time for R/S
+"RTN","KBBPXUS5",133,0)
+ N MSG S MSG=$$PROHIBIT(%T,%R)
+"RTN","KBBPXUS5",134,0)
+ I MSG S XUM(0)=$P(MSG,U,2) Q 1
+"RTN","KBBPXUS5",135,0)
+ D SET("!"),SET("! "_$$EZBLD^DIALOG(30810.62)_" "_$P(MSG,U,2))
+"RTN","KBBPXUS5",136,0)
+ Q 0
+"RTN","KBBPXUS5",137,0)
+ ;
+"RTN","KBBPXUS5",138,0)
+PROHIBIT(%T,%R) ;See if a prohibited time, (Time from $H, restrict range)
+"RTN","KBBPXUS5",139,0)
+ N XMSG,%B,%E
+"RTN","KBBPXUS5",140,0)
+ S %T=%T\60#60+(%T\3600*100),%B=$P(%R,"-",1),%E=$P(%R,"-",2)
+"RTN","KBBPXUS5",141,0)
+ S XMSG=$P($$FMTE^XLFDT(DT_"."_%B,"2P")," ",2,3)_" "_$$EZBLD^DIALOG(30810.61)_" "_$P($$FMTE^XLFDT(DT_"."_%E,"2P")," ",2,3)
+"RTN","KBBPXUS5",142,0)
+ I $S(%E'<%B:%T'>%E&(%T'<%B),1:%T>%B!(%T<%E)) Q "1^"_XMSG ;No
+"RTN","KBBPXUS5",143,0)
+ Q "0^"_XMSG
+"RTN","KBBPXUS5",144,0)
+ ;
+"RTN","KBBPXUS5",145,0)
+SET1(FLAG) ;Setup for FATKAAT
+"RTN","KBBPXUS5",146,0)
+ N %
+"RTN","KBBPXUS5",147,0)
+ S U="^"
+"RTN","KBBPXUS5",148,0)
+ D XUVOL^XUS,XOPT^XUS
+"RTN","KBBPXUS5",149,0)
+ S XUDEV=0,XUIOP=""
+"RTN","KBBPXUS5",150,0)
+ D GETFAC^XUS3($G(IO("IP")))
+"RTN","KBBPXUS5",151,0)
+ S %=$P(XOPT,U,14)
+"RTN","KBBPXUS5",152,0)
+ Q
+"RTN","KBBPXUS5",153,0)
+SET2() ;EF. Return error code
+"RTN","KBBPXUS5",154,0)
+ N %,X
+"RTN","KBBPXUS5",155,0)
+ S XUNOW=$$HTFM^XLFDT($H),DT=$P(XUNOW,".")
+"RTN","KBBPXUS5",156,0)
+ K DUZ,XUSER
+"RTN","KBBPXUS5",157,0)
+ S (DUZ,DUZ(2))=0,(DUZ(0),DUZ("AG"),XUSER(0),XUSER(1),XUTT,%UCI)=""
+"RTN","KBBPXUS5",158,0)
+ S %=$$INHIBIT^XUSRB() I %>0 Q %
+"RTN","KBBPXUS5",159,0)
+ S DTIME=600
+"RTN","KBBPXUS5",160,0)
+ I '$P(XOPT,U,11),$D(^%ZIS(1,XUDEV,90)),^(90)>2800000,^(90)'>DT Q 8
+"RTN","KBBPXUS5",161,0)
+ I $D(XRT0) S XRTN="XUS" D T1^%ZOSV
+"RTN","KBBPXUS5",162,0)
+ Q 0
+"RTN","KBBPXUS5",163,0)
+ ;
+"RTN","KBBPXUSR")
+0^17^B34387069
+"RTN","KBBPXUSR",1,0)
+KBBPXUSR ;JIVEY@JIVEYSOFT.COM/JLI- ;02/23/17  15:46
+"RTN","KBBPXUSR",2,0)
+ ;;0.0;KBBPTOOLS;;;Build 6
+"RTN","KBBPXUSR",3,0)
+ ;
+"RTN","KBBPXUSR",4,0)
+XUSRB ;ISCSF/RWF - Request Broker ;10/07/09  14:19
+"RTN","KBBPXUSR",5,0)
+ ;;8.0;KERNEL;**11,16,28,32,59,70,82,109,115,165,150,180,213,234,238,265,337,395,404,437**;Jul 10, 1995
+"RTN","KBBPXUSR",6,0)
+ Q  ;No entry from top
+"RTN","KBBPXUSR",7,0)
+ ;
+"RTN","KBBPXUSR",8,0)
+ ;RPC BROKER calls, First parameter is always call-by-reference
+"RTN","KBBPXUSR",9,0)
+VALIDAV(RET,AVCODE) ;Check a users access
+"RTN","KBBPXUSR",10,0)
+ ;Return R(0)=DUZ, R(1)=(0=OK, 1,2...=Can't sign-on for some reason)
+"RTN","KBBPXUSR",11,0)
+ ; R(2)=verify needs changing, R(3)=Message, R(4)=0, R(5)=msg cnt, R(5+n)
+"RTN","KBBPXUSR",12,0)
+ ; R(R(5)+6)=# div user must select from, R(R(5)+6+n)=div
+"RTN","KBBPXUSR",13,0)
+ ;
+"RTN","KBBPXUSR",14,0)
+ D LOG^XWBDLOG("VALIDAV AVCODE="_AVCODE)
+"RTN","KBBPXUSR",15,0)
+ N X,XUSER,XUNOW,XUDEV,XUM,XUMSG,%1,VCCH K DUZ
+"RTN","KBBPXUSR",16,0)
+ S U="^",RET(0)=0,RET(5)=0,XUF=$G(XUF,0),XUM=0,XUMSG=0,XUDEV=0
+"RTN","KBBPXUSR",17,0)
+ S DUZ=0,DUZ(0)="",VCCH=0 D NOW
+"RTN","KBBPXUSR",18,0)
+ D XUVOL^XUS
+"RTN","KBBPXUSR",19,0)
+ S XOPT=$$STATE^XWBSEC("XUS XOPT")
+"RTN","KBBPXUSR",20,0)
+ S XUMSG=$$INHIBIT() I XUMSG S XUM=1 G VAX ;Logon inhibited
+"RTN","KBBPXUSR",21,0)
+ ;3 Strikes
+"RTN","KBBPXUSR",22,0)
+ I $$LKCHECK^XUSTZIP($G(IO("IP"))) S XUMSG=7 G VAX ;IP locked
+"RTN","KBBPXUSR",23,0)
+ ;Check type of sign-on code
+"RTN","KBBPXUSR",24,0)
+ I $L(AVCODE) D
+"RTN","KBBPXUSR",25,0)
+ . I $E(AVCODE,1,2)="~1" S DUZ=$$CHKASH^XUSRB4(AVCODE) Q
+"RTN","KBBPXUSR",26,0)
+ . I $E(AVCODE,1,2)="~2" S DUZ=$$CHKCCOW^XUSRB4(AVCODE) Q
+"RTN","KBBPXUSR",27,0)
+ . I $E(AVCODE,1,2)="~4" S DUZ=$$CHECKAV^XUS($P(AVCODE,U,2,99)) Q  ; JLI 140409 TO HANDLE SSH INPUT WITHOUT ENCODING
+"RTN","KBBPXUSR",28,0)
+ . I $E(AVCODE,1,2)="~9" S DUZ=$$CHKASH^KBBPXUS4(AVCODE) Q
+"RTN","KBBPXUSR",29,0)
+ . ;S DUZ=$$CHECKAV^XUS($$DECRYP^XUSRB1(AVCODE))
+"RTN","KBBPXUSR",30,0)
+ . S DUZ=$$CHECKAV^XUS(AVCODE) ; JLI 16O507
+"RTN","KBBPXUSR",31,0)
+ . Q
+"RTN","KBBPXUSR",32,0)
+ I DUZ'>0,$$FAIL^XUS3 D  G VAX
+"RTN","KBBPXUSR",33,0)
+ . S XUM=1,XUMSG=7,X=$$RA^XUSTZ H 5 ;3 Strikes
+"RTN","KBBPXUSR",34,0)
+ S XUMSG=$$UVALID^XUS() G:XUMSG VAX ;Check User
+"RTN","KBBPXUSR",35,0)
+ S VCCH=$$VCVALID() ;Check VC
+"RTN","KBBPXUSR",36,0)
+ I DUZ>0 S XUMSG=$$POST(1)
+"RTN","KBBPXUSR",37,0)
+ I XUMSG>0 S DUZ=0,VCCH=0 ;If can't sign-on, don't tell need to change VC
+"RTN","KBBPXUSR",38,0)
+ I 'XUMSG,VCCH S XUMSG=12 D SET^XWBSEC("XUS DUZ",DUZ) ;Need to change VC
+"RTN","KBBPXUSR",39,0)
+VAX S:XUMSG>0 DUZ=0 ;Can't sign-on, Clear DUZ.
+"RTN","KBBPXUSR",40,0)
+ D:DUZ>0 POST2
+"RTN","KBBPXUSR",41,0)
+ S RET(0)=DUZ,RET(1)=XUM,RET(2)=VCCH,RET(3)=$S(XUMSG:$$TXT^XUS3(XUMSG),1:""),RET(4)=0
+"RTN","KBBPXUSR",42,0)
+ K DUZ("CCOW")
+"RTN","KBBPXUSR",43,0)
+ Q
+"RTN","KBBPXUSR",44,0)
+ ;
+"RTN","KBBPXUSR",45,0)
+NOW S U="^",XUNOW=$$NOW^XLFDT(),DT=$P(XUNOW,".")
+"RTN","KBBPXUSR",46,0)
+ Q
+"RTN","KBBPXUSR",47,0)
+ ;
+"RTN","KBBPXUSR",48,0)
+INTRO(RET) ;Return INTRO TEXT.
+"RTN","KBBPXUSR",49,0)
+ D INTRO^XUS1A("RET")
+"RTN","KBBPXUSR",50,0)
+ Q
+"RTN","KBBPXUSR",51,0)
+ ;
+"RTN","KBBPXUSR",52,0)
+VCVALID() ;Return 1 if the Verify code needs changing.
+"RTN","KBBPXUSR",53,0)
+ Q:'$G(DUZ) 1
+"RTN","KBBPXUSR",54,0)
+ Q:$P($G(^VA(200,DUZ,.1)),U,2)="" 1 ;VC is empty
+"RTN","KBBPXUSR",55,0)
+ Q:$P(^VA(200,DUZ,0),U,8)=1 0 ;VC never expires
+"RTN","KBBPXUSR",56,0)
+ N XUSER D USER^XUS(DUZ)
+"RTN","KBBPXUSR",57,0)
+ Q $$VCHG^XUS1
+"RTN","KBBPXUSR",58,0)
+ ;
+"RTN","KBBPXUSR",59,0)
+CVC(RET,XU1) ;change VC, Return 0 = success
+"RTN","KBBPXUSR",60,0)
+ N XU2,XU3,XU4 S DUZ=$G(DUZ),RET(0)=99,XU4=$$STATE^XWBSEC("XUS DUZ") S:(DUZ=0)&(XU4>0) DUZ=XU4 Q:DUZ'>0
+"RTN","KBBPXUSR",61,0)
+ S U="^",XU2=$P(XU1,U,2),XU3=$P(XU1,U,3),XU1=$P(XU1,U)
+"RTN","KBBPXUSR",62,0)
+ ;S XU1=$$DECRYP^XUSRB1(XU1),XU2=$$DECRYP^XUSRB1(XU2),XU3=$$DECRYP^XUSRB1(XU3)
+"RTN","KBBPXUSR",63,0)
+ S XU3=$$BRCVC^XUS2(XU1,XU2),RET(0)=+XU3,RET(1)=$P(XU3,U,2,9)
+"RTN","KBBPXUSR",64,0)
+ I XU3>0 S DUZ=0 ;Clean-up if not changed.
+"RTN","KBBPXUSR",65,0)
+ I 'XU3,XU4 D KILL^XWBSEC("XUS DUZ"),POST2
+"RTN","KBBPXUSR",66,0)
+ Q
+"RTN","KBBPXUSR",67,0)
+ ;
+"RTN","KBBPXUSR",68,0)
+SHOWPOST() ;EF. Check if should send the POST SIGN-ON msg.
+"RTN","KBBPXUSR",69,0)
+ Q +$P($G(^XTV(8989.3,1,"XWB")),"^",2)
+"RTN","KBBPXUSR",70,0)
+ ;
+"RTN","KBBPXUSR",71,0)
+POST(CVC) ;Finish setup partition, I CVC don't log yet
+"RTN","KBBPXUSR",72,0)
+ N X,XUM,XUDIV S:$D(IO)[0 IO=$I S IO(0)=IO
+"RTN","KBBPXUSR",73,0)
+ K ^UTILITY($J),^TMP($J)
+"RTN","KBBPXUSR",74,0)
+ I '$D(XUSER(0)),DUZ D USER^XUS(DUZ)
+"RTN","KBBPXUSR",75,0)
+ S XUM=$$USER^XUS1A Q:XUM>0 XUM ;User can't sign on for some reason.
+"RTN","KBBPXUSR",76,0)
+ S RET(5)=0 ;The next line sends the post sign-on msg
+"RTN","KBBPXUSR",77,0)
+ F %=1:1 Q:'$D(XUTEXT(%))  S RET(5+%)=$E(XUTEXT(%),2,256),RET(5)=%
+"RTN","KBBPXUSR",78,0)
+ I '$$SHOWPOST S RET(5)=0 ;This line stops the sending/display of the msg.
+"RTN","KBBPXUSR",79,0)
+ D:'$G(CVC) POST2
+"RTN","KBBPXUSR",80,0)
+ Q 0
+"RTN","KBBPXUSR",81,0)
+ ;
+"RTN","KBBPXUSR",82,0)
+POST2 D:'$D(XUNOW) NOW
+"RTN","KBBPXUSR",83,0)
+ D DUZ^XUS1A,SAVE^XUS1,LOG^XUS1,ABT^XQ12
+"RTN","KBBPXUSR",84,0)
+ D KILL^XWBSEC("XUS XOPT"),CLRFAC^XUS3($G(IO("IP"))) ;p265
+"RTN","KBBPXUSR",85,0)
+ I $D(XWBDEBUG) D LOG^XWBDLOG("SETTIME IN POST2^XUSRB") ; JLI DEBUG 091007
+"RTN","KBBPXUSR",86,0)
+ I $T(SETTIME^XWBTCPC)]"" D SETTIME^XWBTCPC() ;Clear sign-on time-out
+"RTN","KBBPXUSR",87,0)
+ K:$G(XWBVER)<1.106 XQY,XQY0 ;Delete the sign-on context.
+"RTN","KBBPXUSR",88,0)
+ K XUTEXT,XOPT,XUEON,XUEOFF,XUTT,XUDEV,XUSER
+"RTN","KBBPXUSR",89,0)
+ Q
+"RTN","KBBPXUSR",90,0)
+ ;
+"RTN","KBBPXUSR",91,0)
+INHIBIT() ;Is Logon to this system Inhibited?
+"RTN","KBBPXUSR",92,0)
+ I $$INHIB1() Q 1
+"RTN","KBBPXUSR",93,0)
+ I $$INHIB2() Q 2
+"RTN","KBBPXUSR",94,0)
+ Q 0
+"RTN","KBBPXUSR",95,0)
+ ;
+"RTN","KBBPXUSR",96,0)
+INHIB1() ;The LOGON check
+"RTN","KBBPXUSR",97,0)
+ I $G(^%ZIS(14.5,"LOGON",XQVOL)) Q 1
+"RTN","KBBPXUSR",98,0)
+ Q 0
+"RTN","KBBPXUSR",99,0)
+ ;
+"RTN","KBBPXUSR",100,0)
+INHIB2() ;The Max User Check
+"RTN","KBBPXUSR",101,0)
+ I $D(^%ZOSF("ACTJ")) X ^("ACTJ") I $P(XUVOL,U,3),($P(XUVOL,U,3)'>Y) Q 2
+"RTN","KBBPXUSR",102,0)
+ Q 0
+"RTN","KBBPXUSR",103,0)
+ ;
+"RTN","KBBPXUSR",104,0)
+LOGOUT ;Finish logout of user.
+"RTN","KBBPXUSR",105,0)
+ N XU1
+"RTN","KBBPXUSR",106,0)
+ D CLEARALL^XWBDRPC(.XU1)
+"RTN","KBBPXUSR",107,0)
+ ;Remove CCOW sign-on data
+"RTN","KBBPXUSR",108,0)
+ S HDL=$G(^XUTL("XQ",$J,"HDL")) I $L(HDL) D
+"RTN","KBBPXUSR",109,0)
+ . K ^XTMP(HDL,"JOB",$J)
+"RTN","KBBPXUSR",110,0)
+ . I $O(^XTMP(HDL,"JOB",0))="" K ^XTMP(HDL)
+"RTN","KBBPXUSR",111,0)
+ ;
+"RTN","KBBPXUSR",112,0)
+ D BYE^XUSCLEAN,XUTL^XUSCLEAN ;Mark the sign-on log, File cleanup.
+"RTN","KBBPXUSR",113,0)
+ Q
+"RTN","KBBPXUSR",114,0)
+ ;D1,D2 are place holders for now
+"RTN","KBBPXUSR",115,0)
+SETUP(RET,XWBUSRNM,ASOSKIP,D2) ;sets up environment for GUI signon
+"RTN","KBBPXUSR",116,0)
+ K DUZ
+"RTN","KBBPXUSR",117,0)
+ S XWBUSRNM=$G(XWBUSRNM),ASOSKIP=$G(ASOSKIP)
+"RTN","KBBPXUSR",118,0)
+ I $L($G(XWBTIP)) S IO("IP")=XWBTIP
+"RTN","KBBPXUSR",119,0)
+ S IO("CLNM")=$$LOW^XLFSTR($G(XWBCLMAN)) D ZIO^%ZIS4
+"RTN","KBBPXUSR",120,0)
+ ;Setup needed variables
+"RTN","KBBPXUSR",121,0)
+ D SET1^XUS(0),SET^XWBSEC("XUS XOPT",XOPT) ;p265
+"RTN","KBBPXUSR",122,0)
+ ;I '$D(IO("HOME")) S %ZIS="0H",IOP="NULL" D ^%ZIS ;Setup NULL as the home device
+"RTN","KBBPXUSR",123,0)
+ D SAVE^XUS1 ;save the home device
+"RTN","KBBPXUSR",124,0)
+ ;0=server name, 1=volume, 2=uci, 3=device, 4=# attempts, 5=skip signon-screen,6=Domain Name, 7=Production (0=no, 1=Yes)
+"RTN","KBBPXUSR",125,0)
+ S RET(0)=$P(XUENV,U,3),RET(1)=$P(XUVOL,U),RET(2)=XUCI
+"RTN","KBBPXUSR",126,0)
+ S RET(3)=$I,RET(4)=$P(XOPT,U,2),RET(5)=0
+"RTN","KBBPXUSR",127,0)
+ S RET(6)=$G(^XMB("NETNAME")) ;DBIA #1131
+"RTN","KBBPXUSR",128,0)
+ S RET(7)=$$PROD^XUPROD ;Tell if production.
+"RTN","KBBPXUSR",129,0)
+ I $$INHIBIT() Q
+"RTN","KBBPXUSR",130,0)
+ ; Code for DBA Capri Type Program
+"RTN","KBBPXUSR",131,0)
+ I (+XWBUSRNM<-30),$$CHKUSER^XUSBSE1(XWBUSRNM) S RET(5)=1 Q  ; BSE CHANGE
+"RTN","KBBPXUSR",132,0)
+ ; End of Code for DBA Capri Program
+"RTN","KBBPXUSR",133,0)
+ ;Auto sign-on check only for Broker v1.1
+"RTN","KBBPXUSR",134,0)
+ I $G(ASOSKIP) S XQXFLG("ASO")=1 ;Skip the ASO check
+"RTN","KBBPXUSR",135,0)
+ I $G(XWBVER)<1.1 S XQXFLG("ZEBRA")=-1 ;Disable for v1.0
+"RTN","KBBPXUSR",136,0)
+ I $L(IO("CLNM")) S DUZ=$$AUTOXWB^XUS1B() ;Only check when 1.1 CL.
+"RTN","KBBPXUSR",137,0)
+ I DUZ>0 D NOW S XUMSG=$$POST(0) I XUMSG>0 S DUZ=0
+"RTN","KBBPXUSR",138,0)
+ S:DUZ>0 RET(5)=1
+"RTN","KBBPXUSR",139,0)
+ Q
+"RTN","KBBPXUSR",140,0)
+ ;
+"RTN","KBBPXUSR",141,0)
+OWNSKEY(RET,LIST,IEN) ;Does user have Key
+"RTN","KBBPXUSR",142,0)
+ N I,K S I=""
+"RTN","KBBPXUSR",143,0)
+ I $G(IEN)'>0 S IEN=$G(DUZ)
+"RTN","KBBPXUSR",144,0)
+ I $G(IEN)'>0 S RET(0)=0 Q
+"RTN","KBBPXUSR",145,0)
+ I $O(LIST(""))="" S RET(0)=$$KCHK(LIST,IEN) Q
+"RTN","KBBPXUSR",146,0)
+ F  S I=$O(LIST(I)) Q:I=""  S RET(I)=$$KCHK(LIST(I),IEN)
+"RTN","KBBPXUSR",147,0)
+ Q
+"RTN","KBBPXUSR",148,0)
+ ;
+"RTN","KBBPXUSR",149,0)
+KCHK(%,IEN) ;Key Check
+"RTN","KBBPXUSR",150,0)
+ S:$G(IEN)'>0 IEN=$G(DUZ) Q $S($G(IEN)>0:$D(^XUSEC(%,IEN)),1:0)
+"RTN","KBBPXUSR",151,0)
+ ;
+"RTN","KBBPXUSR",152,0)
+ALLKEYS(RET,IEN,FLG) ;Return ALL or most KEYS that a user has.
+"RTN","KBBPXUSR",153,0)
+ N I,J,K,L K ^TMP("XU",$J)
+"RTN","KBBPXUSR",154,0)
+ S RET=$NA(^TMP("XU",$J))
+"RTN","KBBPXUSR",155,0)
+ S:'$D(IEN) IEN=DUZ I IEN'>0 S @RET@(0)=-1 Q
+"RTN","KBBPXUSR",156,0)
+ S I=0,L=0
+"RTN","KBBPXUSR",157,0)
+ F  S I=$O(^VA(200,IEN,51,I)) Q:I'>0  S K=$G(^DIC(19.1,I,0)) D
+"RTN","KBBPXUSR",158,0)
+ . Q:'$P(K,U,5)  ;Check 'Send to J2EE' field.
+"RTN","KBBPXUSR",159,0)
+ . S L=L+1,@RET@(L,0)=$P(K,U,1)
+"RTN","KBBPXUSR",160,0)
+ . Q
+"RTN","KBBPXUSR",161,0)
+ Q
+"RTN","KBBPXUSR",162,0)
+ ;
+"RTN","KBBPXUSR",163,0)
+AVHELP(RET) ; send access/verify code instructions.
+"RTN","KBBPXUSR",164,0)
+ S RET(0)=$$AVHLPTXT^XUS2()
+"RTN","KBBPXUSR",165,0)
+ Q
+"RTN","KBBPXUSR",166,0)
+ ;
+"RTN","KBBPXUSR",167,0)
+OPTACCES(RET,USER,OPTIONS,MODE) ;Checks or sets user's access for passed in options
+"RTN","KBBPXUSR",168,0)
+ S MODE="CHECK" ;only CHECK mode supported for now
+"RTN","KBBPXUSR",169,0)
+ N I S I=""
+"RTN","KBBPXUSR",170,0)
+ I $G(USER)'>0 S RET(0)=0 Q
+"RTN","KBBPXUSR",171,0)
+ F  S I=$O(OPTIONS(I)) Q:I=""  S RET(I)=$$CHK^XQCS(USER,OPTIONS(I))=1
+"RTN","KBBPXUSR",172,0)
+ Q
+"RTN","KBBPXUSR",173,0)
+ ;
+"RTN","KBBPXUSR",174,0)
+CHECKAV(AVC) ;SR. EF. to check an A/V code, Separate w/ ";", return IEN or 0
+"RTN","KBBPXUSR",175,0)
+ N XUF,XUSER S XUF=0,U="^"
+"RTN","KBBPXUSR",176,0)
+ Q $$CHECKAV^XUS(AVC)
+"RTN","KBBPXWB1")
+0^1^B103441228
+"RTN","KBBPXWB1",1,0)
+KBBPXWB1 ;JIVEYSOFT.COM/JLI - REVISED BROKER LISTENER ;02/25/17  14:47
+"RTN","KBBPXWB1",2,0)
+ ;;0.0;KBBPTOOLS;;;Build 6
+"RTN","KBBPXWB1",3,0)
+ ;
+"RTN","KBBPXWB1",4,0)
+ ;based on and modified from the Department of Veteran Affairs routine XWBTCPM
+"RTN","KBBPXWB1",5,0)
+XWBTCPM ;ISF/RWF - BROKER TCP/IP PROCESS HANDLER ;02/08/10  07:46
+"RTN","KBBPXWB1",6,0)
+ ;;1.1;RPC BROKER;**35,43,49,53**;Mar 28, 1997;Build 4
+"RTN","KBBPXWB1",7,0)
+ ;Per VHA Directive 2004-038, this routine should not be modified
+"RTN","KBBPXWB1",8,0)
+ ;Based on: XWBTCPC & XWBTCPL, Modified by ISF/RWF
+"RTN","KBBPXWB1",9,0)
+ ;Changed to be started by TCPIP service or %ZISTCPS
+"RTN","KBBPXWB1",10,0)
+ ;
+"RTN","KBBPXWB1",11,0)
+ I $T(EN^%ut)'="" D EN^%ut("KBBPUXWB")
+"RTN","KBBPXWB1",12,0)
+ Q
+"RTN","KBBPXWB1",13,0)
+ ;
+"RTN","KBBPXWB1",14,0)
+START(PORT) ;
+"RTN","KBBPXWB1",15,0)
+ J ZISTCP(PORT)
+"RTN","KBBPXWB1",16,0)
+ Q
+"RTN","KBBPXWB1",17,0)
+ ;
+"RTN","KBBPXWB1",18,0)
+ ; copied from XWBTCPM1
+"RTN","KBBPXWB1",19,0)
+ZISTCP(XWBTSKT,TLSACTIVE) ;Start ZISTCPS listener
+"RTN","KBBPXWB1",20,0)
+ ;
+"RTN","KBBPXWB1",21,0)
+ N XWBENV,XWBVOL,Y
+"RTN","KBBPXWB1",22,0)
+ I $G(TLSACTIVE)="" S TLSACTIVE=0
+"RTN","KBBPXWB1",23,0)
+ D GETENV^%ZOSV S XWBENV=Y,XWBVOL=$P(Y,"^",2)
+"RTN","KBBPXWB1",24,0)
+ Q:'$$SEMAPHOR^XWBTCPL(XWBTSKT,"LOCK")  ;quit if job is already running
+"RTN","KBBPXWB1",25,0)
+ D UPDTREC^XWBTCPL(XWBTSKT,3) ;updt RPC BROKER SITE PARAMETER record as RUNNING
+"RTN","KBBPXWB1",26,0)
+ D MARKER^XWBTCP(XWBTSKT,-1) ;Clear marker
+"RTN","KBBPXWB1",27,0)
+ ;
+"RTN","KBBPXWB1",28,0)
+ ;D LISTEN^%ZISTCPS(XWBTSKT,"NT^KBBPXWB1","D STAT^XWBTCPM1("_XWBTSKT_")")
+"RTN","KBBPXWB1",29,0)
+ D LISTEN^KBBPXWB2(XWBTSKT,"NT^KBBPXWB1","D STAT^XWBTCPM1("_XWBTSKT_")",TLSACTIVE)
+"RTN","KBBPXWB1",30,0)
+ ;
+"RTN","KBBPXWB1",31,0)
+ S %=$$SEMAPHOR^XWBTCPL(XWBTSKT,"UNLOCK") ; destroy 'running flag'
+"RTN","KBBPXWB1",32,0)
+ D UPDTREC^XWBTCPL(XWBTSKT,6) ;updt RPC BROKER SITE PARAMETER record as STOPPED
+"RTN","KBBPXWB1",33,0)
+ Q
+"RTN","KBBPXWB1",34,0)
+ ;
+"RTN","KBBPXWB1",35,0)
+DSM ;DSM called from ucx, % passed in with device.
+"RTN","KBBPXWB1",36,0)
+ D ESET
+"RTN","KBBPXWB1",37,0)
+ ;Open the device
+"RTN","KBBPXWB1",38,0)
+ S XWBTDEV=% X "O XWBTDEV:(TCPDEV):60" ;Special UCX/DSM open
+"RTN","KBBPXWB1",39,0)
+ ;Go find the connection type
+"RTN","KBBPXWB1",40,0)
+ U XWBTDEV
+"RTN","KBBPXWB1",41,0)
+ G CONNTYPE
+"RTN","KBBPXWB1",42,0)
+ ;
+"RTN","KBBPXWB1",43,0)
+CACHEVMS ;Cache'/VMS tcpip entry point, called from XWBTCP_START.COM file
+"RTN","KBBPXWB1",44,0)
+ D ESET
+"RTN","KBBPXWB1",45,0)
+ S XWBTDEV=$S($ZV["VMS":"SYS$NET",1:$P) ;Support for both VMS/TCPIP and Linux/xinetd
+"RTN","KBBPXWB1",46,0)
+ ; **Cache'/VMS specific code**
+"RTN","KBBPXWB1",47,0)
+ O XWBTDEV::5
+"RTN","KBBPXWB1",48,0)
+ X "U XWBTDEV:(::""-M"")" ;Packet mode like DSM
+"RTN","KBBPXWB1",49,0)
+ G CONNTYPE
+"RTN","KBBPXWB1",50,0)
+ ;
+"RTN","KBBPXWB1",51,0)
+NT ;entry from ZISTCPS
+"RTN","KBBPXWB1",52,0)
+ ;JOB LISTEN^%ZISTCPS("port","NT^XWBTCPM","stop code")
+"RTN","KBBPXWB1",53,0)
+ D ESET
+"RTN","KBBPXWB1",54,0)
+ S XWBTDEV=IO
+"RTN","KBBPXWB1",55,0)
+ G CONNTYPE
+"RTN","KBBPXWB1",56,0)
+ ;
+"RTN","KBBPXWB1",57,0)
+GTMUCX(%) ;From ucx ZFOO
+"RTN","KBBPXWB1",58,0)
+ ;If called from LISTEN^%ZISTCP(PORT,"GTM^XWBTCPM") S XWBTDEV=IO
+"RTN","KBBPXWB1",59,0)
+ D ESET
+"RTN","KBBPXWB1",60,0)
+ ;GTM specific code
+"RTN","KBBPXWB1",61,0)
+ S @("$ZINTERRUPT=""I $$JOBEXAM^ZU($ZPOSITION)""")
+"RTN","KBBPXWB1",62,0)
+ S XWBTDEV=% X "O %:(RECORDSIZE=512)"
+"RTN","KBBPXWB1",63,0)
+ G CONNTYPE
+"RTN","KBBPXWB1",64,0)
+ ;
+"RTN","KBBPXWB1",65,0)
+GTMLNX ;From Linux xinetd script
+"RTN","KBBPXWB1",66,0)
+ D ESET
+"RTN","KBBPXWB1",67,0)
+ ;GTM specific code
+"RTN","KBBPXWB1",68,0)
+ S @("$ZINTERRUPT=""I $$JOBEXAM^ZU($ZPOSITION)""")
+"RTN","KBBPXWB1",69,0)
+ S XWBTDEV=$P X "U XWBTDEV:(nowrap:nodelimiter:ioerror=""TRAP"")"
+"RTN","KBBPXWB1",70,0)
+ S %="",@("%=$ZTRNLNM(""REMOTE_HOST"")") S:$L(%) IO("GTM-IP")=%
+"RTN","KBBPXWB1",71,0)
+ G CONNTYPE
+"RTN","KBBPXWB1",72,0)
+ ;
+"RTN","KBBPXWB1",73,0)
+ESET ;Set inital error trap
+"RTN","KBBPXWB1",74,0)
+ ;S ^TMP("KBBPXWB2",$H,"ESET")=""
+"RTN","KBBPXWB1",75,0)
+ S U="^",$ETRAP="D ^%ZTER H" ;Set up the error trap
+"RTN","KBBPXWB1",76,0)
+ S X="",@("$ZT=X") ;Clear old trap
+"RTN","KBBPXWB1",77,0)
+ Q
+"RTN","KBBPXWB1",78,0)
+ ;Find the type of connection and jump to the processing routine.
+"RTN","KBBPXWB1",79,0)
+CONNTYPE ;
+"RTN","KBBPXWB1",80,0)
+ N XWBDEBUG,XWBAPVER,XWBCLMAN,XWBENVL,XWBLOG,XWBOS,XWBPTYPE
+"RTN","KBBPXWB1",81,0)
+ N XWBTBUF,XWBTIP,XWBTSKT,XWBVER,XWBWRAP,XWBSHARE,XWBT
+"RTN","KBBPXWB1",82,0)
+ N SOCK,TYPE,XTYPE,XWB
+"RTN","KBBPXWB1",83,0)
+ ;S ^TMP("KBBPXWB2",$H,"ENTERED CONNTYPE")=""
+"RTN","KBBPXWB1",84,0)
+ D INIT
+"RTN","KBBPXWB1",85,0)
+ S XWB=$$BREAD^KBBPXWBR(5,XWBTIME)
+"RTN","KBBPXWB1",86,0)
+ ;S ^TMP("KBBPXWB2",$H,"XWB")=XWB
+"RTN","KBBPXWB1",87,0)
+ S KBBPXHDR=XWB
+"RTN","KBBPXWB1",88,0)
+ S XTYPE=$S(XWB="[XWB]":"NEW",XWB="{XWB}":"OLD",XWB="<?xml":"M2M",XWB="~BSE~":"BSE",XWB="~EAC~":"EAC",XWB="~SVR~":"SVR",1:"")
+"RTN","KBBPXWB1",89,0)
+ I XTYPE="" S XTYPE=$S(XWB="!XWB!":"!XWB!",XWB="%XWB%":"%XWB%",XWB="&XWB&":"&XWB&",XWB="*XWB*":"*XWB*",1:"Unk")
+"RTN","KBBPXWB1",90,0)
+ D LOG("MSG format is "_XWB_" type "_XTYPE) ; XWB*1.1*XX
+"RTN","KBBPXWB1",91,0)
+ S KBBPHEDR=XWB,KBBPXHD1=""
+"RTN","KBBPXWB1",92,0)
+ I XWB["[XWB]" G NEW^XWBTCPM ; use original VA code - encodes only 'access;verify codes' & 'context option'
+"RTN","KBBPXWB1",93,0)
+ ;I XWB["[XWB]" S XWBCTYPE="NEW" G NEW ; use original VA code - encodes only 'access;verify codes' & 'context option'
+"RTN","KBBPXWB1",94,0)
+ I XWB["{XWB}" G OLD^XWBTCPM1 ; use original VA code - old style broker - also encodes only 'access;verify codes' & 'context option'
+"RTN","KBBPXWB1",95,0)
+ I XWB["<?xml" G M2M^XWBTCPM ; use original VA code
+"RTN","KBBPXWB1",96,0)
+ ; JLI 151210 new connection types
+"RTN","KBBPXWB1",97,0)
+ D LOG("CONNTYPE^KBBPXWB1 XWB="_XWB)
+"RTN","KBBPXWB1",98,0)
+ ;I XWB["[XWB[" S XWBCTYPE="NEW" G NEW ; basically the original VA code, but doesn't encode context option
+"RTN","KBBPXWB1",99,0)
+ I XWB["!XWB!" S XWBCTYPE="SSHCONN" G NEW ; SSH connection
+"RTN","KBBPXWB1",100,0)
+ I XWB["%XWB%" S XWBCTYPE="ENCODE" G NEW ; encode everything, using unique encoding sequence(s), alternate is used to reset encoding in clear
+"RTN","KBBPXWB1",101,0)
+ I XWB["*XWB*" S XWBCTYPE="NONPER" G NEW ; non-persistent connection using application-token - encode everything
+"RTN","KBBPXWB1",102,0)
+ I XWB["?XWB?" S XWBCTYPE="HTTPS" G NEW ;
+"RTN","KBBPXWB1",103,0)
+ ; JLI 151210 end of new connection types
+"RTN","KBBPXWB1",104,0)
+ I $L($T(OTH^XWBTCPM2)) D OTH^XWBTCPM2 ;See if a special code.
+"RTN","KBBPXWB1",105,0)
+ I '$L($T(OTH^XWBTCPM2)) D LOG("Prefix not known: "_XWB) ; XWB*1.1*XX
+"RTN","KBBPXWB1",106,0)
+ Q
+"RTN","KBBPXWB1",107,0)
+ ;
+"RTN","KBBPXWB1",108,0)
+NEWJOB() ;Check if OK to start a new job, Return 1 if OK, 0 if not OK.
+"RTN","KBBPXWB1",109,0)
+ N X,Y,J,XWBVOL
+"RTN","KBBPXWB1",110,0)
+ D GETENV^%ZOSV S XWBVOL=$P(Y,"^",2)
+"RTN","KBBPXWB1",111,0)
+ S X=$O(^XTV(8989.3,1,4,"B",XWBVOL,0)),J=$S(X>0:^XTV(8989.3,1,4,X,0),1:"ROU^y^1")
+"RTN","KBBPXWB1",112,0)
+ I $G(^%ZIS(14.5,"LOGON",XWBVOL)) Q 0 ;Check INHIBIT LOGONS?
+"RTN","KBBPXWB1",113,0)
+ I $D(^%ZOSF("ACTJ")) X ^("ACTJ") I $P(J,U,3),($P(J,U,3)'>Y) Q 0
+"RTN","KBBPXWB1",114,0)
+ Q 1
+"RTN","KBBPXWB1",115,0)
+ ;
+"RTN","KBBPXWB1",116,0)
+M2M ;M2M Broker
+"RTN","KBBPXWB1",117,0)
+ S XWBRBUF=XWB_XWBRBUF,(IO,IO(0))=XWBTDEV G SPAWN^XWBVLL
+"RTN","KBBPXWB1",118,0)
+ Q
+"RTN","KBBPXWB1",119,0)
+ ;
+"RTN","KBBPXWB1",120,0)
+NEW ;New broker
+"RTN","KBBPXWB1",121,0)
+ S U="^",DUZ=0,DUZ(0)="",XWBVER=1.108
+"RTN","KBBPXWB1",122,0)
+ D LOG("NEW^KBBPXWB1 ENTERED")
+"RTN","KBBPXWB1",123,0)
+ D SETTIME(1) ;Setup for sign-on timeout
+"RTN","KBBPXWB1",124,0)
+ D LOG("NEW^KBBPXWB1 SETTIME")
+"RTN","KBBPXWB1",125,0)
+ U XWBTDEV D
+"RTN","KBBPXWB1",126,0)
+ . D LOG("NEW^KBBPXWB1 U XWBTDEV")
+"RTN","KBBPXWB1",127,0)
+ . N XWB,ERR,NATIP,I
+"RTN","KBBPXWB1",128,0)
+ . D LOG("NEW^KBBPXWB1 GOING TO PRSP")
+"RTN","KBBPXWB1",129,0)
+ . S ERR=$$PRSP^KBBPXWBP ; get rest of protocol header
+"RTN","KBBPXWB1",130,0)
+ . D LOG("NEW^KBBPXWB1 RETURN1")
+"RTN","KBBPXWB1",131,0)
+ . S ERR=$$PRSM^KBBPXWBP ; parse message
+"RTN","KBBPXWB1",132,0)
+ . D LOG("NEW^KBBPXWB1 RETURN2")
+"RTN","KBBPXWB1",133,0)
+ . S MSG=$G(XWB(4,"CMD")) ;Build connect msg.
+"RTN","KBBPXWB1",134,0)
+ . D LOG("NEW^KBBPXWB1 XWB(4,CMD)="_MSG) ; DEBUG
+"RTN","KBBPXWB1",135,0)
+ . ;S I="" F  S I=$O(XWB(5,"P",I)) Q:I=""  S MSG=MSG_U_XWB(5,"P",I)
+"RTN","KBBPXWB1",136,0)
+ . S I="" F  S I=$O(XWB(5,"P",I)) Q:I=""  S MSG=MSG_U_XWB(5,"P",I) D LOG("NEW^KBBPXWB1 I="_I_"  XWB(5,P,I)="_XWB(5,"P",I)_"  MSG="_MSG) ; DEBUG
+"RTN","KBBPXWB1",137,0)
+ . ;Get the peer and save that IP.
+"RTN","KBBPXWB1",138,0)
+ . S NATIP=$$GETPEER^%ZOSV S:'$L(NATIP) NATIP=$P(MSG,"^",2)
+"RTN","KBBPXWB1",139,0)
+ . D LOG("NEW^KBBPXWB1 NATIP1="_NATIP_"  MSG="_MSG) ; DEBUG
+"RTN","KBBPXWB1",140,0)
+ . I NATIP'=$P(MSG,"^",2) S $P(MSG,"^",2)=NATIP
+"RTN","KBBPXWB1",141,0)
+ . D LOG("NEW^KBBPXWB1 NATIP2="_NATIP) ; DEBUG
+"RTN","KBBPXWB1",142,0)
+ . Q
+"RTN","KBBPXWB1",143,0)
+ S X=$$NEWJOB() D:'X LOG("No New Connects")
+"RTN","KBBPXWB1",144,0)
+ D LOG("NEW^KBBPXWB1 MSG="_MSG) ; DEBUG
+"RTN","KBBPXWB1",145,0)
+ I ($P(MSG,U)'="TCPConnect")!('X) D QSND^KBBPXWBR("reject"),LOG("reject: "_MSG) Q
+"RTN","KBBPXWB1",146,0)
+ D QSND^KBBPXWBR("accept"),LOG("accept") ;Ack
+"RTN","KBBPXWB1",147,0)
+ S IO("IP")=$P(MSG,U,2),XWBTSKT=$P(MSG,U,3),XWBCLMAN=$P(MSG,U,4)
+"RTN","KBBPXWB1",148,0)
+ S XWBTIP=$G(IO("IP"))
+"RTN","KBBPXWB1",149,0)
+ ;start RUM for Broker Handler XWB*1.1*5
+"RTN","KBBPXWB1",150,0)
+ D LOGRSRC^%ZOSV("$BROKER HANDLER$",2,1)
+"RTN","KBBPXWB1",151,0)
+ ;GTM
+"RTN","KBBPXWB1",152,0)
+ I $G(XWBT("PCNT")) D
+"RTN","KBBPXWB1",153,0)
+ . S X=$NA(^XUTL("XUSYS",$J,1)) L +@X:0
+"RTN","KBBPXWB1",154,0)
+ . D COUNT^XUSCNT(1),SETLOCK^XUSCNT(X)
+"RTN","KBBPXWB1",155,0)
+ ;We don't use a callback
+"RTN","KBBPXWB1",156,0)
+ K XWB,CON,LEN,MSG ;Clean up
+"RTN","KBBPXWB1",157,0)
+ ;Attempt to share license, Must have TCP port open first.
+"RTN","KBBPXWB1",158,0)
+ U XWBTDEV ;D SHARELIC^%ZOSV(1)
+"RTN","KBBPXWB1",159,0)
+ ;setup null device "NULL"
+"RTN","KBBPXWB1",160,0)
+ S %ZIS="0H",IOP="NULL" D ^%ZIS S XWBNULL=IO I POP S XWBERROR="No NULL device" D LOG(XWBERROR),EXIT Q
+"RTN","KBBPXWB1",161,0)
+ D SAVDEV^%ZISUTL("XWBNULL")
+"RTN","KBBPXWB1",162,0)
+ ;change process name
+"RTN","KBBPXWB1",163,0)
+ D CHPRN("ip"_$P(XWBTIP,".",3,4)_":"_XWBTDEV)
+"RTN","KBBPXWB1",164,0)
+ ; fall through, set error trap, and go to main. returns to exit
+"RTN","KBBPXWB1",165,0)
+RESTART ;The error trap returns to here
+"RTN","KBBPXWB1",166,0)
+ N $ESTACK S $ETRAP="D ETRAP^KBBPXWB1(0)"
+"RTN","KBBPXWB1",167,0)
+ S DT=$$DT^XLFDT,DTIME=30
+"RTN","KBBPXWB1",168,0)
+ U XWBTDEV D MAIN
+"RTN","KBBPXWB1",169,0)
+ D LOG("Exit: "_XWBTBUF)
+"RTN","KBBPXWB1",170,0)
+ ;Turn off the error trap for the exit
+"RTN","KBBPXWB1",171,0)
+ S $ETRAP=""
+"RTN","KBBPXWB1",172,0)
+ D EXIT ;Logout
+"RTN","KBBPXWB1",173,0)
+ K XWBR,XWBARY
+"RTN","KBBPXWB1",174,0)
+ ;stop RUM for handler XWB*1.1*5
+"RTN","KBBPXWB1",175,0)
+ D LOGRSRC^%ZOSV("$BROKER HANDLER$",2,2)
+"RTN","KBBPXWB1",176,0)
+ D USE^%ZISUTL("XWBNULL"),CLOSE^%ZISUTL("XWBNULL")
+"RTN","KBBPXWB1",177,0)
+ ;Close in the calling script
+"RTN","KBBPXWB1",178,0)
+ K SOCK,TYPE,XWBSND,XWBTYPE,XWBRBUF
+"RTN","KBBPXWB1",179,0)
+ Q
+"RTN","KBBPXWB1",180,0)
+ ;
+"RTN","KBBPXWB1",181,0)
+MAIN ; -- main message processing loop. debug at MAIN+1
+"RTN","KBBPXWB1",182,0)
+ F  D  Q:XWBTBUF="#BYE#"
+"RTN","KBBPXWB1",183,0)
+ . I $D(KBBPVALU) S XWBTIME=30 ; DEBUG JLI 160518
+"RTN","KBBPXWB1",184,0)
+ . ;Setup
+"RTN","KBBPXWB1",185,0)
+ . S XWBAPVER=0,XWBTBUF="",XWBTCMD="",XWBRBUF=""
+"RTN","KBBPXWB1",186,0)
+ . K XWBR,XWBARY,XWBPRT
+"RTN","KBBPXWB1",187,0)
+ . ; -- read client request
+"RTN","KBBPXWB1",188,0)
+ . S XR=$$BREAD^KBBPXWBR(1,XWBTIME,1)
+"RTN","KBBPXWB1",189,0)
+ . I '$L(XR) D  S XWBTBUF="#BYE#" Q
+"RTN","KBBPXWB1",190,0)
+ . . D LOG("Timeout: "_XWBTIME)
+"RTN","KBBPXWB1",191,0)
+ . . I $D(KBBPTOKN) D SAVSTATE^KBBPXUS4
+"RTN","KBBPXWB1",192,0)
+ . . Q
+"RTN","KBBPXWB1",193,0)
+ . S XR=XR_$$BREAD^KBBPXWBR(4)
+"RTN","KBBPXWB1",194,0)
+ . I XR="#BYE#" D  Q  ;Check for exit
+"RTN","KBBPXWB1",195,0)
+ . . D QSND^KBBPXWBR("#BYE#"),LOG("BYE CMD") S XWBTBUF="#BYE#"
+"RTN","KBBPXWB1",196,0)
+ . . Q
+"RTN","KBBPXWB1",197,0)
+ . I XR="%BYE%" D  S XWBTBUF="#BYE#" Q  ; temporary disconnect
+"RTN","KBBPXWB1",198,0)
+ . . D LOG("Timeout FROM CLIENT");
+"RTN","KBBPXWB1",199,0)
+ . . I $D(KBBPTOKN) D SAVSTATE^KBBPXUS4
+"RTN","KBBPXWB1",200,0)
+ . . Q
+"RTN","KBBPXWB1",201,0)
+ . D LOG("MAIN XR="_XR_"  KBBPXHDR="_KBBPXHDR)
+"RTN","KBBPXWB1",202,0)
+ . I '(XR=KBBPXHDR) D LOG("Bad Header: "_XR) Q
+"RTN","KBBPXWB1",203,0)
+ . ;D CALLP^XWBPRS(.XWBR,$G(XWBDEBUG)) ;Read the NEW Msg parameters and call RPC
+"RTN","KBBPXWB1",204,0)
+ . D CALLP^KBBPXWBP(.XWBR,$G(XWBDEBUG))
+"RTN","KBBPXWB1",205,0)
+ . IF XWBTCMD="#BYE#" D  Q
+"RTN","KBBPXWB1",206,0)
+ . . D QSND^KBBPXWBR("#BYE#"),LOG("BYE CMD") S XWBTBUF=XWBTCMD
+"RTN","KBBPXWB1",207,0)
+ . . Q
+"RTN","KBBPXWB1",208,0)
+ . U XWBTDEV
+"RTN","KBBPXWB1",209,0)
+ . S XWBPTYPE=$S('$D(XWBPTYPE):1,XWBPTYPE<1:1,XWBPTYPE>6:1,1:XWBPTYPE)
+"RTN","KBBPXWB1",210,0)
+ . ;I $G(XWBPRT) D RETURN^XWBPRS2 Q  ;New msg return
+"RTN","KBBPXWB1",211,0)
+ . I '$G(XWBPRT) D SND^KBBPXWBR ;Return data,flush buffer
+"RTN","KBBPXWB1",212,0)
+ . Q
+"RTN","KBBPXWB1",213,0)
+ Q  ;End Of Main
+"RTN","KBBPXWB1",214,0)
+ ;
+"RTN","KBBPXWB1",215,0)
+ ;
+"RTN","KBBPXWB1",216,0)
+ETRAP(EXIT) ; -- on trapped error, send error info to client
+"RTN","KBBPXWB1",217,0)
+ N XWBERC,XWBERR
+"RTN","KBBPXWB1",218,0)
+ ;Change trapping during trap.
+"RTN","KBBPXWB1",219,0)
+ S $ETRAP="D ^%ZTER,ETRAP^KBBPXWB1(1)"
+"RTN","KBBPXWB1",220,0)
+ S XWBERC=$E($$EC^%ZOSV,1,200),XWBERR="M  ERROR="_XWBERC_$C(13,10)_"LAST REF="_$$LGR^%ZOSV
+"RTN","KBBPXWB1",221,0)
+ I $EC["U411" S XWBERROR="U411",XWBSEC="",XWBERR="Data Transfer Error to Server"
+"RTN","KBBPXWB1",222,0)
+ D ^%ZTER ;%ZTER clears $ZE and $ZCODE
+"RTN","KBBPXWB1",223,0)
+ D LOG("In ETRAP: "_XWBERC) ;Log
+"RTN","KBBPXWB1",224,0)
+ D LOG("In ETRAP JLI EXIT: "_EXIT_"  DUZ: "_DUZ) ; JLI DEBUG 150327
+"RTN","KBBPXWB1",225,0)
+ I (XWBERC["READ")!(XWBERC["WRITE")!(XWBERC["SYSTEM-F")!(XWBERC["IOEOF") D EXIT X "HALT "
+"RTN","KBBPXWB1",226,0)
+ U XWBTDEV
+"RTN","KBBPXWB1",227,0)
+ I $G(XWBT("PCNT")) L +^XUTL("XUSYS",$J,0):99
+"RTN","KBBPXWB1",228,0)
+ E  L  ;Clear Locks
+"RTN","KBBPXWB1",229,0)
+ ;
+"RTN","KBBPXWB1",230,0)
+ D ESND^KBBPXWBR($C(24)_XWBERR)
+"RTN","KBBPXWB1",231,0)
+ I EXIT D EXIT X "HALT "
+"RTN","KBBPXWB1",232,0)
+ S $ETRAP="Q:($ESTACK&'$QUIT)  Q:$ESTACK -9 S $ECODE="""" D CLEANP^KBBPXWB1 G RESTART^KBBPXWB1",$ECODE=",U99,"
+"RTN","KBBPXWB1",233,0)
+ Q
+"RTN","KBBPXWB1",234,0)
+ ;
+"RTN","KBBPXWB1",235,0)
+CLEANP ;Clean up the partion
+"RTN","KBBPXWB1",236,0)
+ N XWBTDEV,XWBNULL,KBBPXHDR,KBBPXHD1 D KILL^XUSCLEAN
+"RTN","KBBPXWB1",237,0)
+ Q
+"RTN","KBBPXWB1",238,0)
+ ;
+"RTN","KBBPXWB1",239,0)
+STYPE(X,WRAP) ;For backward compatability only
+"RTN","KBBPXWB1",240,0)
+ I $D(WRAP) Q $$RTRNFMT^XWBLIB($G(X),WRAP)
+"RTN","KBBPXWB1",241,0)
+ Q $$RTRNFMT^XWBLIB(X)
+"RTN","KBBPXWB1",242,0)
+ ;
+"RTN","KBBPXWB1",243,0)
+BREAD(L,T) ;read tcp buffer, L is length
+"RTN","KBBPXWB1",244,0)
+ Q $$BREAD^KBBPXWBR(L,$G(T))
+"RTN","KBBPXWB1",245,0)
+ ;
+"RTN","KBBPXWB1",246,0)
+CHPRN(N) ;change process name
+"RTN","KBBPXWB1",247,0)
+ ;Change process name to N
+"RTN","KBBPXWB1",248,0)
+ D SETNM^%ZOSV($E(N,1,15))
+"RTN","KBBPXWB1",249,0)
+ Q
+"RTN","KBBPXWB1",250,0)
+ ;
+"RTN","KBBPXWB1",251,0)
+SETTIME(%) ;Set the Read timeout 0=RPC, 1=sign-on
+"RTN","KBBPXWB1",252,0)
+ ; Increased timeout period (%=1) during signon from 90 to 180 for accessibility reasons
+"RTN","KBBPXWB1",253,0)
+ S XWBTIME=$S($G(%):180,$G(XWBVER)>1.1:$$BAT^XUPARAM,1:36000),XWBTIME(1)=5 ; (*p35)
+"RTN","KBBPXWB1",254,0)
+ ;S XWBTIME=30,XWBTIME(1)=5 ; JLI 160517 TESTING
+"RTN","KBBPXWB1",255,0)
+ ;D LOG("SETTIME XWBTIME="_XWBTIME_"  XWBTIME(1)="_XWBTIME(1))
+"RTN","KBBPXWB1",256,0)
+ Q
+"RTN","KBBPXWB1",257,0)
+TIMEOUT ;Do this on MAIN  loop timeout
+"RTN","KBBPXWB1",258,0)
+ I $G(DUZ)>0 D QSND^KBBPXWBR("#BYE#") Q
+"RTN","KBBPXWB1",259,0)
+ ;Sign-on timeout
+"RTN","KBBPXWB1",260,0)
+ S XWBR(0)=0,XWBR(1)=1,XWBR(2)="",XWBR(3)="TIME-OUT",XWBPTYPE=2
+"RTN","KBBPXWB1",261,0)
+ D SND^KBBPXWBR
+"RTN","KBBPXWB1",262,0)
+ Q
+"RTN","KBBPXWB1",263,0)
+ ;
+"RTN","KBBPXWB1",264,0)
+OS() ;Return the OS
+"RTN","KBBPXWB1",265,0)
+ Q $S(^%ZOSF("OS")["OpenM":"OpenM",^%ZOSF("OS")["GT.M":"GT.M",^("OS")["DSM":"DSM",1:"UNK")
+"RTN","KBBPXWB1",266,0)
+ ;
+"RTN","KBBPXWB1",267,0)
+INIT ;Setup
+"RTN","KBBPXWB1",268,0)
+ S U="^",XWBTIME=10,XWBOS=$$OS,XWBDEBUG=0,XWBRBUF=""
+"RTN","KBBPXWB1",269,0)
+ S XWBDEBUG=$$GET^XPAR("SYS","XWBDEBUG")
+"RTN","KBBPXWB1",270,0)
+ ;S ^TMP("KBBPXWB2",$H,"XWBDEBUG")=XWBDEBUG
+"RTN","KBBPXWB1",271,0)
+ S XWBT("BF")=$S(XWBOS="GT.M":"#",1:"!")
+"RTN","KBBPXWB1",272,0)
+ S XWBT("PCNT")=0 I XWBOS="GT.M",$L($T(^XUSCNT)) S XWBT("PCNT")=1
+"RTN","KBBPXWB1",273,0)
+ D LOGSTART^KBBPXWBD("KBBPXWB1")
+"RTN","KBBPXWB1",274,0)
+ Q
+"RTN","KBBPXWB1",275,0)
+ ;
+"RTN","KBBPXWB1",276,0)
+DEBUG ;Entry point for debug, Build a server to get the connect
+"RTN","KBBPXWB1",277,0)
+ ;Cache sample;ZB SERV+1^XWBTCPM:"L+" ZB ETRAP+1^XWBTCPM:"B"
+"RTN","KBBPXWB1",278,0)
+ W !,"Before running this entry point set your debugger to stop at"
+"RTN","KBBPXWB1",279,0)
+ W !,"the place you want to debug. Some spots to use:"
+"RTN","KBBPXWB1",280,0)
+ W !,"'SERV+1^KBBPXWB1', 'MAIN+1^KBBPXWB1' or 'CAPI+1^XWBPRS.'",!
+"RTN","KBBPXWB1",281,0)
+ W !,"or location of your choice.",!
+"RTN","KBBPXWB1",282,0)
+ W !,"IP Socket to Listen on: " R SOCK:300,! Q:'$T!(SOCK["^")
+"RTN","KBBPXWB1",283,0)
+ ;Use %ZISTCP to do a single server
+"RTN","KBBPXWB1",284,0)
+ D LISTEN^%ZISTCP(SOCK,"SERV^KBBPXWB1")
+"RTN","KBBPXWB1",285,0)
+ U $P W !,"Done"
+"RTN","KBBPXWB1",286,0)
+ Q
+"RTN","KBBPXWB1",287,0)
+SERV ;Callback from the server
+"RTN","KBBPXWB1",288,0)
+ S XWBTDEV=IO,XWBTIME(1)=3600 D INIT
+"RTN","KBBPXWB1",289,0)
+ S XWBDEBUG=1,MSG=$$BREAD^KBBPXWBR(5,60) ;R MSG#5
+"RTN","KBBPXWB1",290,0)
+ D NEW
+"RTN","KBBPXWB1",291,0)
+ S IO("C")=1 ;Cause the Listenr to stop
+"RTN","KBBPXWB1",292,0)
+ Q
+"RTN","KBBPXWB1",293,0)
+ ;
+"RTN","KBBPXWB1",294,0)
+EXIT ;Close out
+"RTN","KBBPXWB1",295,0)
+ D LOG("EXIT KBBPTOKN="_$G(KBBPTOKN))
+"RTN","KBBPXWB1",296,0)
+ I $D(KBBPTOKN) D SAVSTATE^KBBPXUS4
+"RTN","KBBPXWB1",297,0)
+ I $G(DUZ) D LOGOUT^XUSRB
+"RTN","KBBPXWB1",298,0)
+ I $G(XWBT("PCNT")) D COUNT^XUSCNT(-1)
+"RTN","KBBPXWB1",299,0)
+ D LOG("EXIT LOGGING OUT "_$J)
+"RTN","KBBPXWB1",300,0)
+ Q
+"RTN","KBBPXWB1",301,0)
+ ;
+"RTN","KBBPXWB1",302,0)
+LOG(MSG) ;Record Debug Info
+"RTN","KBBPXWB1",303,0)
+ D:$G(XWBDEBUG) LOG^KBBPXWBD("KBBPXWB1-"_MSG)
+"RTN","KBBPXWB1",304,0)
+ Q
+"RTN","KBBPXWB1",305,0)
+ ;
+"RTN","KBBPXWB2")
+0^2^B15465092
+"RTN","KBBPXWB2",1,0)
+KBBPXWB2 ;JLI/JIVEY@JIVEYSOFT.COM - SUPPORT FOR REVISED BROKER LISTENER ;02/14/17  16:04
+"RTN","KBBPXWB2",2,0)
+ ;;0.0;KBBPTOOLS;;;Build 6
+"RTN","KBBPXWB2",3,0)
+ ;
+"RTN","KBBPXWB2",4,0)
+ ; Based on the original routine ZISTCPS (which was converted to %ZISTCPS during installation)
+"RTN","KBBPXWB2",5,0)
+%ZISTCPS ;ISF/RWF - DEVICE HANDLER TCP/IP SERVER CALLS ;07/20/16  13:56
+"RTN","KBBPXWB2",6,0)
+ ;;8.0;KERNEL;**78,118,127,225,275,388**;Jul 10, 1995
+"RTN","KBBPXWB2",7,0)
+ Q
+"RTN","KBBPXWB2",8,0)
+ ;
+"RTN","KBBPXWB2",9,0)
+CLOSE ;Close and reset
+"RTN","KBBPXWB2",10,0)
+ G CLOSE^%ZISTCP
+"RTN","KBBPXWB2",11,0)
+ Q
+"RTN","KBBPXWB2",12,0)
+ ;
+"RTN","KBBPXWB2",13,0)
+ ;In ZRULE, set ZISQUIT=1 to quit
+"RTN","KBBPXWB2",14,0)
+LISTEN(SOCK,RTN,ZRULE,TLSACTIVE) ;Listen on socket, start routine - 160720 JLI/SMH modified for TLS with fourth argument
+"RTN","KBBPXWB2",15,0)
+ N %A,ZISOS,X,NIO,EXIT
+"RTN","KBBPXWB2",16,0)
+ N $ES,$ET S $ETRAP="D OPNERR^%ZISTCPS"
+"RTN","KBBPXWB2",17,0)
+ I $G(TLSACTIVE)="" S TLSACTIVE=0
+"RTN","KBBPXWB2",18,0)
+ ;S ^TMP("KBBPXWB2",$H,"ENTERED LISTEN")="" ; DEBUG
+"RTN","KBBPXWB2",19,0)
+ S ZISOS=^%ZOSF("OS"),ZRULE=$G(ZRULE)
+"RTN","KBBPXWB2",20,0)
+ S POP=1
+"RTN","KBBPXWB2",21,0)
+ D GETENV^%ZOSV S U="^",XUENV=Y,XQVOL=$P(Y,U,2)
+"RTN","KBBPXWB2",22,0)
+ S POP=1 D LONT:ZISOS["OpenM",LGTM:ZISOS["GT.M"
+"RTN","KBBPXWB2",23,0)
+ I 'POP C NIO ;Close port
+"RTN","KBBPXWB2",24,0)
+ Q
+"RTN","KBBPXWB2",25,0)
+ ;
+"RTN","KBBPXWB2",26,0)
+ ;
+"RTN","KBBPXWB2",27,0)
+LONT ;Open port in Accept mode with standard terminators.
+"RTN","KBBPXWB2",28,0)
+ N %ZA,NEWCHAR
+"RTN","KBBPXWB2",29,0)
+ S NIO="|TCP|"_SOCK,EXIT=0
+"RTN","KBBPXWB2",30,0)
+ ;(adr:sock:term:ibuf:obuf:queue)
+"RTN","KBBPXWB2",31,0)
+ O NIO:(:SOCK:"AT"::512:512:10):30 Q:'$T  S POP=0 U NIO
+"RTN","KBBPXWB2",32,0)
+ ;Wait on read for a connect
+"RTN","KBBPXWB2",33,0)
+LONT2 ;
+"RTN","KBBPXWB2",34,0)
+ F  U NIO R *NEWCHAR:30 S EXIT=$$EXIT Q:$T!EXIT  ;S ^TMP("KBBPXWB2",$H,"EXIT")=EXIT,^("$T")=$T Q:$T!EXIT
+"RTN","KBBPXWB2",35,0)
+ I EXIT C NIO Q
+"RTN","KBBPXWB2",36,0)
+ ;JOB params (:Concurrent Server bit:principal input:principal output)
+"RTN","KBBPXWB2",37,0)
+ J CHILDONT^KBBPXWB2(NIO,RTN):(:16::):10 S %ZA=$ZA
+"RTN","KBBPXWB2",38,0)
+ I %ZA\8196#2=1 W *-2 ;Job failed to clear bit
+"RTN","KBBPXWB2",39,0)
+ G LONT2
+"RTN","KBBPXWB2",40,0)
+ ;
+"RTN","KBBPXWB2",41,0)
+CHILDONT(IO,RTN) ;Child process for OpenM
+"RTN","KBBPXWB2",42,0)
+ N PORT
+"RTN","KBBPXWB2",43,0)
+ S PORT=$E(IO,6,999)
+"RTN","KBBPXWB2",44,0)
+ I $G(TLSACTIVE)="" S TLSACTIVE=0
+"RTN","KBBPXWB2",45,0)
+ ;S ^TMP("KBBPXWB2",$H,"PORT")=PORT
+"RTN","KBBPXWB2",46,0)
+ S $ETRAP="D ^%ZTER L  HALT",IO=$ZU(53)
+"RTN","KBBPXWB2",47,0)
+ I 'TLSACTIVE U IO:(::"-M") ;Work like DSM - 160720 JLI/SMH modified for TLS
+"RTN","KBBPXWB2",48,0)
+ ;I TLSACTIVE U IO:(::"-M":/TLS="TLS") ;160720 JLI/SMH Work like DSM with TLS
+"RTN","KBBPXWB2",49,0)
+ I TLSACTIVE U IO:(:PORT:"-M":/SSL="TLSConfig") ;160720 JLI/SMH Work like DSM with TLS
+"RTN","KBBPXWB2",50,0)
+ S NEWJOB=$$NEWOK
+"RTN","KBBPXWB2",51,0)
+ I 'NEWJOB W "421 Service temporarily down.",$C(13,10),!
+"RTN","KBBPXWB2",52,0)
+ I NEWJOB K NEWJOB D VAR,@RTN
+"RTN","KBBPXWB2",53,0)
+ HALT
+"RTN","KBBPXWB2",54,0)
+ ;
+"RTN","KBBPXWB2",55,0)
+VAR ;Setup IO variables
+"RTN","KBBPXWB2",56,0)
+ S IO(0)=IO,IO(1,IO)="",POP=0
+"RTN","KBBPXWB2",57,0)
+ S IOT="TCP",IOST="P-TCP",IOST(0)=0
+"RTN","KBBPXWB2",58,0)
+ S IOF=$$FLUSHCHR^%ZISTCP
+"RTN","KBBPXWB2",59,0)
+ S ^XUTL("XQ",$J,0)=$$DT^XLFDT
+"RTN","KBBPXWB2",60,0)
+ Q
+"RTN","KBBPXWB2",61,0)
+NEWOK() ;Is it OK to start a new process
+"RTN","KBBPXWB2",62,0)
+ I $G(^%ZIS(14.5,"LOGON",^%ZOSF("VOL"))) Q 0
+"RTN","KBBPXWB2",63,0)
+ I $$AVJ^%ZOSV()<3 Q 0
+"RTN","KBBPXWB2",64,0)
+ Q 1
+"RTN","KBBPXWB2",65,0)
+OPNERR ;
+"RTN","KBBPXWB2",66,0)
+ S POP=1,EXIT=1,IO("ERROR")=$ECODE,$ECODE=""
+"RTN","KBBPXWB2",67,0)
+ Q
+"RTN","KBBPXWB2",68,0)
+EXIT() ;See if time to exit
+"RTN","KBBPXWB2",69,0)
+ I $$S^%ZTLOAD Q 1
+"RTN","KBBPXWB2",70,0)
+ N ZISQUIT S ZISQUIT=0
+"RTN","KBBPXWB2",71,0)
+ I $L(ZRULE) X ZRULE I $G(ZISQUIT) Q 1 ; DEBUG
+"RTN","KBBPXWB2",72,0)
+ ;I $L(ZRULE) X ZRULE I $G(ZISQUIT) S ^TMP("KBBPXWB2",$H,"EXITING")="" Q 1 ; DEBUG
+"RTN","KBBPXWB2",73,0)
+ Q 0
+"RTN","KBBPXWB2",74,0)
+ ;
+"RTN","KBBPXWB2",75,0)
+LGTM ;GT.M multi thread server
+"RTN","KBBPXWB2",76,0)
+ N %A K ^TMP("ZISTCP",$J)
+"RTN","KBBPXWB2",77,0)
+ S $ZINTERRUPT="I $$JOBEXAM^ZU($ZPOSITION)"
+"RTN","KBBPXWB2",78,0)
+ S NIO="SCK$"_$S($J>86400:$J,1:84600+$J) ;Construct a dummy, but "unique" devicename for job
+"RTN","KBBPXWB2",79,0)
+ D LOG("Open for Listen "_NIO)
+"RTN","KBBPXWB2",80,0)
+ ;Open the device
+"RTN","KBBPXWB2",81,0)
+ O NIO:(ZLISTEN=SOCK_":TCP":ATTACH="listener"):30:"SOCKET"
+"RTN","KBBPXWB2",82,0)
+ I '$T D LOG("Can't Open Socket: "_SOCK) Q
+"RTN","KBBPXWB2",83,0)
+ U NIO S NIO("ZISTCP",0)=$KEY D LOG("Have port.")
+"RTN","KBBPXWB2",84,0)
+ ;Start Listening
+"RTN","KBBPXWB2",85,0)
+ W /LISTEN(1) S NIO("ZISTCP",1)=$KEY D LOG("Start Listening. "_NIO("ZISTCP",1))
+"RTN","KBBPXWB2",86,0)
+ ;Wait for connection
+"RTN","KBBPXWB2",87,0)
+LG2 S %A=0,EXIT=0 F  D  Q:%A!EXIT
+"RTN","KBBPXWB2",88,0)
+ . W /WAIT(30) ;Wait for connect
+"RTN","KBBPXWB2",89,0)
+ . I $P($KEY,"|",1)="CONNECT" S NIO("ZISTCP",2)=$KEY,%A=1
+"RTN","KBBPXWB2",90,0)
+ . S EXIT=$$EXIT
+"RTN","KBBPXWB2",91,0)
+ . Q
+"RTN","KBBPXWB2",92,0)
+ I EXIT C NIO Q
+"RTN","KBBPXWB2",93,0)
+ ;
+"RTN","KBBPXWB2",94,0)
+ S NIO("SOCK")=$P($G(NIO("ZISTCP",2)),"|",2)
+"RTN","KBBPXWB2",95,0)
+ D LOG("Got connection on "_NIO("SOCK"))
+"RTN","KBBPXWB2",96,0)
+ I '$$NEWOK D  G LG2
+"RTN","KBBPXWB2",97,0)
+ . U NIO:(SOCKET=NIO("SOCK")) W "421 Service temporarily down.",$C(13,10),#
+"RTN","KBBPXWB2",98,0)
+ . C NIO:(SOCKET=NIO("SOCK")) K NIO("ZISTCP",2)
+"RTN","KBBPXWB2",99,0)
+ . Q
+"RTN","KBBPXWB2",100,0)
+ ;Close the main socket
+"RTN","KBBPXWB2",101,0)
+ C NIO:(SOCKET="listener")
+"RTN","KBBPXWB2",102,0)
+ ;Start a new listener
+"RTN","KBBPXWB2",103,0)
+ J LISTEN^%ZISTCPS(SOCK,RTN,ZRULE)
+"RTN","KBBPXWB2",104,0)
+ ;Use the new socket
+"RTN","KBBPXWB2",105,0)
+ ;U NIO:(SOCKET=NIO("SOCK"):WIDTH=512:NOWRAP:IOERROR="TRAP")
+"RTN","KBBPXWB2",106,0)
+ U NIO:(SOCKET=NIO("SOCK"):WIDTH=512:NOWRAP)
+"RTN","KBBPXWB2",107,0)
+ ;Run the job
+"RTN","KBBPXWB2",108,0)
+ D GTMLNCH(NIO,RTN)
+"RTN","KBBPXWB2",109,0)
+ S POP=0
+"RTN","KBBPXWB2",110,0)
+ Q
+"RTN","KBBPXWB2",111,0)
+ ;
+"RTN","KBBPXWB2",112,0)
+GTMLNCH(IO,RTN) ;Run gt.m job for this conncetion.
+"RTN","KBBPXWB2",113,0)
+ N NIO,SOCK,ZISOS,EXIT,XQVOL,$ETRAP
+"RTN","KBBPXWB2",114,0)
+ S U="^",$ETRAP="D ^%ZTER L  HALT"
+"RTN","KBBPXWB2",115,0)
+ S IO(0)=IO,IO(1,IO)=""
+"RTN","KBBPXWB2",116,0)
+ D VAR,@RTN
+"RTN","KBBPXWB2",117,0)
+ Q $D(IO("C")) ;Use IO("C") to quit server
+"RTN","KBBPXWB2",118,0)
+ ;
+"RTN","KBBPXWB2",119,0)
+LOG(MSG) ;LOG STATUS
+"RTN","KBBPXWB2",120,0)
+ N CNT
+"RTN","KBBPXWB2",121,0)
+ S CNT=$G(^TMP("ZISTCP",$J))+1,^TMP("ZISTCP",$J)=CNT,^($J,CNT)=MSG
+"RTN","KBBPXWB2",122,0)
+ Q
+"RTN","KBBPXWB2",123,0)
+ ;
+"RTN","KBBPXWBD")
+0^19^B9199970
+"RTN","KBBPXWBD",1,0)
+KBBPXWBD ;JLI/JIVEY@JIVEYSOFT.COM-Updated Debugger for RPC Logging ;02/25/17  14:38
+"RTN","KBBPXWBD",2,0)
+ ;;1.0;KBBPTOOLS;;;Build 6
+"RTN","KBBPXWBD",3,0)
+ ;
+"RTN","KBBPXWBD",4,0)
+ ; Added entry points to make it easier to work from the command line - in particular EDIT tag
+"RTN","KBBPXWBD",5,0)
+ ;
+"RTN","KBBPXWBD",6,0)
+XWBDLOG ;ISF/RWF - Debug Logging for Broker ;04/30/16  10:42
+"RTN","KBBPXWBD",7,0)
+ ;;1.1;RPC BROKER;**35**;Mar 28, 1997
+"RTN","KBBPXWBD",8,0)
+ Q
+"RTN","KBBPXWBD",9,0)
+ ;
+"RTN","KBBPXWBD",10,0)
+ ;Setup the log, Clear the log location.
+"RTN","KBBPXWBD",11,0)
+LOGSTART(RTN) ;Clear the debug log
+"RTN","KBBPXWBD",12,0)
+ Q:'$G(XWBDEBUG)
+"RTN","KBBPXWBD",13,0)
+ K ^XTMP("XWBLOG"_$J)
+"RTN","KBBPXWBD",14,0)
+ S ^XTMP("XWBLOG"_$J,0)=$$HTFM^XLFDT($$HADD^XLFDT($H,7))_"^"_$$DT^XLFDT
+"RTN","KBBPXWBD",15,0)
+ S ^XTMP("XWBLOG"_$J,.1)=0
+"RTN","KBBPXWBD",16,0)
+ D LOG("Log start: "_$$HTE^XLFDT($H)),LOG(RTN)
+"RTN","KBBPXWBD",17,0)
+ Q
+"RTN","KBBPXWBD",18,0)
+LOG(MSG) ;Record Debug Info
+"RTN","KBBPXWBD",19,0)
+ Q:'$G(XWBDEBUG)
+"RTN","KBBPXWBD",20,0)
+ N CNT
+"RTN","KBBPXWBD",21,0)
+ N VAL S VAL=""
+"RTN","KBBPXWBD",22,0)
+ I (MSG["XUS AV CODE50") S VAL="XUS AV CODE50"
+"RTN","KBBPXWBD",23,0)
+ I (MSG["KBBPXWB AV CODE50") S VAL="KBBPXWB AV CODE50"
+"RTN","KBBPXWBD",24,0)
+ I VAL'="" D
+"RTN","KBBPXWBD",25,0)
+ . N MSGX,STR
+"RTN","KBBPXWBD",26,0)
+ . S MSGX=$P(MSG,VAL)_VAL_"<REDACTED>",STR=$P(MSG,VAL,2,4),NUM=+$E(STR,1,3),STR=$E(STR,4,$L(STR)),STR=$E(STR,NUM+1,$L(STR))
+"RTN","KBBPXWBD",27,0)
+ . S MSG=MSGX_STR
+"RTN","KBBPXWBD",28,0)
+ . Q
+"RTN","KBBPXWBD",29,0)
+ S CNT=1+$G(^XTMP("XWBLOG"_$J,.1)),^(.1)=CNT,^(CNT)=$E($H_"^"_MSG,1,255)
+"RTN","KBBPXWBD",30,0)
+ Q
+"RTN","KBBPXWBD",31,0)
+ ;
+"RTN","KBBPXWBD",32,0)
+ ;
+"RTN","KBBPXWBD",33,0)
+VIEW ;View log files
+"RTN","KBBPXWBD",34,0)
+ N DIRUT,XWB,DIR,IX,X,CON
+"RTN","KBBPXWBD",35,0)
+ D HOME^%ZIS
+"RTN","KBBPXWBD",36,0)
+ W !,"Log Files"
+"RTN","KBBPXWBD",37,0)
+ S XWB="XWBLOG",CON=""
+"RTN","KBBPXWBD",38,0)
+ F  S XWB=$O(^XTMP(XWB)) Q:XWB'["XWBLOG"  D
+"RTN","KBBPXWBD",39,0)
+ . D V1(.XWB)
+"RTN","KBBPXWBD",40,0)
+ . I $$WAIT(.CON) S:CON=3 XWB="XWC"
+"RTN","KBBPXWBD",41,0)
+ . Q
+"RTN","KBBPXWBD",42,0)
+ Q
+"RTN","KBBPXWBD",43,0)
+ ;
+"RTN","KBBPXWBD",44,0)
+V1(XWB) ;View one log
+"RTN","KBBPXWBD",45,0)
+ N IX,X,CNT,CON
+"RTN","KBBPXWBD",46,0)
+ S IX=.9,X=$G(^XTMP(XWB,IX)),CON=0,CNT=+$G(^XTMP(XWB,.1))
+"RTN","KBBPXWBD",47,0)
+ Q:CNT<1
+"RTN","KBBPXWBD",48,0)
+ W !!,"Log from Job ",$E(XWB,7,99)," ",CNT," Lines"
+"RTN","KBBPXWBD",49,0)
+ F  S IX=$O(^XTMP(XWB,IX)) Q:'$L(IX)  S X=^XTMP(XWB,IX) D VL1(IX,X)
+"RTN","KBBPXWBD",50,0)
+ Q
+"RTN","KBBPXWBD",51,0)
+ ;
+"RTN","KBBPXWBD",52,0)
+VL1(J,K) ;Write a line
+"RTN","KBBPXWBD",53,0)
+ I $Y'<IOSL,$$WAIT(.CON) S IX="A" S:CON=3 XWB="XWC" Q
+"RTN","KBBPXWBD",54,0)
+ Q:'$D(^XTMP(XWB,IX))
+"RTN","KBBPXWBD",55,0)
+ N H,D,T,I
+"RTN","KBBPXWBD",56,0)
+ S H=$P($$HTE^XLFDT($P(K,"^"),"2S"),"@",2)_" = "
+"RTN","KBBPXWBD",57,0)
+ S D=$P(K,"^",2,99),K=D
+"RTN","KBBPXWBD",58,0)
+ I D?.E1C.E D
+"RTN","KBBPXWBD",59,0)
+ . S D=""
+"RTN","KBBPXWBD",60,0)
+ . F I=1:1:$L(K) S T=$A(K,I),D=D_$S(T>31:$E(K,I),1:"\"_$E((1000+T),3,4))
+"RTN","KBBPXWBD",61,0)
+ S T=$L(H)
+"RTN","KBBPXWBD",62,0)
+ F  W !,H,?T,$E(D,1,68) S H="",D=$E(D,69,999) Q:'$L(D)
+"RTN","KBBPXWBD",63,0)
+ Q
+"RTN","KBBPXWBD",64,0)
+ ;
+"RTN","KBBPXWBD",65,0)
+WAIT(CON) ;continue/kill/exit
+"RTN","KBBPXWBD",66,0)
+ S DIR("?")="Enter RETURN to continue, Next for next log, Kill to remove log, Exit to quit log view."
+"RTN","KBBPXWBD",67,0)
+ S DIR("A")="Return to continue, Next log, Exit: "
+"RTN","KBBPXWBD",68,0)
+ S DIR(0)="SAB^1:Continue;2:Next;3:Exit;4:Kill",DIR("B")="Continue"
+"RTN","KBBPXWBD",69,0)
+ D ^DIR
+"RTN","KBBPXWBD",70,0)
+ S CON=+Y
+"RTN","KBBPXWBD",71,0)
+ I Y=4 D K1(XWB,0) H 1
+"RTN","KBBPXWBD",72,0)
+ I Y=1 W @IOF
+"RTN","KBBPXWBD",73,0)
+ Q Y>1
+"RTN","KBBPXWBD",74,0)
+ ;
+"RTN","KBBPXWBD",75,0)
+K1(REF,S) ;Kill one
+"RTN","KBBPXWBD",76,0)
+ I REF["XWBLOG" K ^XTMP(REF)
+"RTN","KBBPXWBD",77,0)
+ I 'S W !,"Log "_REF_" deleted."
+"RTN","KBBPXWBD",78,0)
+ Q
+"RTN","KBBPXWBD",79,0)
+ ;
+"RTN","KBBPXWBD",80,0)
+KILLALL ;KILL ALL LOG Entries
+"RTN","KBBPXWBD",81,0)
+ N DIR,XWB
+"RTN","KBBPXWBD",82,0)
+ S DIR(0)="Y",DIR("A")="Remove all XWB log entries",DIR("B")="No"
+"RTN","KBBPXWBD",83,0)
+ D ^DIR Q:Y'=1
+"RTN","KBBPXWBD",84,0)
+ ; fall through
+"RTN","KBBPXWBD",85,0)
+KILLALLY ; yes implied JLI 160430
+"RTN","KBBPXWBD",86,0)
+ N XWB
+"RTN","KBBPXWBD",87,0)
+ S XWB="XWBLOG"
+"RTN","KBBPXWBD",88,0)
+ F  S XWB=$O(^XTMP(XWB)) Q:XWB'["XWBLOG"  D K1(XWB,1)
+"RTN","KBBPXWBD",89,0)
+ W !,"Done"
+"RTN","KBBPXWBD",90,0)
+ Q
+"RTN","KBBPXWBD",91,0)
+ ;
+"RTN","KBBPXWBD",92,0)
+EDIT ; JLI 150327 - added to allow editing at Programmer Mode
+"RTN","KBBPXWBD",93,0)
+ D EDITPAR^XPAREDIT("XWBDEBUG")
+"RTN","KBBPXWBD",94,0)
+ Q
+"RTN","KBBPXWBE")
+0^3^B7255298
+"RTN","KBBPXWBE",1,0)
+KBBPXWBE ;JLI/JIVEY@JIVEYSOFT.COM - Handle encoding ;02/25/17  14:48
+"RTN","KBBPXWBE",2,0)
+ ;;0.0;KBBP;;;Build 6
+"RTN","KBBPXWBE",3,0)
+ I $T(EN^%ut)'="" D EN^%ut("KBBPUXWB")
+"RTN","KBBPXWBE",4,0)
+ Q
+"RTN","KBBPXWBE",5,0)
+ ;
+"RTN","KBBPXWBE",6,0)
+CODEACTV() ;.EF - indicates whether encoding/decoding is currently active
+"RTN","KBBPXWBE",7,0)
+ Q $D(^XTMP("KBBPVAL","A",$J))>0
+"RTN","KBBPXWBE",8,0)
+ ;
+"RTN","KBBPXWBE",9,0)
+DECODE(S) ;decode passed string
+"RTN","KBBPXWBE",10,0)
+ ;VYD 5/19/95
+"RTN","KBBPXWBE",11,0)
+ N ASSOCIX,IDIX,ASSOCSTR,IDSTR
+"RTN","KBBPXWBE",12,0)
+ Q:$L(S)'>2 "" ;Bad call
+"RTN","KBBPXWBE",13,0)
+ I '$D(^XTMP("KBBPVAL","A",$J)) Q S
+"RTN","KBBPXWBE",14,0)
+ S ASSOCIX=$A($E(S,$L(S)))-31           ;get associator string index
+"RTN","KBBPXWBE",15,0)
+ S IDIX=$A($E(S))-31                    ;get identifier string index
+"RTN","KBBPXWBE",16,0)
+ I (ASSOCIX>20)!(IDIX>20) D LOG^KBBPXWBD("DECODE^KBBPXWBE ASSOCIX="_ASSOCIX_"  IDIX="_IDIX_"  S="_S) Q "" ; SHOULD NOT HAPPEN, but does
+"RTN","KBBPXWBE",17,0)
+ S ASSOCSTR=^XTMP("KBBPVAL","A",$J,ASSOCIX)   ;get associator string
+"RTN","KBBPXWBE",18,0)
+ S IDSTR=^XTMP("KBBPVAL","A",$J,IDIX)         ;get identifier string
+"RTN","KBBPXWBE",19,0)
+ ;Q $TR($E(S,2,$L(S)-1),ASSOCSTR,IDSTR)  ;translated result
+"RTN","KBBPXWBE",20,0)
+ N STR S STR=$TR($E(S,2,$L(S)-1),ASSOCSTR,IDSTR)  ;translated result
+"RTN","KBBPXWBE",21,0)
+ Q STR
+"RTN","KBBPXWBE",22,0)
+ ;
+"RTN","KBBPXWBE",23,0)
+ENCODE(S) ;RWF 2/5/96
+"RTN","KBBPXWBE",24,0)
+ N %,ASSOCIX,IDIX,ASSOCSTR,IDSTR
+"RTN","KBBPXWBE",25,0)
+ I '$D(^XTMP("KBBPVAL","A",$J)) Q S
+"RTN","KBBPXWBE",26,0)
+ S ASSOCIX=$R(20)+1                     ;get associator index
+"RTN","KBBPXWBE",27,0)
+ F  S IDIX=$R(20)+1 Q:ASSOCIX'=IDIX     ;get different identifier index
+"RTN","KBBPXWBE",28,0)
+ S ASSOCSTR=^XTMP("KBBPVAL","A",$J,ASSOCIX)   ;get associator string
+"RTN","KBBPXWBE",29,0)
+ S IDSTR=^XTMP("KBBPVAL","A",$J,IDIX)         ;get identifier string
+"RTN","KBBPXWBE",30,0)
+ ;translated result
+"RTN","KBBPXWBE",31,0)
+ Q $C(IDIX+31)_$TR(S,IDSTR,ASSOCSTR)_$C(ASSOCIX+31)
+"RTN","KBBPXWBE",32,0)
+ ;
+"RTN","KBBPXWBE",33,0)
+SENDKEYS(RESULT) ;send encoding keys to the client
+"RTN","KBBPXWBE",34,0)
+ ;VYD 5/19/95
+"RTN","KBBPXWBE",35,0)
+ N %,X
+"RTN","KBBPXWBE",36,0)
+ S %=1
+"RTN","KBBPXWBE",37,0)
+ F  S X=$P($T(Z+%),";",3,9) Q:X=""  S RESULT(%)=X,%=%+1
+"RTN","KBBPXWBE",38,0)
+ Q
+"RTN","KBBPXWBE",39,0)
+ ;
+"RTN","KBBPXWBE",40,0)
+CLEAR ; clear any current encoding set
+"RTN","KBBPXWBE",41,0)
+ K ^XTMP("KBBPVAL","A",$J)
+"RTN","KBBPXWBE",42,0)
+ Q
+"RTN","KBBPXWBE",43,0)
+ ;
+"RTN","KBBPXWBE",44,0)
+RESET(RESULT) ;.RPC - KBBP RESET ENCODING
+"RTN","KBBPXWBE",45,0)
+ ; RESULT - passed by reference - return array with encoding strings
+"RTN","KBBPXWBE",46,0)
+ D CLEAR
+"RTN","KBBPXWBE",47,0)
+ D SETENCOD(.RESULT) ; result array is uncoded since global was removed
+"RTN","KBBPXWBE",48,0)
+ Q
+"RTN","KBBPXWBE",49,0)
+ ;
+"RTN","KBBPXWBE",50,0)
+SETENCOD(RESULT) ;.RPC - KBBP UPDATE ENCODING
+"RTN","KBBPXWBE",51,0)
+ ; RESULT - passed by reference - return array with encoding strings
+"RTN","KBBPXWBE",52,0)
+ N I,%,ALLCHARS,RNDMSTR,CHAR,POS
+"RTN","KBBPXWBE",53,0)
+ N LOCALVAL
+"RTN","KBBPXWBE",54,0)
+ K RESULT
+"RTN","KBBPXWBE",55,0)
+ F I=1:1:20 D
+"RTN","KBBPXWBE",56,0)
+ . S ALLCHARS="" F %=32:1:126 S:$C(%)'="^" ALLCHARS=ALLCHARS_$C(%)
+"RTN","KBBPXWBE",57,0)
+ . S RNDMSTR=""
+"RTN","KBBPXWBE",58,0)
+ . F %=1:1:94 D
+"RTN","KBBPXWBE",59,0)
+ . . S POS=$R($L(ALLCHARS))+1,CHAR=$E(ALLCHARS,POS)
+"RTN","KBBPXWBE",60,0)
+ . . S RNDMSTR=RNDMSTR_CHAR
+"RTN","KBBPXWBE",61,0)
+ . . S ALLCHARS=$P(ALLCHARS,CHAR,1)_$P(ALLCHARS,CHAR,2) ;compress by 1
+"RTN","KBBPXWBE",62,0)
+ . . Q
+"RTN","KBBPXWBE",63,0)
+ . S LOCALVAL(I)=RNDMSTR
+"RTN","KBBPXWBE",64,0)
+ . S RESULT(I)=LOCALVAL(I)
+"RTN","KBBPXWBE",65,0)
+ . Q
+"RTN","KBBPXWBE",66,0)
+ ; now update encoding array with new values (after encoding result value with old set)
+"RTN","KBBPXWBE",67,0)
+ F I=1:1:20 S ^XTMP("KBBPVAL","B",$J,I)=LOCALVAL(I)
+"RTN","KBBPXWBE",68,0)
+ Q
+"RTN","KBBPXWBP")
+0^4^B121309641
+"RTN","KBBPXWBP",1,0)
+KBBPXWBP ;JLI/JIVEY@JIVEYSOFT.COM - VISTA BROKER MSG PARSER ;02/25/17  14:49
+"RTN","KBBPXWBP",2,0)
+ ;;0.0;KBBPTOOLS;;;Build 6
+"RTN","KBBPXWBP",3,0)
+ ;
+"RTN","KBBPXWBP",4,0)
+ ;based on and modified from the Department of Veteran Affairs routine XWBPRS
+"RTN","KBBPXWBP",5,0)
+XWBPRS ;ISF/STAFF - VISTA BROKER MSG PARSER ;11/15/11  12:39
+"RTN","KBBPXWBP",6,0)
+ ;;1.1;RPC BROKER;**35,43,46,57**;Mar 28, 1997;Build 13
+"RTN","KBBPXWBP",7,0)
+ I $T(EN^%ut)'="" D EN^%ut("KBBPUXWB")
+"RTN","KBBPXWBP",8,0)
+ Q
+"RTN","KBBPXWBP",9,0)
+ ;
+"RTN","KBBPXWBP",10,0)
+ ;XWB holds info from the message used by the RPC
+"RTN","KBBPXWBP",11,0)
+CALLP(XWBP,XWBDEBUG) ;make API call using Protocol string
+"RTN","KBBPXWBP",12,0)
+ ; XWBP - passed by reference - contains info on RPC on return
+"RTN","KBBPXWBP",13,0)
+ ; XWBDEBUG - optional input - if present and 1, outputs logging data
+"RTN","KBBPXWBP",14,0)
+ ; ZEXCEPT: XR - header of input message
+"RTN","KBBPXWBP",15,0)
+ N ERR,S,XWBARY,CODEREAD
+"RTN","KBBPXWBP",16,0)
+ K XWB
+"RTN","KBBPXWBP",17,0)
+ S ERR=0
+"RTN","KBBPXWBP",18,0)
+ N SUMINPUT S SUMINPUT=""
+"RTN","KBBPXWBP",19,0)
+ D LOG("CALLP XWBP="_$G(XWBP)_"  XWBDEBUG-"_$G(XWBDEBUG)_"  XR="_$G(XR)_"  CODEACTIV="_$$CODEACTV^KBBPXWBE())
+"RTN","KBBPXWBP",20,0)
+ S ERR=$$PRSP(XR) ;Read the rest of the protocol header
+"RTN","KBBPXWBP",21,0)
+ D LOG("CALLP 1")
+"RTN","KBBPXWBP",22,0)
+ I '+ERR S ERR=$$PRSM ;Read and parse message
+"RTN","KBBPXWBP",23,0)
+ I $G(XWB(2,"RPC"))="XUS SET SHARED" S XWBSHARE=1 D LOG("CALLP 2") Q
+"RTN","KBBPXWBP",24,0)
+ D LOG("CALLP 3")
+"RTN","KBBPXWBP",25,0)
+ I '+ERR S ERR=$$RPC ;Check the RPC
+"RTN","KBBPXWBP",26,0)
+ D LOG("CALLP 4")
+"RTN","KBBPXWBP",27,0)
+ I +ERR S XWBSEC=$P(ERR,U,2) ;P10 -- dpc
+"RTN","KBBPXWBP",28,0)
+ I '+ERR D CHKPRMIT^KBBPXWBS($G(XWB(2,"RPC"))) ;checks if RPC allowed to run
+"RTN","KBBPXWBP",29,0)
+ D LOG("CALLP 5")
+"RTN","KBBPXWBP",30,0)
+ S:$L($G(XWBSEC)) ERR="-1^"_XWBSEC
+"RTN","KBBPXWBP",31,0)
+ D LOG("CALLP 6")
+"RTN","KBBPXWBP",32,0)
+ I '+ERR D
+"RTN","KBBPXWBP",33,0)
+ . D LOG("CALLP 7")
+"RTN","KBBPXWBP",34,0)
+ . D CAPI(.XWBP,XWB("PARAM"))
+"RTN","KBBPXWBP",35,0)
+ E  I ($G(XWBTCMD)'="#BYE#") D LOG("Bad Msg"_ERR),CLRBUF
+"RTN","KBBPXWBP",36,0)
+ D LOG("CALLP 8")
+"RTN","KBBPXWBP",37,0)
+ I 'XWBDEBUG K XWB
+"RTN","KBBPXWBP",38,0)
+ I $D(XWBARY) K @XWBARY,XWBARY
+"RTN","KBBPXWBP",39,0)
+ D LOG("CALLP^KBBPXWBP SUMINPUT="_SUMINPUT)
+"RTN","KBBPXWBP",40,0)
+ I $D(XWBDEBUG) D
+"RTN","KBBPXWBP",41,0)
+ . I $G(XWB)'="" D LOG("CALLP EXIT XWB="_XWB)
+"RTN","KBBPXWBP",42,0)
+ . N VAL S VAL="XWB"
+"RTN","KBBPXWBP",43,0)
+ . F  S VAL=$Q(@VAL) Q:VAL'["XWB"  D LOG("CALLP EXIT "_VAL_"="_@VAL)
+"RTN","KBBPXWBP",44,0)
+ . Q
+"RTN","KBBPXWBP",45,0)
+ Q
+"RTN","KBBPXWBP",46,0)
+ ;
+"RTN","KBBPXWBP",47,0)
+CODEREAD(NCHARS) ;.EF - read specified number of characters whether encoded or not
+"RTN","KBBPXWBP",48,0)
+ ; NCHARS - input - number of message characters to read
+"RTN","KBBPXWBP",49,0)
+ N RESULT
+"RTN","KBBPXWBP",50,0)
+ S RESULT=$S($$CODEACTV^KBBPXWBE:$$DECODE^KBBPXWBE($$BREAD^KBBPXWBR(NCHARS+2)),1:$$BREAD^KBBPXWBR(NCHARS))
+"RTN","KBBPXWBP",51,0)
+ I $L(SUMINPUT)+$L(RESULT)>254 D LOG("CODEREAD^KBBPXWBP SUMINPUT="_SUMINPUT) S SUMINPUT=""
+"RTN","KBBPXWBP",52,0)
+ S SUMINPUT=SUMINPUT_RESULT
+"RTN","KBBPXWBP",53,0)
+ Q RESULT
+"RTN","KBBPXWBP",54,0)
+ ;
+"RTN","KBBPXWBP",55,0)
+PRSP(P) ;ef, Parse Protocol
+"RTN","KBBPXWBP",56,0)
+ ; P - input - Header for input message indicating message type
+"RTN","KBBPXWBP",57,0)
+ ;M Extrinsic Function
+"RTN","KBBPXWBP",58,0)
+ ;Outputs
+"RTN","KBBPXWBP",59,0)
+ ;ERR      0 for success, "-1^Text" if error
+"RTN","KBBPXWBP",60,0)
+ ;
+"RTN","KBBPXWBP",61,0)
+ N ERR,C,M,R,X,SUMINPUT
+"RTN","KBBPXWBP",62,0)
+ D LOG("PRSP 1 P="_$G(P))
+"RTN","KBBPXWBP",63,0)
+ S SUMINPUT=""
+"RTN","KBBPXWBP",64,0)
+ S R=0,C=";",ERR=0
+"RTN","KBBPXWBP",65,0)
+ ;S P=$$BREAD^KBBPXWBR(4)
+"RTN","KBBPXWBP",66,0)
+ S P=$$CODEREAD(4)
+"RTN","KBBPXWBP",67,0)
+ D LOG("PRSP^KBBPXWBP P="_P) ; DEBUG
+"RTN","KBBPXWBP",68,0)
+ IF $L(P)'=4 S ERR="-1^Short Header info"
+"RTN","KBBPXWBP",69,0)
+ IF +ERR=0 D
+"RTN","KBBPXWBP",70,0)
+ . S XWB(R,"VER")=+$E(P,1)
+"RTN","KBBPXWBP",71,0)
+ . S XWB(R,"TYPE")=+$E(P,2)
+"RTN","KBBPXWBP",72,0)
+ . S (XWBENVL,XWB(R,"LENV"))=+$E(P,3)
+"RTN","KBBPXWBP",73,0)
+ . S (XWBPRT,XWB(R,"RT"))=+$E(P,4)
+"RTN","KBBPXWBP",74,0)
+ . D LOG("PRSP^KBBPXWBP R="_R_"  XWB(R,VER)="_XWB(R,"VER")_"  XWB(R,TYPE)="_XWB(R,"TYPE")_"  XWB(R,LENV)="_XWB(R,"LENV")_"  XWB(R,RT)="_XWB(R,"RT"))
+"RTN","KBBPXWBP",75,0)
+ . Q
+"RTN","KBBPXWBP",76,0)
+ D LOG("PRSP^KBBPXWBP ERR="_ERR_"  XWBENVL="_$G(XWBENVL))
+"RTN","KBBPXWBP",77,0)
+ I XWBENVL<1 S (XWBENVL,XWB(R,"LENV"))=3
+"RTN","KBBPXWBP",78,0)
+ D LOG("PRSP^KBBPXWBP SUMINPUT="_SUMINPUT)
+"RTN","KBBPXWBP",79,0)
+ Q ERR
+"RTN","KBBPXWBP",80,0)
+ ;
+"RTN","KBBPXWBP",81,0)
+PRSM() ;ef, Parse message
+"RTN","KBBPXWBP",82,0)
+ ;M Extrinsic Function
+"RTN","KBBPXWBP",83,0)
+ ;See document on msg format
+"RTN","KBBPXWBP",84,0)
+ ;Outputs
+"RTN","KBBPXWBP",85,0)
+ ;ERR      0 for success, "-1^Text" if error
+"RTN","KBBPXWBP",86,0)
+ N C,EX1,ERR,R,X,CNK,SUMINPUT
+"RTN","KBBPXWBP",87,0)
+ D LOG("PRSM 1")
+"RTN","KBBPXWBP",88,0)
+ S SUMINPUT=""
+"RTN","KBBPXWBP",89,0)
+ S R=1,C=";",CNK=0,EX1=0 ;Max buffer
+"RTN","KBBPXWBP",90,0)
+ S ERR="-1^Invalid Chunk"
+"RTN","KBBPXWBP",91,0)
+ ;F  S CNK=$$BREAD^KBBPXWBR(1) Q:("12345"'[CNK)  D  Q:EX1
+"RTN","KBBPXWBP",92,0)
+ F  S CNK=$$CODEREAD(1) Q:("12345"'[CNK)  D  Q:EX1
+"RTN","KBBPXWBP",93,0)
+ . S EX1=(CNK=5),@("ERR=$$PRS"_CNK)
+"RTN","KBBPXWBP",94,0)
+ . D LOG("PRSM^KBBPXWBP CNK="_CNK_"  EX1="_EX1_"  ERR="_ERR)
+"RTN","KBBPXWBP",95,0)
+ D LOG("PRSM^KBBPXWBP SUMINPUT="_SUMINPUT)
+"RTN","KBBPXWBP",96,0)
+ Q ERR
+"RTN","KBBPXWBP",97,0)
+ ;
+"RTN","KBBPXWBP",98,0)
+PRS1() ;Parse the HEADER chunk
+"RTN","KBBPXWBP",99,0)
+ ; NOT CALLED BY ANYTHING
+"RTN","KBBPXWBP",100,0)
+ ;N %,L,R
+"RTN","KBBPXWBP",101,0)
+ ;D LOG("PRS1 1")
+"RTN","KBBPXWBP",102,0)
+ ;S R=1
+"RTN","KBBPXWBP",103,0)
+ ;S XWB(R,"VER")=$$SREAD
+"RTN","KBBPXWBP",104,0)
+ ;S XWB(R,"RETURN")=$$SREAD
+"RTN","KBBPXWBP",105,0)
+ ;D LOG("PRS1^KBBPXWBP R=1  XWB(R,VER)="_XWB(R,"VER")_"  XWB(R,RETURN)="_XWB(R,"RETURN"))
+"RTN","KBBPXWBP",106,0)
+ ;Q 0
+"RTN","KBBPXWBP",107,0)
+ ;
+"RTN","KBBPXWBP",108,0)
+PRS2() ;Parse the RPC chunk
+"RTN","KBBPXWBP",109,0)
+ N L,R
+"RTN","KBBPXWBP",110,0)
+ D LOG("PRS2 1")
+"RTN","KBBPXWBP",111,0)
+ S R=2
+"RTN","KBBPXWBP",112,0)
+ S (XWBAPVER,XWB(R,"VER"))=$$SREAD ;RPC version
+"RTN","KBBPXWBP",113,0)
+ S XWB(R,"RPC")=$$SREAD
+"RTN","KBBPXWBP",114,0)
+ I XWB(R,"RPC")="XWB CREATE CONTEXT" S XWB(R,"RPC")="KBBPXWB CREATE CONTEXT"
+"RTN","KBBPXWBP",115,0)
+ D LOG("PRS2 R=2  XWB(R,VER)="_XWB(R,"VER")_"  XWB(R,RPC)="_XWB(R,"RPC"))
+"RTN","KBBPXWBP",116,0)
+ I $G(XWBDEBUG)>1 D LOG("PRS2 RPC: "_XWB(R,"RPC"))
+"RTN","KBBPXWBP",117,0)
+ Q 0
+"RTN","KBBPXWBP",118,0)
+PRS3() ;Parse the Security chunk
+"RTN","KBBPXWBP",119,0)
+ N L,R
+"RTN","KBBPXWBP",120,0)
+ D LOG("PRS3 1")
+"RTN","KBBPXWBP",121,0)
+ S R=3
+"RTN","KBBPXWBP",122,0)
+ D LOG("PRS3^KBBPXWBP R=3  NOTHING")
+"RTN","KBBPXWBP",123,0)
+ Q 0
+"RTN","KBBPXWBP",124,0)
+PRS4() ;Parse the Command chunk
+"RTN","KBBPXWBP",125,0)
+ N R
+"RTN","KBBPXWBP",126,0)
+ D LOG("PRS2 4")
+"RTN","KBBPXWBP",127,0)
+ S R=4,XWBTCMD=$$SREAD,XWB(R,"CMD")=XWBTCMD
+"RTN","KBBPXWBP",128,0)
+ D LOG("PRS4 R=4  XWB(R,CMD)="_XWB(R,"CMD"))
+"RTN","KBBPXWBP",129,0)
+ I $G(XWBDEBUG)>1 D LOG("CMD: "_XWBTCMD)
+"RTN","KBBPXWBP",130,0)
+ Q ("TCPConnect^#BYE#"[XWBTCMD)
+"RTN","KBBPXWBP",131,0)
+ ;
+"RTN","KBBPXWBP",132,0)
+PRS5() ;Parse Data Parameter chunk
+"RTN","KBBPXWBP",133,0)
+ ;M Extrinsic Function
+"RTN","KBBPXWBP",134,0)
+ ;Outputs
+"RTN","KBBPXWBP",135,0)
+ ;ERR      0 for success, "-1^Text" if error
+"RTN","KBBPXWBP",136,0)
+ ;
+"RTN","KBBPXWBP",137,0)
+ N CONT,DONE,ERR,F,FL,IX,K,L,P1,P2,P3,P4,P5,MAXP,R,TY,VA
+"RTN","KBBPXWBP",138,0)
+ D LOG("PRS5 1")
+"RTN","KBBPXWBP",139,0)
+ S R=5,ERR=0,F=3,IX=0,DONE=0,CONT="f",XWB("PARAM")=""
+"RTN","KBBPXWBP",140,0)
+ ;F  S:CONT="f" TY=$$BREAD^KBBPXWBR(1) D  Q:DONE  S CONT=$$BREAD^KBBPXWBR(1) S:CONT'="t" IX=IX+1
+"RTN","KBBPXWBP",141,0)
+ F  S:CONT="f" TY=$$CODEREAD(1) D  Q:DONE  S CONT=$$CODEREAD(1) S:CONT'="t" IX=IX+1
+"RTN","KBBPXWBP",142,0)
+ . D LOG("PRS5^KBBPXWBP IX="_IX)
+"RTN","KBBPXWBP",143,0)
+ . K VA,P1
+"RTN","KBBPXWBP",144,0)
+ . IF TY=$C(4) D LOG("PRS5^KBBPXWBP DONE") ; DEBUG
+"RTN","KBBPXWBP",145,0)
+ . IF TY=$C(4) S DONE=1 Q  ;EOT
+"RTN","KBBPXWBP",146,0)
+ . IF TY=0 D  Q  ;literal
+"RTN","KBBPXWBP",147,0)
+ . . D LOG("PRS5^KBBPXWBP TY=0 LITERAL") ; DEBUG
+"RTN","KBBPXWBP",148,0)
+ . . D LREAD("VA")
+"RTN","KBBPXWBP",149,0)
+ . . S XWB(R,"P",IX)=VA(1) D PARAM($NA(XWB(R,"P",IX)))
+"RTN","KBBPXWBP",150,0)
+ . . Q
+"RTN","KBBPXWBP",151,0)
+ . IF TY=1 D  Q  ;reference
+"RTN","KBBPXWBP",152,0)
+ . . D LOG("PRS5^KBBPXWBP TY=1 REFERENCE") ; DEBUG
+"RTN","KBBPXWBP",153,0)
+ . . D LREAD("VA")
+"RTN","KBBPXWBP",154,0)
+ . . S XWB(R,"P",IX)=$$GETV(VA(1)) D PARAM($NA(XWB(R,"P",IX)))
+"RTN","KBBPXWBP",155,0)
+ . . Q
+"RTN","KBBPXWBP",156,0)
+ . IF TY=2 D  Q  ;list
+"RTN","KBBPXWBP",157,0)
+ . . D LOG("PRS5^KBBPXWBP TY=2 LIST") ; DEBUG
+"RTN","KBBPXWBP",158,0)
+ . . I CONT'="t" D
+"RTN","KBBPXWBP",159,0)
+ . . . S XWBARY=$$OARY,XWB(R,"P",IX)="."_XWBARY
+"RTN","KBBPXWBP",160,0)
+ . . . D PARAM(XWB(R,"P",IX))
+"RTN","KBBPXWBP",161,0)
+ . . D LREAD("P1") Q:P1(1)=""  D LREAD("VA")
+"RTN","KBBPXWBP",162,0)
+ . . D LINST(XWBARY,P1(1),VA(1))
+"RTN","KBBPXWBP",163,0)
+ . . Q
+"RTN","KBBPXWBP",164,0)
+ . IF TY=3 D  Q  ;global
+"RTN","KBBPXWBP",165,0)
+ . . D LOG("PRS5^KBBPXWBP TY=3 GLOBAL") ; DEBUG
+"RTN","KBBPXWBP",166,0)
+ . . I CONT'="t" D
+"RTN","KBBPXWBP",167,0)
+ . . . S XWBARY=$NA(^TMP("XWBA",$J,IX)),XWB(R,"P",IX)=XWBARY
+"RTN","KBBPXWBP",168,0)
+ . . . K @XWBARY S @XWBARY=""
+"RTN","KBBPXWBP",169,0)
+ . . . D PARAM(XWBARY)
+"RTN","KBBPXWBP",170,0)
+ . . D LREAD("P1") Q:P1(1)=""  D LREAD("VA")
+"RTN","KBBPXWBP",171,0)
+ . . D GINST(XWBARY,P1(1),VA(1))
+"RTN","KBBPXWBP",172,0)
+ . . Q
+"RTN","KBBPXWBP",173,0)
+ . IF TY=4 D  Q  ;empty - ,,
+"RTN","KBBPXWBP",174,0)
+ . . D LOG("PRS5^KBBPXWBP TY=4 EMPTY") ; DEBUG
+"RTN","KBBPXWBP",175,0)
+ . . S XWB(R,"XWB",IX)=""
+"RTN","KBBPXWBP",176,0)
+ . . Q
+"RTN","KBBPXWBP",177,0)
+ . IF TY=5 D  Q
+"RTN","KBBPXWBP",178,0)
+ . . D LOG("PRS5^KBBPXWBP TY=5 STREAM") ; DEBUG
+"RTN","KBBPXWBP",179,0)
+ . . ;stream still to be done
+"RTN","KBBPXWBP",180,0)
+ . Q  ;End of loop
+"RTN","KBBPXWBP",181,0)
+ Q ERR
+"RTN","KBBPXWBP",182,0)
+PARAM(NA) ;Add a new parameter to the list
+"RTN","KBBPXWBP",183,0)
+ N A
+"RTN","KBBPXWBP",184,0)
+ D LOG("PARAM 1")
+"RTN","KBBPXWBP",185,0)
+ S A=$G(XWB("PARAM")) S:'$L(NA) NA="""""" ;Empty
+"RTN","KBBPXWBP",186,0)
+ S A=A_$S($L(A):",",1:"")_$S(TY=3:"$NA(",1:"")_NA_$S(TY=3:")",1:"")
+"RTN","KBBPXWBP",187,0)
+ S XWB("PARAM")=A
+"RTN","KBBPXWBP",188,0)
+ Q
+"RTN","KBBPXWBP",189,0)
+ ;
+"RTN","KBBPXWBP",190,0)
+RPC() ;Check the rpc information.
+"RTN","KBBPXWBP",191,0)
+ ;M Extrinsic Function
+"RTN","KBBPXWBP",192,0)
+ ;Outputs
+"RTN","KBBPXWBP",193,0)
+ ;ERR      0 for success, "-1^Text" if error
+"RTN","KBBPXWBP",194,0)
+ ;
+"RTN","KBBPXWBP",195,0)
+ N C,DR,ERR,M,R,RPC,T,X
+"RTN","KBBPXWBP",196,0)
+ D LOG("RPC 1")
+"RTN","KBBPXWBP",197,0)
+ S R=2,C=";",ERR=0,M=512 ;Max buffer
+"RTN","KBBPXWBP",198,0)
+ S RPC=$G(XWB(R,"RPC")) I '$L(RPC) Q "-1^No RPC sent"
+"RTN","KBBPXWBP",199,0)
+ S T=$O(^XWB(8994,"B",RPC,0))
+"RTN","KBBPXWBP",200,0)
+ I '+T Q "-1^Remote Procedure '"_RPC_"' doesn't exist on the server."
+"RTN","KBBPXWBP",201,0)
+ S T(0)=$G(^XWB(8994,T,0))
+"RTN","KBBPXWBP",202,0)
+ I $P(T(0),U,6)=1!($P(T(0),U,6)=2) Q "-1^Remote Procedure '"_RPC_"' cannot be run at this time."  ;P10. Check INACTIVE field. - dpc.
+"RTN","KBBPXWBP",203,0)
+ S XWB(R,"RTAG")=$P(T(0),"^",2)
+"RTN","KBBPXWBP",204,0)
+ S XWB(R,"RNAM")=$P(T(0),"^",3)
+"RTN","KBBPXWBP",205,0)
+ S XWBPTYPE=$P(T(0),"^",4)
+"RTN","KBBPXWBP",206,0)
+ S XWBWRAP=+$P(T(0),"^",8)
+"RTN","KBBPXWBP",207,0)
+ Q ERR
+"RTN","KBBPXWBP",208,0)
+ ;
+"RTN","KBBPXWBP",209,0)
+SREAD() ;Read a S_PACK
+"RTN","KBBPXWBP",210,0)
+ N L,V7
+"RTN","KBBPXWBP",211,0)
+ D LOG("LREAD 1")
+"RTN","KBBPXWBP",212,0)
+ ;S L=$$BREAD^KBBPXWBR(1),L=$A(L)
+"RTN","KBBPXWBP",213,0)
+ ;S V7=$$BREAD^KBBPXWBR(L)
+"RTN","KBBPXWBP",214,0)
+ S L=$$CODEREAD(1),L=$A(L)
+"RTN","KBBPXWBP",215,0)
+ S V7=$$CODEREAD(L)
+"RTN","KBBPXWBP",216,0)
+ Q V7
+"RTN","KBBPXWBP",217,0)
+ ;
+"RTN","KBBPXWBP",218,0)
+LREAD(ROOT) ;Read a L_PACK
+"RTN","KBBPXWBP",219,0)
+ N L,V7,I ;p45 Remove limit on length of string.
+"RTN","KBBPXWBP",220,0)
+ D LOG("LREAD 1")
+"RTN","KBBPXWBP",221,0)
+ S I=1,@ROOT@(I)=""
+"RTN","KBBPXWBP",222,0)
+ ;S L=$$BREAD^KBBPXWBR(XWBENVL),L=+L
+"RTN","KBBPXWBP",223,0)
+ ;I L>0 S V7=$$BREAD^KBBPXWBR(L),@ROOT@(I)=V7,I=I+1
+"RTN","KBBPXWBP",224,0)
+ S L=$$CODEREAD(XWBENVL),L=+L
+"RTN","KBBPXWBP",225,0)
+ I L>0 S V7=$$CODEREAD(L),@ROOT@(I)=V7,I=I+1
+"RTN","KBBPXWBP",226,0)
+ Q
+"RTN","KBBPXWBP",227,0)
+ ;
+"RTN","KBBPXWBP",228,0)
+ ;X can be something like '"TEXT",1,0'.
+"RTN","KBBPXWBP",229,0)
+LINST(A,X,XWBY) ;instantiate local array
+"RTN","KBBPXWBP",230,0)
+ D LOG("LINST 1")
+"RTN","KBBPXWBP",231,0)
+ IF XWBY=$C(1) S XWBY=""
+"RTN","KBBPXWBP",232,0)
+ S X=A_"("_X_")"
+"RTN","KBBPXWBP",233,0)
+ S @X=XWBY
+"RTN","KBBPXWBP",234,0)
+ Q
+"RTN","KBBPXWBP",235,0)
+ ;
+"RTN","KBBPXWBP",236,0)
+ ;S can be something like '"TEXT",1,0'.
+"RTN","KBBPXWBP",237,0)
+GINST(R,S,V) ;instantiate global
+"RTN","KBBPXWBP",238,0)
+ N N
+"RTN","KBBPXWBP",239,0)
+ D LOG("GINST 1")
+"RTN","KBBPXWBP",240,0)
+ I V=$C(1) S V=""
+"RTN","KBBPXWBP",241,0)
+ S N=$P(R,")")_","_S_")"
+"RTN","KBBPXWBP",242,0)
+ S @N=V
+"RTN","KBBPXWBP",243,0)
+ Q
+"RTN","KBBPXWBP",244,0)
+ ;
+"RTN","KBBPXWBP",245,0)
+GETV(V) ;get value of V - reference parameter
+"RTN","KBBPXWBP",246,0)
+ N X
+"RTN","KBBPXWBP",247,0)
+ D LOG("GETV 1")
+"RTN","KBBPXWBP",248,0)
+ S X=V
+"RTN","KBBPXWBP",249,0)
+ IF $E(X,1,2)="$$" Q ""
+"RTN","KBBPXWBP",250,0)
+ IF $C(34,36)[$E(V) X "S V="_$$VCHK(V)
+"RTN","KBBPXWBP",251,0)
+ E  S V=$S($D(V):@V,1:"Invalid value for "_V)
+"RTN","KBBPXWBP",252,0)
+ Q V
+"RTN","KBBPXWBP",253,0)
+ ;
+"RTN","KBBPXWBP",254,0)
+VCHK(S) ;Parse string for first argument
+"RTN","KBBPXWBP",255,0)
+ N C,I,P
+"RTN","KBBPXWBP",256,0)
+ D LOG("VCHK 1 S="_S)
+"RTN","KBBPXWBP",257,0)
+ F I=1:1 S C=$E(S,I) D VCHKP:C="(",VCHKQ:C=$C(34) Q:" ,"[C
+"RTN","KBBPXWBP",258,0)
+ Q $E(S,1,I-1)
+"RTN","KBBPXWBP",259,0)
+VCHKP S P=1 ;Find closing paren
+"RTN","KBBPXWBP",260,0)
+ D LOG("VCHKP 1")
+"RTN","KBBPXWBP",261,0)
+ F I=I+1:1 S C=$E(S,I) Q:P=0!(C="")  I "()"""[C D VCHKQ:C=$C(34) S P=P+$S("("[C:1,")"[C:-1,1:0)
+"RTN","KBBPXWBP",262,0)
+ Q
+"RTN","KBBPXWBP",263,0)
+VCHKQ ;Find closing quote
+"RTN","KBBPXWBP",264,0)
+ D LOG("VCHKQ 1")
+"RTN","KBBPXWBP",265,0)
+ F I=I+1:1 S C=$E(S,I) Q:C=""!(C=$C(34))
+"RTN","KBBPXWBP",266,0)
+ Q
+"RTN","KBBPXWBP",267,0)
+CLRBUF ;Empties Input buffer
+"RTN","KBBPXWBP",268,0)
+ N %
+"RTN","KBBPXWBP",269,0)
+ D LOG("CLRBUF 1")
+"RTN","KBBPXWBP",270,0)
+ F  R *%:2 Q:'$T!(%=4)  ;!(%=-1)
+"RTN","KBBPXWBP",271,0)
+ Q
+"RTN","KBBPXWBP",272,0)
+ZZZ(X) ;Convert
+"RTN","KBBPXWBP",273,0)
+ N I,J
+"RTN","KBBPXWBP",274,0)
+ F  S I=$F(X,"$C(") Q:'I  S J=$F(X,")",I),X=$E(X,1,I-4)_$C($E(X,I,J-2))_$E(X,J,999)
+"RTN","KBBPXWBP",275,0)
+ Q X
+"RTN","KBBPXWBP",276,0)
+ ;
+"RTN","KBBPXWBP",277,0)
+CAPI(XWBY,PAR) ;make API call
+"RTN","KBBPXWBP",278,0)
+ N XWBCALL,T,DX,DY
+"RTN","KBBPXWBP",279,0)
+ D LOG("CAPI 1")
+"RTN","KBBPXWBP",280,0)
+ ; ZEXCEPT: XWBFGTIM - created here, will be killed in STRTCVR2 or ONECOVER
+"RTN","KBBPXWBP",281,0)
+ ; ZEXCEPT: XWBCSRPC - created here, will be killed in ONECOVER
+"RTN","KBBPXWBP",282,0)
+ ; JLI 110606 next line checks for start call to Coversheet Timing
+"RTN","KBBPXWBP",283,0)
+ I XWB(2,"RTAG")="START",XWB(2,"RNAM")="ORWCV" I +$G(^KMPTMP("KMPD-CPRS")) S XWBFGTIM=$H D STRTCVR1 I 1
+"RTN","KBBPXWBP",284,0)
+ E  I $G(XWBCOVER),$D(^TMP("XWBFGP",$J,"TODO",XWB(2,"RPC"))) S XWBFGTIM=$H,XWBCSRPC=XWB(2,"RPC")
+"RTN","KBBPXWBP",285,0)
+ S XWBCALL=XWB(2,"RTAG")_"^"_XWB(2,"RNAM")_"(.XWBY"_$S($L(PAR):","_PAR,1:"")_")",XWBCALL2=""
+"RTN","KBBPXWBP",286,0)
+ D LOG("CAPI XWBCALL="_XWBCALL)
+"RTN","KBBPXWBP",287,0)
+ K PAR
+"RTN","KBBPXWBP",288,0)
+ O XWBNULL U XWBNULL ;p43 Make sure its open
+"RTN","KBBPXWBP",289,0)
+ ;
+"RTN","KBBPXWBP",290,0)
+ I $G(XWBDEBUG)>2 D LOG("Call: "_$E(XWBCALL,1,247))
+"RTN","KBBPXWBP",291,0)
+ ;start RUM for RPC
+"RTN","KBBPXWBP",292,0)
+ I $G(XWB(2,"CAPI"))]"" D LOGRSRC^%ZOSV(XWB(2,"CAPI"),2,1)
+"RTN","KBBPXWBP",293,0)
+ ;
+"RTN","KBBPXWBP",294,0)
+ D @XWBCALL S XWBCALL2=XWBCALL ;Save call for debug
+"RTN","KBBPXWBP",295,0)
+ ;
+"RTN","KBBPXWBP",296,0)
+ I $G(XWBCOVER),XWB(2,"RTAG")="START",XWB(2,"RNAM")="ORWCV" D STRTCVR2(XWBY) I 1
+"RTN","KBBPXWBP",297,0)
+ E  I $D(XWBCOVER),$D(XWBCSRPC) D ONECOVER ; JLI 110606
+"RTN","KBBPXWBP",298,0)
+ ;
+"RTN","KBBPXWBP",299,0)
+ ;restart RUM for handler
+"RTN","KBBPXWBP",300,0)
+ D LOGRSRC^%ZOSV("$BROKER HANDLER$",2,1)
+"RTN","KBBPXWBP",301,0)
+ ;
+"RTN","KBBPXWBP",302,0)
+ U XWBTDEV
+"RTN","KBBPXWBP",303,0)
+ Q
+"RTN","KBBPXWBP",304,0)
+ ;
+"RTN","KBBPXWBP",305,0)
+OARY() ;create storage array
+"RTN","KBBPXWBP",306,0)
+ N A,DONE,I
+"RTN","KBBPXWBP",307,0)
+ S I=1+$G(XWB("ARRAY")),XWB("ARRAY")=I
+"RTN","KBBPXWBP",308,0)
+ S A="XWBS"_I
+"RTN","KBBPXWBP",309,0)
+ K @A ;temp fix for single array
+"RTN","KBBPXWBP",310,0)
+ S @A="" ;set naked
+"RTN","KBBPXWBP",311,0)
+ Q A
+"RTN","KBBPXWBP",312,0)
+ ;
+"RTN","KBBPXWBP",313,0)
+CREF(R,P) ;Convert array contained in P to reference A
+"RTN","KBBPXWBP",314,0)
+ N I,X,DONE,F1,S
+"RTN","KBBPXWBP",315,0)
+ S DONE=0
+"RTN","KBBPXWBP",316,0)
+ S S=""
+"RTN","KBBPXWBP",317,0)
+ F I=1:1  D  Q:DONE
+"RTN","KBBPXWBP",318,0)
+ . IF $P(P,",",I)="" S DONE=1 Q
+"RTN","KBBPXWBP",319,0)
+ . S X(I)=$P(P,",",I)
+"RTN","KBBPXWBP",320,0)
+ . IF X(I)?1"."1A.E D
+"RTN","KBBPXWBP",321,0)
+ . . S F1=$F(X(I),".")
+"RTN","KBBPXWBP",322,0)
+ . . S X(I)="."_R
+"RTN","KBBPXWBP",323,0)
+ . S S=S_X(I)_","
+"RTN","KBBPXWBP",324,0)
+ Q $E(S,1,$L(S)-1)
+"RTN","KBBPXWBP",325,0)
+ ;
+"RTN","KBBPXWBP",326,0)
+STRTCVR1 ; JLI 110606
+"RTN","KBBPXWBP",327,0)
+ ; SET UP DATA FOR OBTAINING FOREGROUND PROCESSING TIMES FOR COVERSHEET LOADS
+"RTN","KBBPXWBP",328,0)
+ ; REQUESTED FOR TIMING ON COMMODITY SERVERS, ETC.
+"RTN","KBBPXWBP",329,0)
+ N DFN,IP,HWND,NODE
+"RTN","KBBPXWBP",330,0)
+ ; ZEXCEPT: XWBCOVER - created here, will be killed when foreground processing is complete
+"RTN","KBBPXWBP",331,0)
+ S XWBCOVER=1
+"RTN","KBBPXWBP",332,0)
+ K ^TMP("XWBFGP",$J)
+"RTN","KBBPXWBP",333,0)
+ S DFN=XWB(5,"P",0),IP=XWB(5,"P",1),HWND=XWB(5,"P",2)
+"RTN","KBBPXWBP",334,0)
+ S NODE="ORWCV "_IP_"-"_HWND_"-"_DFN
+"RTN","KBBPXWBP",335,0)
+ S ^TMP("XWBFGP",$J,"NODE")=NODE ; SO WE CAN GET IT EASILY EACH PASS
+"RTN","KBBPXWBP",336,0)
+ S ^KMPTMP("KMPDT","ORWCV-FT",NODE)=XWBFGTIM_"^^"_$G(DUZ)_"^"_$G(IO("CLNM"))
+"RTN","KBBPXWBP",337,0)
+ Q
+"RTN","KBBPXWBP",338,0)
+ ;
+"RTN","KBBPXWBP",339,0)
+STRTCVR2(RETRNVAL) ; JLI 110606 - setup after coming back from initial start for coversheets
+"RTN","KBBPXWBP",340,0)
+ N XWBFGDIF,I
+"RTN","KBBPXWBP",341,0)
+ ; the return value contains ids for coversheets to be handled in the foreground separated by commas
+"RTN","KBBPXWBP",342,0)
+ F I=1:1 S XWBCSID=$P(RETRNVAL,";",I) Q:XWBCSID=""  D SETCSID(XWBCSID)
+"RTN","KBBPXWBP",343,0)
+ K XWBFGTIM
+"RTN","KBBPXWBP",344,0)
+ Q
+"RTN","KBBPXWBP",345,0)
+ ;
+"RTN","KBBPXWBP",346,0)
+SETCSID(XWBCSID) ; Obtain and setup selected coversheet ids for foreground processing
+"RTN","KBBPXWBP",347,0)
+ N I,RPC
+"RTN","KBBPXWBP",348,0)
+ ; The coversheet ID value (XWBCSID) will be used for a look-up on the "AC" cross-reference of file 101.24.
+"RTN","KBBPXWBP",349,0)
+ ; It is possible to have multiple entries with the same ID value, so checking that the 8th piece of the zero node of the value is a "C" will be required.
+"RTN","KBBPXWBP",350,0)
+ F I=0:0 S I=$O(^ORD(101.24,"AC",XWBCSID,I)) Q:I'>0  I $P(^ORD(101.24,I,0),U,8)="C" S RPC=$P(^(0),U,13),RPC=$P(^XWB(8994,RPC,0),U),^TMP("XWBFGP",$J,"TODO",RPC)=I Q
+"RTN","KBBPXWBP",351,0)
+ I $D(^TMP("XWBFGP",$J,"TODO","ORQQPX REMINDERS LIST")) D
+"RTN","KBBPXWBP",352,0)
+ .N XWBCSIEN S XWBCSIEN=^TMP("XWBFGP",$J,"TODO","ORQQPX REMINDERS LIST")
+"RTN","KBBPXWBP",353,0)
+ .S ^TMP("XWBFGP",$J,"TODO","ORQQPXRM REMINDERS APPLICABLE")=XWBCSIEN
+"RTN","KBBPXWBP",354,0)
+ .S ^TMP("XWBFGP",$J,"TODO","ORQQPXRM REMINDERS UNEVALUATED")=XWBCSIEN
+"RTN","KBBPXWBP",355,0)
+ .S ^TMP("XWBFGP",$J,"TODO","ORQQPXRM REMINDER CATEGORIES")=XWBCSIEN
+"RTN","KBBPXWBP",356,0)
+ .Q
+"RTN","KBBPXWBP",357,0)
+ Q
+"RTN","KBBPXWBP",358,0)
+ONECOVER ; called after data is returned to client
+"RTN","KBBPXWBP",359,0)
+ I "^ORQQPXRM REMINDERS APPLICABLE^ORQQPXRM REMINDERS UNEVALUATED^ORQQPXRM REMINDER CATEGORIES^"[U_XWBCSRPC_U K ^TMP("XWBFGP",$J,"TODO","ORQQPX REMINDERS LIST")
+"RTN","KBBPXWBP",360,0)
+ I XWBCSRPC="ORQQPX REMINDERS LIST" D
+"RTN","KBBPXWBP",361,0)
+ .K ^TMP("XWBFGP",$J,"TODO","ORQQPXRM REMINDERS APPLICABLE")
+"RTN","KBBPXWBP",362,0)
+ .K ^TMP("XWBFGP",$J,"TODO","ORQQPXRM REMINDERS UNEVALUATED")
+"RTN","KBBPXWBP",363,0)
+ .K ^TMP("XWBFGP",$J,"TODO","ORQQPXRM REMINDER CATEGORIES")
+"RTN","KBBPXWBP",364,0)
+ .Q
+"RTN","KBBPXWBP",365,0)
+ ;
+"RTN","KBBPXWBP",366,0)
+ K ^TMP("XWBFGP",$J,"TODO",XWBCSRPC),XWBCSRPC,XWBFGTIM
+"RTN","KBBPXWBP",367,0)
+ I '$D(^TMP("XWBFGP",$J,"TODO")) D ENDCOVER
+"RTN","KBBPXWBP",368,0)
+ Q
+"RTN","KBBPXWBP",369,0)
+ ;
+"RTN","KBBPXWBP",370,0)
+ENDCOVER ; no more cover sheets to process, so set final values, clean up
+"RTN","KBBPXWBP",371,0)
+ N I,NODE,X
+"RTN","KBBPXWBP",372,0)
+ S NODE=^TMP("XWBFGP",$J,"NODE")
+"RTN","KBBPXWBP",373,0)
+ S $P(^KMPTMP("KMPDT","ORWCV-FT",NODE),U,2)=$H
+"RTN","KBBPXWBP",374,0)
+ K XWBCOVER,^TMP("XWBFGP",$J)
+"RTN","KBBPXWBP",375,0)
+ ;
+"RTN","KBBPXWBP",376,0)
+ ;
+"RTN","KBBPXWBP",377,0)
+LOG(MSG) ;Record Debug Info
+"RTN","KBBPXWBP",378,0)
+ D:$G(XWBDEBUG) LOG^KBBPXWBD("KBBPXWBP-"_MSG)
+"RTN","KBBPXWBP",379,0)
+ Q
+"RTN","KBBPXWBP",380,0)
+ ;
+"RTN","KBBPXWBR")
+0^5^B25314239
+"RTN","KBBPXWBR",1,0)
+KBBPXWBR ;JIVEY@JIVEYSOFT.COM - Updated Read/Write for Broker TCP ;02/25/17  14:49
+"RTN","KBBPXWBR",2,0)
+ ;;1.0;KBBPTOOLS;;;Build 6
+"RTN","KBBPXWBR",3,0)
+ ;
+"RTN","KBBPXWBR",4,0)
+ ;based on and modified from the Department of Veteran Affairs routine XWBRW
+"RTN","KBBPXWBR",5,0)
+XWBRW ;ISF/RWF - Read/Write for Broker TCP ;09/29/08  14:41
+"RTN","KBBPXWBR",6,0)
+ ;;1.1;RPC BROKER;**35,49**;Mar 28, 1997;Build 2
+"RTN","KBBPXWBR",7,0)
+ I $T(EN^%ut)'="" D EN^%ut("KBBPUXWB")
+"RTN","KBBPXWBR",8,0)
+ Q
+"RTN","KBBPXWBR",9,0)
+ ;
+"RTN","KBBPXWBR",10,0)
+ ;XWBRBUF is global
+"RTN","KBBPXWBR",11,0)
+ ;SE is a flag to skip error for short read. From PRSB+41^XWBBRK
+"RTN","KBBPXWBR",12,0)
+BREAD(L,TO,SE) ;read tcp buffer, L is length, TO is timeout
+"RTN","KBBPXWBR",13,0)
+ N R,S,DONE,C,MODE,ISUTEST
+"RTN","KBBPXWBR",14,0)
+ I L'>0 Q ""
+"RTN","KBBPXWBR",15,0)
+ I $L(XWBRBUF)'<L S R=$E(XWBRBUF,1,L),XWBRBUF=$E(XWBRBUF,L+1,999999) Q R
+"RTN","KBBPXWBR",16,0)
+ S R="",DONE=0,L=+L,C=0
+"RTN","KBBPXWBR",17,0)
+ S TO=$S($G(TO)>0:TO,$G(XWBTIME(1))>0:XWBTIME(1),1:60)/2+1,MODE=(XWBOS="GT.M")
+"RTN","KBBPXWBR",18,0)
+ S ISUTEST=$$ISUTEST()
+"RTN","KBBPXWBR",19,0)
+ U XWBTDEV
+"RTN","KBBPXWBR",20,0)
+ F  D  Q:DONE
+"RTN","KBBPXWBR",21,0)
+ . S S=L-$L(R),R=R_$E(XWBRBUF,1,S),XWBRBUF=$E(XWBRBUF,S+1,999999)
+"RTN","KBBPXWBR",22,0)
+ . I ($L(R)=L)!(R[$C(4))!(C>TO) S DONE=1 Q
+"RTN","KBBPXWBR",23,0)
+ . I ISUTEST S XWBRBUF=$E($G(ISUVALUE),1,L),ISUVALUE=$E(ISUVALUE,L+1,999999)
+"RTN","KBBPXWBR",24,0)
+ . I 'ISUTEST,MODE R XWBRBUF#S:2 S:'$T C=C+1 ;p49
+"RTN","KBBPXWBR",25,0)
+ . I 'ISUTEST,'MODE R XWBRBUF:2 S:'$T C=C+1 ;p49
+"RTN","KBBPXWBR",26,0)
+ . S:$L(XWBRBUF) C=0 I $DEVICE S DONE=1 Q  ;p49
+"RTN","KBBPXWBR",27,0)
+ . I $G(XWBDEBUG)>2,$L(XWBRBUF) D LOG("rd: "_$E(XWBRBUF,1,252))
+"RTN","KBBPXWBR",28,0)
+ . Q
+"RTN","KBBPXWBR",29,0)
+ I $L(R)<L,'$G(SE) S $ECODE=",U411," ;Throw Error, Did not read full length
+"RTN","KBBPXWBR",30,0)
+ Q R
+"RTN","KBBPXWBR",31,0)
+ ;
+"RTN","KBBPXWBR",32,0)
+QSND(XWBR) ;QuXick send
+"RTN","KBBPXWBR",33,0)
+ D LOG("QSND XWBR="_$G(XWBR))
+"RTN","KBBPXWBR",34,0)
+ S XWBPTYPE=1,XWBERROR="",XWBSEC="" D SND
+"RTN","KBBPXWBR",35,0)
+ Q
+"RTN","KBBPXWBR",36,0)
+ ;
+"RTN","KBBPXWBR",37,0)
+ESND(XWBR) ;Send from ETRAP
+"RTN","KBBPXWBR",38,0)
+ S XWBPTYPE=1 D SND
+"RTN","KBBPXWBR",39,0)
+ Q
+"RTN","KBBPXWBR",40,0)
+ ;
+"RTN","KBBPXWBR",41,0)
+SND ; Send a responce
+"RTN","KBBPXWBR",42,0)
+ N XWBSBUF S XWBSBUF=""
+"RTN","KBBPXWBR",43,0)
+ U XWBTDEV
+"RTN","KBBPXWBR",44,0)
+ ;
+"RTN","KBBPXWBR",45,0)
+ D LOG("SND XWBTYPE="_$G(XWBPTYPE)_"  XWB(5,'P',0)="_$G(XWB(5,"P",0)))
+"RTN","KBBPXWBR",46,0)
+ D SNDERR ;Send any error info
+"RTN","KBBPXWBR",47,0)
+ D SNDDATA ;Send the data
+"RTN","KBBPXWBR",48,0)
+ ;D WRITE($C(4)) ;EOT
+"RTN","KBBPXWBR",49,0)
+ D WRITE($C(4)),WBF
+"RTN","KBBPXWBR",50,0)
+ ; if encoding sequences changed, update after sending update to client using current encoding
+"RTN","KBBPXWBR",51,0)
+ I $D(^XTMP("KBBPVAL","B",$J)) D
+"RTN","KBBPXWBR",52,0)
+ . K ^XTMP("KBBPVAL","A",$J)
+"RTN","KBBPXWBR",53,0)
+ . M ^XTMP("KBBPVAL","A",$J)=^XTMP("KBBPVAL","B",$J)
+"RTN","KBBPXWBR",54,0)
+ . K ^XTMP("KBBPVAL","B",$J)
+"RTN","KBBPXWBR",55,0)
+ . Q
+"RTN","KBBPXWBR",56,0)
+ Q
+"RTN","KBBPXWBR",57,0)
+ ;
+"RTN","KBBPXWBR",58,0)
+SNDDATA ;
+"RTN","KBBPXWBR",59,0)
+ N I,D
+"RTN","KBBPXWBR",60,0)
+ D LOG("SNDDATA^KBBPXWBR XWBPTYPE="_$G(XWBPTYPE)) ; DEBUG
+"RTN","KBBPXWBR",61,0)
+ ; -- single value
+"RTN","KBBPXWBR",62,0)
+ I $G(XWB(2,"RPC"))="XWB GET VARIABLE VALUE" D LOG("VARIABLE VALUE ="_$G(XWBR)) ; DEBUG
+"RTN","KBBPXWBR",63,0)
+ I XWBPTYPE=1 D WRITE($G(XWBR)) Q
+"RTN","KBBPXWBR",64,0)
+ ; -- table delimited by CR+LF
+"RTN","KBBPXWBR",65,0)
+ I XWBPTYPE=2 D  Q
+"RTN","KBBPXWBR",66,0)
+ . S I="" F  S I=$O(XWBR(I)) Q:I=""  D WRITE(XWBR(I)),WRITE($C(13,10))
+"RTN","KBBPXWBR",67,0)
+ ; -- word processing
+"RTN","KBBPXWBR",68,0)
+ I XWBPTYPE=3 D  Q
+"RTN","KBBPXWBR",69,0)
+ . ; JLI 160502 - Use #31 to mark ends of lines for word wrapping text
+"RTN","KBBPXWBR",70,0)
+ . S I="" F  S I=$O(XWBR(I)) Q:I=""  D WRITE(XWBR(I)_$S('XWBWRAP:$C(31),1:"")),WRITE($C(13,10)):XWBWRAP
+"RTN","KBBPXWBR",71,0)
+ ; -- global array
+"RTN","KBBPXWBR",72,0)
+ I XWBPTYPE=4 D  Q
+"RTN","KBBPXWBR",73,0)
+ . I $E($G(XWBR))'="^" Q
+"RTN","KBBPXWBR",74,0)
+ . S I=$G(XWBR) Q:I=""  S T=$E(I,1,$L(I)-1)
+"RTN","KBBPXWBR",75,0)
+ . ;Only send root node if non-null.
+"RTN","KBBPXWBR",76,0)
+ . ; JLI 160502 - Use #31 to mark ends of lines for word wrapping text
+"RTN","KBBPXWBR",77,0)
+ . I $D(@I)>10 S D=@I I $L(D) D WRITE(D_$S((D'=$C(13,10))&('XWBWRAP):$C(31),1:"")),WRITE($C(13,10)):(XWBWRAP&(D'=$C(13,10)))
+"RTN","KBBPXWBR",78,0)
+ . F  S I=$Q(@I) Q:I=""!(I'[T)  S D=@I D WRITE(D_$S((D'=$C(13,10))&('XWBWRAP):$C(31),1:"")),WRITE($C(13,10)):(XWBWRAP&(D'=$C(13,10)))
+"RTN","KBBPXWBR",79,0)
+ . I $D(@XWBR) K @XWBR
+"RTN","KBBPXWBR",80,0)
+ ; -- global instance
+"RTN","KBBPXWBR",81,0)
+ I XWBPTYPE=5 D  Q
+"RTN","KBBPXWBR",82,0)
+ . I $E($G(XWBR))'="^" Q
+"RTN","KBBPXWBR",83,0)
+ . S XWBR=$G(@XWBR) D WRITE(XWBR) Q
+"RTN","KBBPXWBR",84,0)
+ ; -- variable length records only good upto 255 char)
+"RTN","KBBPXWBR",85,0)
+ I XWBPTYPE=6 D
+"RTN","KBBPXWBR",86,0)
+ . S I="" F  S I=$O(XWBR(I)) Q:I=""  D WRITE($C($L(XWBR(I)))),WRITE(XWBR(I))
+"RTN","KBBPXWBR",87,0)
+ Q
+"RTN","KBBPXWBR",88,0)
+ ;
+"RTN","KBBPXWBR",89,0)
+SNDERR ;send error information
+"RTN","KBBPXWBR",90,0)
+ ;XWBSEC is the security packet, XWBERROR is application packet
+"RTN","KBBPXWBR",91,0)
+ N X
+"RTN","KBBPXWBR",92,0)
+ S $X=0 ;Start with zero
+"RTN","KBBPXWBR",93,0)
+ S X=$E($G(XWBSEC),1,255)
+"RTN","KBBPXWBR",94,0)
+ D WRITEERR($C($L(X))_X)
+"RTN","KBBPXWBR",95,0)
+ S X=$E($G(XWBERROR),1,255)
+"RTN","KBBPXWBR",96,0)
+ D WRITEERR($C($L(X))_X)
+"RTN","KBBPXWBR",97,0)
+ S XWBERROR="",XWBSEC="" ;clears parameters
+"RTN","KBBPXWBR",98,0)
+ Q
+"RTN","KBBPXWBR",99,0)
+ ;
+"RTN","KBBPXWBR",100,0)
+WRITEERR(STR) ; write a data string for security or application packet
+"RTN","KBBPXWBR",101,0)
+ N MAX S MAX=255 ;p49
+"RTN","KBBPXWBR",102,0)
+ I $G(XWBDEBUG)>2,$L(STR) D LOG("WRITEERR ("_$L(STR)_"): "_$E(STR,1,247))
+"RTN","KBBPXWBR",103,0)
+ F  Q:'$L(STR)  D
+"RTN","KBBPXWBR",104,0)
+ . I $L(XWBSBUF)+$L(STR)>MAX D WBF
+"RTN","KBBPXWBR",105,0)
+ . S XWBSBUF=XWBSBUF_$E(STR,1,MAX),STR=$E(STR,MAX+1,99999) ;p49
+"RTN","KBBPXWBR",106,0)
+ Q
+"RTN","KBBPXWBR",107,0)
+ ;
+"RTN","KBBPXWBR",108,0)
+WRITE(STR) ;Write a data string
+"RTN","KBBPXWBR",109,0)
+ ; send data for DSM (requires buffer flush (!) every 511 chars)
+"RTN","KBBPXWBR",110,0)
+ ;IF XWBOS="DSM"!(XWBOS="UNIX")!(XWBOS="OpenM) next line
+"RTN","KBBPXWBR",111,0)
+ N MAX S MAX=255 ;p49
+"RTN","KBBPXWBR",112,0)
+ N CR,LINWRAP S CR=$C(13)_$C(10),LINWRAP=$C(31)
+"RTN","KBBPXWBR",113,0)
+ ;S STR=$TR(STR,$C(0),"") ; remove null characters from string
+"RTN","KBBPXWBR",114,0)
+ I $G(XWBDEBUG)>2,$L(STR) D LOG("STR1 ("_$L(STR)_"): "_$E(STR,1,247))
+"RTN","KBBPXWBR",115,0)
+ I $G(XWB(2,"RPC"))'="KBBP RESET ENCODING",$L(STR),$E(STR,1,$L(STR))'=$C(0),$E(STR,1,$L(STR))'=CR D
+"RTN","KBBPXWBR",116,0)
+ . N LEN,TAG,STRT,TAG1 S TAG="",LEN=$L(STR),STRT=1,TAG1=""
+"RTN","KBBPXWBR",117,0)
+ . I $E(STR,1)=$C(24) S TAG1=$C(24),STRT=2
+"RTN","KBBPXWBR",118,0)
+ . I $E(STR,LEN)=$C(4) S TAG=$C(4),LEN=LEN-1
+"RTN","KBBPXWBR",119,0)
+ . I $E(STR,LEN)=$C(31) S TAG=$C(31),LEN=LEN-1
+"RTN","KBBPXWBR",120,0)
+ . I $E(STR,LEN)=$C(0) S TAG=$C(0),LEN=LEN-1
+"RTN","KBBPXWBR",121,0)
+ . I LEN=0 Q
+"RTN","KBBPXWBR",122,0)
+ . S STR=TAG1_$$ENCODE^KBBPXWBE($E(STR,STRT,LEN))_TAG
+"RTN","KBBPXWBR",123,0)
+ . D LOG("STR2 ("_$L(STR)_"): "_$E(STR,1,247))
+"RTN","KBBPXWBR",124,0)
+ . Q
+"RTN","KBBPXWBR",125,0)
+ F  Q:'$L(STR)  D
+"RTN","KBBPXWBR",126,0)
+ . I $L(XWBSBUF)+$L(STR)>MAX D WBF
+"RTN","KBBPXWBR",127,0)
+ . S XWBSBUF=XWBSBUF_$E(STR,1,MAX),STR=$E(STR,MAX+1,99999) ;p49
+"RTN","KBBPXWBR",128,0)
+ Q
+"RTN","KBBPXWBR",129,0)
+WBF ;Write Buffer Flush
+"RTN","KBBPXWBR",130,0)
+ Q:'$L(XWBSBUF)
+"RTN","KBBPXWBR",131,0)
+ I $G(XWBDEBUG)>2,$L(XWBSBUF) D LOG("wrt ("_$L(XWBSBUF)_"): "_$E(XWBSBUF,1,247))
+"RTN","KBBPXWBR",132,0)
+ I $$ISUTEST^%ut() S KBBPULIN=$G(KBBPULIN)+1,^TMP("KBBPXWBR",$J,"OUTPUT",KBBPULIN)=XWBSBUF_XWBT("BF") I 1
+"RTN","KBBPXWBR",133,0)
+ E  W XWBSBUF,@XWBT("BF")
+"RTN","KBBPXWBR",134,0)
+ S XWBSBUF=""
+"RTN","KBBPXWBR",135,0)
+ Q
+"RTN","KBBPXWBR",136,0)
+ ;
+"RTN","KBBPXWBR",137,0)
+LOG(MSG) ;Record Debug Info
+"RTN","KBBPXWBR",138,0)
+ D:$G(XWBDEBUG) LOG^KBBPXWBD("KBBPXWBR-"_MSG)
+"RTN","KBBPXWBR",139,0)
+ Q
+"RTN","KBBPXWBR",140,0)
+ ;
+"RTN","KBBPXWBR",141,0)
+ISUTEST() ;
+"RTN","KBBPXWBR",142,0)
+ N VAL S VAL=0
+"RTN","KBBPXWBR",143,0)
+ I $T(ISUTEST^%ut)'="" S VAL=$$ISUTEST^%ut()
+"RTN","KBBPXWBR",144,0)
+ Q VAL
+"RTN","KBBPXWBS")
+0^6^B8150647
+"RTN","KBBPXWBS",1,0)
+KBBPXWBS ;JLI/JIVEYSOFT.COM - RPCBroker Security;02/25/17  14:51
+"RTN","KBBPXWBS",2,0)
+ ;;0.0;KBBP;;;Build 6
+"RTN","KBBPXWBS",3,0)
+ ;based on and modified from the Department of Veteran Affairs routine XWBSEC
+"RTN","KBBPXWBS",4,0)
+XWBSEC ;SFISC/VYD - RPC BROKER ;04/22/16  21:27
+"RTN","KBBPXWBS",5,0)
+ ;;1.1;RPC BROKER;**3,6,10,35,53**;Mar 28, 1997;Build 4
+"RTN","KBBPXWBS",6,0)
+ ;
+"RTN","KBBPXWBS",7,0)
+ I $T(EN^%ut)'="" D EN^%ut("KBBPUXWB")
+"RTN","KBBPXWBS",8,0)
+ Q
+"RTN","KBBPXWBS",9,0)
+ ;
+"RTN","KBBPXWBS",10,0)
+CHKPRMIT(XWBRP) ;checks to see if remote procedure is permited to run
+"RTN","KBBPXWBS",11,0)
+ ;Input:  XWBRP - Remote procedure to check
+"RTN","KBBPXWBS",12,0)
+ I XWBRP="XWB CREATE CONTEXT" S XWBRP="KBBPXWB CREATE CONTEXT"
+"RTN","KBBPXWBS",13,0)
+ Q:$$KCHK^XUSRB("XUPROGMODE")
+"RTN","KBBPXWBS",14,0)
+ N ERR,XWBPRMIT,XWBALLOW
+"RTN","KBBPXWBS",15,0)
+ S U="^",XWBSEC="" ;Return XWBSEC="" if OK to run RPC
+"RTN","KBBPXWBS",16,0)
+ ;
+"RTN","KBBPXWBS",17,0)
+ ;In the beginning, when no DUZ is defined and no context exist, setup
+"RTN","KBBPXWBS",18,0)
+ ;default signon context
+"RTN","KBBPXWBS",19,0)
+ S:'$G(DUZ) DUZ=0,XQY0="XUS SIGNON"   ;set up default context
+"RTN","KBBPXWBS",20,0)
+ ;
+"RTN","KBBPXWBS",21,0)
+ ;These RPC's are allowed in any context, so we can just quit
+"RTN","KBBPXWBS",22,0)
+ ;I "^XWB IM HERE^XWB CREATE CONTEXT^XWB RPC LIST^XWB IS RPC AVAILABLE^XUS GET USER INFO^XUS GET TOKEN^XUS SET VISITOR^"[(U_XWBRP_U) Q  ;p53
+"RTN","KBBPXWBS",23,0)
+ D LOG^KBBPXWBD("CHKPRMIT XWBRP="_XWBRP)
+"RTN","KBBPXWBS",24,0)
+ I "^KBBPXWB RESET ENCODING^KBBPXWB SET ENCODING^KBBPXWB AV CODE^KBBPXWB GET TOKEN^KBBPXWB CREATE CONTEXT^"[(U_XWBRP_U) Q  ; JLI 160422 add ability to get encoding
+"RTN","KBBPXWBS",25,0)
+ I "^XWB IM HERE^XWB CREATE CONTEXT^XWB RPC LIST^XWB IS RPC AVAILABLE^XUS GET USER INFO^XUS GET TOKEN^XUS SET VISITOR^"[(U_XWBRP_U) Q
+"RTN","KBBPXWBS",26,0)
+ ;VistAlink RPC's that are always allowed.
+"RTN","KBBPXWBS",27,0)
+ I "^XUS KAAJEE GET USER INFO^XUS KAAJEE LOGOUT^"[(U_XWBRP_U) Q
+"RTN","KBBPXWBS",28,0)
+ ;
+"RTN","KBBPXWBS",29,0)
+ ;If in Signon context, only allow XUS and XWB rpc's
+"RTN","KBBPXWBS",30,0)
+ I $G(XQY0)="XUS SIGNON","^XUS^XWB^"'[(U_$E(XWBRP,1,3)_U) S XWBSEC="Application context has not been created!-A" Q
+"RTN","KBBPXWBS",31,0)
+ ;XQCS allows all users access to the XUS SIGNON context.
+"RTN","KBBPXWBS",32,0)
+ ;Also to any context in the XUCOMMAND menu.
+"RTN","KBBPXWBS",33,0)
+ ;
+"RTN","KBBPXWBS",34,0)
+ I $G(XQY0)'="" D  ;1.1*6. XQY0="" after XUS SIGNON context deleted.
+"RTN","KBBPXWBS",35,0)
+ . S XWBALLOW=$$CHK^XQCS(DUZ,$P(XQY0,U),XWBRP)         ;do the check
+"RTN","KBBPXWBS",36,0)
+ . S:'XWBALLOW XWBSEC=XWBALLOW
+"RTN","KBBPXWBS",37,0)
+ E  S XWBSEC="Application context has not been created!-B"
+"RTN","KBBPXWBS",38,0)
+ Q
+"RTN","KBBPXWBS",39,0)
+ ;
+"RTN","KBBPXWBS",40,0)
+ ;
+"RTN","KBBPXWBS",41,0)
+CRCONTXT(RESULT,OPTION) ;creates context for the passed in option
+"RTN","KBBPXWBS",42,0)
+ K XQY0,XQY N XWB1,XABPGMOD,XWBPGMOD S RESULT=0
+"RTN","KBBPXWBS",43,0)
+ ;S OPTION=$$DECRYP^XUSRB1(OPTION) ;S:OPTION="" OPTION="\" ; 160417 JLI commented out
+"RTN","KBBPXWBS",44,0)
+ I OPTION="" S XQY=0,XQY0="",RESULT=1 Q  ;delete context if "" passed in.
+"RTN","KBBPXWBS",45,0)
+ S XWB1=$$OPTLK^XQCS(OPTION)
+"RTN","KBBPXWBS",46,0)
+ I XWB1="" S (XWBSEC,RESULT)="The context '"_OPTION_"' does not exist on server." Q  ;P10
+"RTN","KBBPXWBS",47,0)
+ S RESULT=$$CHK^XQCS(DUZ,XWB1)
+"RTN","KBBPXWBS",48,0)
+ ;Access or programmer
+"RTN","KBBPXWBS",49,0)
+ S XWBPGMOD=$$KCHK^XUSRB("XUPROGMODE")
+"RTN","KBBPXWBS",50,0)
+ I RESULT!XWBPGMOD S XQY0=OPTION,XQY=XWB1,RESULT=1
+"RTN","KBBPXWBS",51,0)
+ E  S XWBSEC=RESULT
+"RTN","KBBPXWBS",52,0)
+ Q
+"RTN","KBBPXWBS",53,0)
+ ;
+"RTN","KBBPXWBS",54,0)
+ ;
+"RTN","KBBPXWBS",55,0)
+STATE(%) ;Return a state value
+"RTN","KBBPXWBS",56,0)
+ Q:'$L($G(%)) $G(XWBSTATE)
+"RTN","KBBPXWBS",57,0)
+ Q $G(XWBSTATE(%))
+"RTN","KBBPXWBS",58,0)
+ ;
+"RTN","KBBPXWBS",59,0)
+ ;
+"RTN","KBBPXWBS",60,0)
+SET(%,VALUE) ;Set the state variable
+"RTN","KBBPXWBS",61,0)
+ I $G(%)="" S XWBSTATE=VALUE
+"RTN","KBBPXWBS",62,0)
+ S XWBSTATE(%)=VALUE
+"RTN","KBBPXWBS",63,0)
+ Q
+"RTN","KBBPXWBS",64,0)
+KILL(%) ;Kill state variable
+"RTN","KBBPXWBS",65,0)
+ I $L($G(%)) K XWBSTATE(%)
+"RTN","KBBPXWBS",66,0)
+ Q
+"RTN","KBBPXWBT")
+0^7^B7053054
+"RTN","KBBPXWBT",1,0)
+KBBPXWBT ;JIVEYSOFT.COM/JOEL.IVEY - Handle recurrent connections with token ;02/23/17  18:57
+"RTN","KBBPXWBT",2,0)
+ ;;0.0;JLITOOLS;;;Build 6
+"RTN","KBBPXWBT",3,0)
+ D EN^%ut("KBBPUXWB")
+"RTN","KBBPXWBT",4,0)
+ Q
+"RTN","KBBPXWBT",5,0)
+ ;
+"RTN","KBBPXWBT",6,0)
+SAVEVARS ; save off local variables on temp exit
+"RTN","KBBPXWBT",7,0)
+ ; ZEXCEPT: KBBPXKEY - user identifier variable set on startup
+"RTN","KBBPXWBT",8,0)
+ N KBBPXWB1
+"RTN","KBBPXWBT",9,0)
+ I '$D(KBBPGLOB) N KBBPGLOB S KBBPGLOB=$NA(^XTMP("KBBPXWB1",KBBPXKEY,"VAR")) K @KBBPGLOB
+"RTN","KBBPXWBT",10,0)
+ S KBBPXWB1="%" F  M:$D(@KBBPXWB1) @KBBPGLOB@(KBBPXWB1)=@KBBPXWB1 S KBBPXWB1=$O(@KBBPXWB1) Q:KBBPXWB1=""
+"RTN","KBBPXWBT",11,0)
+ Q
+"RTN","KBBPXWBT",12,0)
+ ;
+"RTN","KBBPXWBT",13,0)
+VRESTORE ; restore local variables on re-entry
+"RTN","KBBPXWBT",14,0)
+ ; ZEXCEPT: KBBPXKEY - user identifier variable set on startup
+"RTN","KBBPXWBT",15,0)
+ N KBBPXWBX
+"RTN","KBBPXWBT",16,0)
+ I '$D(KBBPGLOB) N KBBPGLOB S KBBPGLOB=$NA(^XTMP("KBBPXWB1",KBBPXKEY,"VAR"))
+"RTN","KBBPXWBT",17,0)
+ S KBBPXWBX="" F  S KBBPXWBX=$O(@KBBPGLOB@(KBBPXWBX)) Q:KBBPXWBX=""  M @KBBPXWBX=@KBBPGLOB@(KBBPXWBX)
+"RTN","KBBPXWBT",18,0)
+ Q
+"RTN","KBBPXWBT",19,0)
+ ;
+"RTN","KBBPXWBT",20,0)
+SAVETMP ; save off data in ^TMP($J, and ^TMP(name,$J, entries
+"RTN","KBBPXWBT",21,0)
+ ; ZEXCEPT: KBBPXKEY - user identifier variable set on startup
+"RTN","KBBPXWBT",22,0)
+ N KBBPXWBX,ISUTEST
+"RTN","KBBPXWBT",23,0)
+ S ISUTEST=$$ISUTEST()
+"RTN","KBBPXWBT",24,0)
+ I '$D(KBBPGLOB) N KBBPGLOB S KBBPGLOB=$NA(^XTMP("KBBPXWB1",KBBPXKEY,"^TMP")) K @KBBPGLOB
+"RTN","KBBPXWBT",25,0)
+ S KBBPXWBX="" F  S KBBPXWBX=$O(^TMP($J,KBBPXWBX)) Q:KBBPXWBX=""  M @KBBPGLOB@("$J",KBBPXWBX)=^TMP($J,KBBPXWBX)
+"RTN","KBBPXWBT",26,0)
+ I 'ISUTEST K ^TMP($J)
+"RTN","KBBPXWBT",27,0)
+ S KBBPXWBX="" F  S KBBPXWBX=$O(^TMP(KBBPXWBX)) Q:KBBPXWBX=""  I $D(^TMP(KBBPXWBX,$J))>0 M @KBBPGLOB@(KBBPXWBX,"$J")=^TMP(KBBPXWBX,$J) I 'ISUTEST K ^TMP(KBBPXWBX,$J)
+"RTN","KBBPXWBT",28,0)
+ Q
+"RTN","KBBPXWBT",29,0)
+ ;
+"RTN","KBBPXWBT",30,0)
+RESTRTMP ; restore data into ^TMP($J, and ^TMP(name,$J, entries
+"RTN","KBBPXWBT",31,0)
+ ; ZEXCEPT: KBBPXKEY - user identifier variable set on startup
+"RTN","KBBPXWBT",32,0)
+ N KBBPXWBX,ISUTEST
+"RTN","KBBPXWBT",33,0)
+ S ISUTEST=$$ISUTEST()
+"RTN","KBBPXWBT",34,0)
+ I '$D(KBBPGLOB) N KBBPGLOB S KBBPGLOB=$NA(^XTMP("KBBPXWB1",KBBPXKEY,"^TMP"))
+"RTN","KBBPXWBT",35,0)
+ ; if not testing, clear any ^TMP($J, and ^TMP(name,$J, entries before restoring
+"RTN","KBBPXWBT",36,0)
+ I 'ISUTEST K ^TMP($J) S KBBPXWBX="" F  S KBBPXWBX=$O(^TMP(KBBPXWBX)) Q:KBBPXWBX=""  I $D(^TMP(KBBPXWBX,$J)) K ^($J)
+"RTN","KBBPXWBT",37,0)
+ I $D(@KBBPGLOB@("$J")) M ^TMP($J)=@KBBPGLOB@("$J") I 'ISUTEST K @KBBPGLOB@("$J")
+"RTN","KBBPXWBT",38,0)
+ S KBBPXWBX=""
+"RTN","KBBPXWBT",39,0)
+ F  S KBBPXWBX=$O(@KBBPGLOB@(KBBPXWBX)) Q:KBBPXWBX=""  I $D(@KBBPGLOB@(KBBPXWBX,"$J")) M ^TMP(KBBPXWBX,$J)=@KBBPGLOB@(KBBPXWBX,"$J") I 'ISUTEST K @KBBPGLOB@(KBBPXWBX,"$J")
+"RTN","KBBPXWBT",40,0)
+ Q
+"RTN","KBBPXWBT",41,0)
+ ;
+"RTN","KBBPXWBT",42,0)
+ISUTEST() ;
+"RTN","KBBPXWBT",43,0)
+ I $T(ISUTEST^%ut) Q $$ISUTEST^%ut()
+"RTN","KBBPXWBT",44,0)
+ Q 0
+"RTN","KBBPXWBX")
+0^8^B1161375
+"RTN","KBBPXWBX",1,0)
+KBBPXWBX ;JLI/JIVEYSOFT.COM - Additions for updated Broker Example application ;07/13/16  12:40
+"RTN","KBBPXWBX",2,0)
+ ;;0.0;KBBPTOOLS;;;Build 6
+"RTN","KBBPXWBX",3,0)
+ I $T(EN^%ut)'="" D EN^%ut("KBBPUXWB")
+"RTN","KBBPXWBX",4,0)
+ Q
+"RTN","KBBPXWBX",5,0)
+ ;
+"RTN","KBBPXWBX",6,0)
+ ; The BrokerExample application (accompanying the KBBPXWB routines and the
+"RTN","KBBPXWBX",7,0)
+ ; revised RPCBroker) has an added tab that is used to illustrate the
+"RTN","KBBPXWBX",8,0)
+ ; ability of the revised RPCBroker to maintain state even if the
+"RTN","KBBPXWBX",9,0)
+ ; initial or current job partition for the application on the server
+"RTN","KBBPXWBX",10,0)
+ ; is allowed to time out after a few minutes instead of maintaining a
+"RTN","KBBPXWBX",11,0)
+ ; connection across long periods of time.  The tab allows the user to
+"RTN","KBBPXWBX",12,0)
+ ; set a value to the variable KBBPVALU on the server, doing this also
+"RTN","KBBPXWBX",13,0)
+ ; results in the server connection being terminated after 30 seconds
+"RTN","KBBPXWBX",14,0)
+ ; of inactivity.  The user may then view the variable, or is able to
+"RTN","KBBPXWBX",15,0)
+ ; concatenate an additional string on the variable, or to reset the
+"RTN","KBBPXWBX",16,0)
+ ; variable, and then after a period of more than thirty seconds of
+"RTN","KBBPXWBX",17,0)
+ ; inactivity to repeat any of these actions on the variable value.  The
+"RTN","KBBPXWBX",18,0)
+ ; user is also reconnected with all variable values and values in
+"RTN","KBBPXWBX",19,0)
+ ; ^TMP($J, or ^TMP(value,$J, restored without requiring user interaction.
+"RTN","KBBPXWBX",20,0)
+ ;
+"RTN","KBBPXWBX",21,0)
+SETVALU(RESULT,VALUE) ;
+"RTN","KBBPXWBX",22,0)
+ ; RESULT - passed by reference - contains value of KBBPVALU on return
+"RTN","KBBPXWBX",23,0)
+ ; VALUE  - input - value that KBBPVALU is to set to have
+"RTN","KBBPXWBX",24,0)
+ S KBBPVALU=VALUE
+"RTN","KBBPXWBX",25,0)
+ D GETVALU(.RESULT)
+"RTN","KBBPXWBX",26,0)
+ Q
+"RTN","KBBPXWBX",27,0)
+ ;
+"RTN","KBBPXWBX",28,0)
+KILLVALU(RESULT) ;
+"RTN","KBBPXWBX",29,0)
+ ; RESULT - passed by reference - on return contains text indicating the variable KBBPVALU not present
+"RTN","KBBPXWBX",30,0)
+ K KBBPVALU
+"RTN","KBBPXWBX",31,0)
+ D GETVALU(.RESULT)
+"RTN","KBBPXWBX",32,0)
+ Q
+"RTN","KBBPXWBX",33,0)
+ ;
+"RTN","KBBPXWBX",34,0)
+CONVALU(RESULT,VALUE) ;
+"RTN","KBBPXWBX",35,0)
+ ; RESULT - passed by reference - contains value of KBBPVALU on return
+"RTN","KBBPXWBX",36,0)
+ ; VALUE  - input - value that is to be concatenated to any existing value of KBBPVALU
+"RTN","KBBPXWBX",37,0)
+ S KBBPVALU=$G(KBBPVALU)_VALUE
+"RTN","KBBPXWBX",38,0)
+ D GETVALU(.RESULT)
+"RTN","KBBPXWBX",39,0)
+ Q
+"RTN","KBBPXWBX",40,0)
+ ;
+"RTN","KBBPXWBX",41,0)
+GETVALU(RESULT) ;
+"RTN","KBBPXWBX",42,0)
+ ; RESULT - passed by reference - contains value of KBBPVALU on return or indication it is not present
+"RTN","KBBPXWBX",43,0)
+ S RESULT=$S('$D(KBBPVALU):"<KBBPVALU NOT PRESENT>",KBBPVALU="":"<NULL STRING>",1:KBBPVALU)
+"RTN","KBBPXWBX",44,0)
+ Q
+"VER")
+8.0^22.0
+**END**
+**END**
